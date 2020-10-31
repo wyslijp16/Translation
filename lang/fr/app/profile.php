@@ -1,14 +1,14 @@
 <?php
 
     $PROFILE_TITLE = "Salut, ";
-    $PROFILE_DESC = "C'est ta page de profil, c'est cool n'est-ce pas? Vous trouverez de nombreuses statistiques sur vos votes mais aussi vous pourrez ajuster vos paramètres!";
+    $PROFILE_DESC = "C'est ta page de profil, c'est cool n'est-ce pas? Vous trouverez de nombreuses statistiques sur vos votes, et vous pourrez également ajuster vos paramètres!";
 
     $PROFIL_CARD_1_VOTE = "Votes";
     $PROFIL_CARD_1_LEVEL = "Level";
     $PROFIL_CARD_1_COINS = "Coins";
 
     $PROFIL_CARD_2_TITLE = "Mon compte";
-    $PROFIL_CARD_2_DESC = "Information sur l'utilisateur <small>(Lié à votre compte Discord)</small>";
+    $PROFIL_CARD_2_DESC = "Informations sur l'utilisateur <small>(Lié à votre compte Discord)</small>";
     $PROFIL_CARD_2_1 = "Discord Identificator";
     $PROFIL_CARD_2_2 = "Email";
     $PROFIL_CARD_2_3 = "Pseudo";

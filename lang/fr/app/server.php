@@ -27,14 +27,14 @@
 
     $SERVER_HOME_CARD_3 = "Avis";
     $SERVER_HOME_CARD_3_ON = "Activated";
-    $SERVER_HOME_CARD_3_OFF = "Desactivate";
+    $SERVER_HOME_CARD_3_OFF = "Desactivated";
 
     $SERVER_HOME_CARD_4 = "XP";
 
 
     $SERVER_HOME_CARD_5 = "Les votes des 7 derniers jours";
-    
-    $SERVER_HOME_CARD_6 = "Vote Mensuel";
+
+    $SERVER_HOME_CARD_6 = "Votes Mensuels";
 
     /*-- END SERVER HOME PAGE --*/
 
@@ -61,7 +61,7 @@
     $SERVER_SETTINGS_5_2 = "Jeux";
     $SERVER_SETTINGS_5_3 = "Publicitaire";
     $SERVER_SETTINGS_5_4 = "Bot";
-    $SERVER_SETTINGS_5_5 = "RôlePlay";
+    $SERVER_SETTINGS_5_5 = "RolePlay";
     $SERVER_SETTINGS_5_6 = "WebSite";
     $SERVER_SETTINGS_5_7 = "Autre";
 
@@ -150,21 +150,21 @@
 
     $SERVER_GIVEAWAY_ADD_1 = "Créer un nouveau giveaway";
     $SERVER_GIVEAWAY_ADD_2 = "Qu'offrez-vous comme cadeau ? Éviter les romans, merci !";
-    $SERVER_GIVEAWAY_ADD_3 = "Combien de gagnant ?";
-    $SERVER_GIVEAWAY_ADD_4 = "Combien de vote est nécessaire pour participer ?";
-    $SERVER_GIVEAWAY_ADD_5 = "A quel moment le giveaway doit-il prendre fin ?";
+    $SERVER_GIVEAWAY_ADD_3 = "Combien de gagnants ?";
+    $SERVER_GIVEAWAY_ADD_4 = "Quelle est la quantité de votes nécessaire pour participer ?";
+    $SERVER_GIVEAWAY_ADD_5 = "Quand le giveaway doit-il prendre fin ?";
     $SERVER_GIVEAWAY_ADD_5_1 = "Dès (x) votes ce mois-ci !";
     $SERVER_GIVEAWAY_ADD_5_2 = "Dès (x) votes depuis notre inscription";
     $SERVER_GIVEAWAY_ADD_5_3 = "Dès qu'on atteint le niveau (x)";
     $SERVER_GIVEAWAY_ADD_5_4 = "Dès qu'on est dans le Top (x) (mensuel)";
     $SERVER_GIVEAWAY_ADD_5_6 = "Dans (x) jours";
-    $SERVER_GIVEAWAY_ADD_6 = "Quel valeur doit-on donner à X ?";
+    $SERVER_GIVEAWAY_ADD_6 = "Quelle valeur doit-on donner à X ?";
     $SERVER_GIVEAWAY_ADD_7 = "Lancer le giveaway !";
 
     $SERVER_GIVEAWAY_NEW = "Nouveau giveaway !";
 
     $SERVER_GIVEAWAY_LIST_1_TITLE = "Giveaway en cours";
-    $SERVER_GIVEAWAY_LIST_2_TITLE = "Giveaway terminés";
+    $SERVER_GIVEAWAY_LIST_2_TITLE = "Giveaway terminé";
     $SERVER_GIVEAWAY_LIST_1_1 = "Cadeau";
     $SERVER_GIVEAWAY_LIST_1_2 = "Gagnant(s)";
     $SERVER_GIVEAWAY_LIST_1_3 = "Fin à";

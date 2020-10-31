@@ -7,7 +7,7 @@
 	$AFFILIATE_CARD_2_TITLE = "INFORMATIONS";
 	$AFFILIATE_CARD_2_LEVEL = "LEVEL";
 	$AFFILIATE_CARD_2_IN = "affilié(s) sur"; // xx affilié(s) sur xx !
-	$AFFILIATE_CARD_2_END = "Nombre d'affilié :";
+	$AFFILIATE_CARD_2_END = "Nombre d'affiliés :";
 
 	$AFFILIATE_CARD_2_LINK = "Votre lien d'affilié :";
 

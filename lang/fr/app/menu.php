@@ -8,7 +8,7 @@
     $MENU_LOGOUT = "Déconnexion";
 
     $MENU_HOME = "Accueil";
-    $MENU_SERVERS = "Mes seveurs";
+    $MENU_SERVERS = "Mes serveurs";
     $MENU_STATS = "Mes stats";
     $MENU_HELP = "Support";
     $MENU_AFFILIATE = "Affiliation";
