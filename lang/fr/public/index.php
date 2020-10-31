@@ -5,7 +5,7 @@
 	// HAUT DE PAGE
 
 	$slogan = "Découvrez, trouvez et choisissez des serveurs !";
-	$subslogan = "Votez pour le meilleur serveur du mois, gagnez de la visibilité et des cadeaux !";
+	$subslogan = "Votez pour votre serveur favori, gagnez de la visibilité et des cadeaux !";
 	$searchdesc = "Que recherchez-vous ?";
 	$searchbutton = "Rechercher";
 	$discordowner = "Vous êtes propriétaire d'un serveur ?";
@@ -20,7 +20,7 @@
 	// CLASSEMENT - TOP
 
 	$t_title = "Classement";
-	$t_description = "DiscordTop propose plusieurs modes de promotion disponibles : un classement par vote, une liste par boost et un boost payant. Il ne vous reste plus qu'à conquérir le classement! C'est comme un jeu, mais avec une belle carotte à la fin !";
+	$t_description = "DiscordTop propose plusieurs modes de promotion : un classement par votes, une liste par boost et un boost payant. Il ne vous reste plus qu'à conquérir le classement ! C'est comme un jeu, mais avec une belle carotte à la fin !";
 	$t_type_all = "TOUS";
 	$t_type_community = "COMMUNAUTÉ";
 	$t_type_games = "JEUX";
@@ -31,7 +31,7 @@
 	$t_type_other = "AUTRE";
 	$t_button_moreinfo = "Voir la fiche";
 	$t_button_joinserver = "Rejoindre";
-	$t_seemore = "Voir plus ...";
-	$t_seemore_full = "Vous avez vu toute la liste, vous avez charbonner ...";
+	$t_seemore = "Voir plus...";
+	$t_seemore_full = "Vous avez vu toute la liste, vous avez charbonné...";
 
 ?>

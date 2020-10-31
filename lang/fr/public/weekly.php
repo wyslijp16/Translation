@@ -13,7 +13,7 @@
 	$T_NAME = "Nom";
 	$T_VOTE = "Votes";
 	$T_CREATED = "Inscription";
-	$T_COUNTRY = "¨Pays";
+	$T_COUNTRY = "Pays";
 
 	$I_VOTE = "vote";
 	$I_VOTES = "votes";
