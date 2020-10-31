@@ -20,6 +20,7 @@
 	$VOTE_MSG_6 = "<strong>Hop hop hop !</strong> Il me semble que tu participes déjà à ce giveaway, petit malin !";
 	$VOTE_MSG_7 = "<strong>Ah non !</strong> Vous n'avez pas suffisament voté pour participer au giveaway !";
 	$REPORT_MSG_1 = "Votre invitation est invalide, pourriez-vous la modifier s'il vous plaît ?";
+
 	$REPORT_MSG_2 = "Une notification a été envoyée au propriétaire du serveur !";
 	$REPORT_MSG_3 = "Notre équipe a bien reçu le rapport, nous étudierons la situation et nous sanctionnerons si nécessaire.";
 
