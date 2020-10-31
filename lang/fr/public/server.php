@@ -22,7 +22,6 @@
 	$REPORT_MSG_1 = "Votre invitation est invalide, pourriez-vous la modifier s'il vous plaît ?";
 	$REPORT_MSG_2 = "Une notification a été envoyée au propriétaire du serveur !";
 	$REPORT_MSG_3 = "Notre équipe a bien reçu le rapport, nous étudierons la situation et nous sanctionnerons si nécessaire.";
-    $WEBHOOK_TITLE = "Nouveau vote de";
 
 	$WEBHOOK_TITLE = "Nouveau vote de";
 	$WEBHOOK_PART_1 = "vient de voter pour";
