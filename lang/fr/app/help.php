@@ -1,7 +1,7 @@
 <?php
 
 	$HELP_INFO_TITLE = "Vous pouvez éventuellement poser votre question sur notre Discord ..?";
-	$HELP_INFO_DESC = "Nous vous conseillons de poser votre question sur notre Discord, notre communauté vous répondra sûrement plus rapidement! Si votre question nécessite un ticket, ils vous conseilleront d'en créer un, de plus, si votre question est sensible, ouvrez un ticket.";
+	$HELP_INFO_DESC = "Nous vous conseillons de poser votre question sur notre Discord, notre communauté vous répondra sûrement plus rapidement! Si votre question nécessite un ticket, ils vous conseilleront d'en créer un. De plus, si votre question est sensible, ouvrez un ticket pour que celle-ci ne puisse être vue que par notre support §";
 	$HELP_INFO_BUTTON = "Discuter sur Discord !";
 
 	$HELP_TITLE = "Centre d'aide";
@@ -29,6 +29,6 @@
 	$HELP_LIST_STATUT_2 = "Ouvert";
 	$HELP_LIST_STATUT_3 = "Fermé";
 
-	$HELP_LIST_SPAM = "S'il vous plaît éviter de spam et/ou de relancer inutilement. Nous avons déjà assez de travail, et on pourrait vous bannir ...";
+	$HELP_LIST_SPAM = "S'il vous plaît, évitez de spam et/ou de relancer inutilement. Nous avons déjà assez de travail, et on pourrait vous bannir...";
 
 ?>

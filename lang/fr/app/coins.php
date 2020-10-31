@@ -9,7 +9,7 @@
 	$COINS_DEDIPASS_TITLE = "Créditer mon compte avec Dédipass";
 	$COINS_DEDIPASS_BALANCE = "Mon compte :";
 	$COINS_DEDIPASS_FOR = "À quoi servent les coins ?";
-	$COINS_DEDIPASS_TEXT = "Pour acheter des mises en avant ainsi que des abonnements... il te faut des coins, les coins sont la monnaie virtuelle de DiscordTop, sans eux tu ne pourras pas obtenir des produits de notre boutique.";
+	$COINS_DEDIPASS_TEXT = "Pour acheter des mises en avant ainsi que des abonnements... il te faut des coins, les coins sont la monnaie virtuelle de DiscordTop, sans eux tu ne pourras pas obtenir les produits de notre boutique.";
 	$COINS_DEDIPASS_NAME = "Dédipass";
 
 
@@ -25,8 +25,8 @@
 	$COINS_TRANSFERT_TITLE = "Envoyer de l'argent à un autre utilisateur";
 	$COINS_TRANSFERT_BALANCE = "Mon compte :";
 	$COINS_TRANSFERT_FOR = "Les règles :";
-	$COINS_TRANSFERT_TEXT = "Vous pouvez uniquement transférer de l'argent à partir de 100 coins.<br>Attention, il est strictement interdit de demander à vos membres de payer à votre place des coins en échange de lot ou de cadeau ! C'est un don, pas un paiement !!!<br>Votre compte peut-être suspendu à tous moment en cas de non respect de cette règle majeure !";
-	$COINS_TRANSFERT_NAME = "Wow... Tu va transférer de l'argent a un copain !";
+	$COINS_TRANSFERT_TEXT = "Vous pouvez uniquement transférer de l'argent à partir de 100 coins.<br>Attention, il est strictement interdit de demander à vos membres de payer à votre place des coins en échange de lots ou de cadeaux ! C'est un don, pas un paiement !!!<br>Votre compte peut être suspendu à tout moment en cas de non-respect de cette règle majeure !";
+	$COINS_TRANSFERT_NAME = "Wow... Tu vas transférer de l'argent à un copain !";
 	$COINS_TRANSFERT_WHO = "Entrer un Identifiant Discord !";
 	$COINS_TRANSFERT_HOW = "Combien de coins ?!";
 	$COINS_TRANSFERT_BUTTON = "Transférer";

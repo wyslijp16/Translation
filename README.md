@@ -3,13 +3,13 @@
 ## Comment ajouter une nouvelle langue ?
 
 Tout d'abord, merci à tous pour votre investisement dans ce projet qui est le notre.
-DISCORDTOP.ORG doit continuer de mettre à jour son language et s'adapter à tous les pays du monde que l'on peux toucher. De ce fait, vous pouvez si vous le souhaitez ajouter des nouvelles langues qui devront être validé par notre équipe avant leur publication.
+DISCORDTOP.ORG doit continuer de mettre à jour son language et s'adapter à tous les pays du monde que l'on peut toucher. De ce fait, vous pouvez si vous le souhaitez ajouter des nouvelles langues qui devront être validées par notre équipe avant leur publication.
 
 Pour ajouter une nouvelle langue, il suffit juste de copier/coller le dossier qui se trouve dans /lang/, et il se nomme /fr/ ou /en/ si vous êtes plus à l'aise avec l'anglais.
 
-Coller le dans le dossier /lang/, modifier son nom avec les deux premières lettres du pays concerné et ensuite, vous n'aurez plus qu'à débuter la modification de tous les fichiers un par un en traduissant les phrases.
+Collez-le dans le dossier /lang/, modifiez son nom avec les deux premières lettres de la langue concernée et ensuite, vous n'aurez plus qu'à débuter la modification de tous les fichiers un par un en traduisant les phrases.
 
-Merci à tous pour votre aide et votre soutiens !
+Merci à tous pour votre aide et votre soutien !
 
 # DISCORDTOP.ORG - EN
 
