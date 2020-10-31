@@ -23,6 +23,12 @@
 	$REPORT_MSG_2 = "Une notification a été envoyer au propriétaire du serveur !";
 	$REPORT_MSG_3 = "Notre équipe à bien reçu le rapport, nous étudirons la situation et nous sanctionnerons si nécessaire.";
 
+	$WEBHOOK_TITLE = "Nouveau vote de";
+	$WEBHOOK_PART_1 = "vient de voter pour";
+	$WEBHOOK_PART_2 = "Nous avons désormais";
+	$WEBHOOK_PART_3 = "votes, merci !";
+	$WEBHOOK_FOOTER = "Message Automatique par DISCORDTOP.ORG";
+
 	//GIVEAWAY
 
 	$MSG_WINNERS = "Félicitation, vous avez gagner un giveaway, contact le propriétaire du serveur rapidement ! Vous avez gagner : ";
