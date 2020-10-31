@@ -20,20 +20,9 @@
 	$VOTE_MSG_6 = "<strong>Hop hop hop !</strong> Il me semble que tu participes déjà à ce giveaway, petit malin !";
 	$VOTE_MSG_7 = "<strong>Ah non !</strong> Vous n'avez pas suffisament voté pour participer au giveaway !";
 	$REPORT_MSG_1 = "Votre invitation est invalide, pourriez-vous la modifier s'il vous plaît ?";
-<<<<<<< HEAD
 	$REPORT_MSG_2 = "Une notification a été envoyée au propriétaire du serveur !";
 	$REPORT_MSG_3 = "Notre équipe a bien reçu le rapport, nous étudierons la situation et nous sanctionnerons si nécessaire.";
     $WEBHOOK_TITLE = "Nouveau vote de";
-=======
-	$REPORT_MSG_2 = "Une notification a été envoyer au propriétaire du serveur !";
-	$REPORT_MSG_3 = "Notre équipe à bien reçu le rapport, nous étudirons la situation et nous sanctionnerons si nécessaire.";
-  $WEBHOOK_TITLE = "Nouveau vote de";
->>>>>>> 590097b7d931d2fcf1cbb154da2365e10605f995
-
-  $WEBHOOK_PART_1 = "vient de voter pour";
-  $WEBHOOK_PART_2 = "Nous avons désormais";
-  $WEBHOOK_PART_3 = "votes, merci !";
-  $WEBHOOK_FOOTER = "Message Automatique par DISCORDTOP.ORG";
 
 	$WEBHOOK_TITLE = "Nouveau vote de";
 	$WEBHOOK_PART_1 = "vient de voter pour";
