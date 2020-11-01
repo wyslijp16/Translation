@@ -8,10 +8,10 @@
 	$FOOTER_SERVER_MEMBER = "Dashboard";
 	$FOOTER_SERVER_SERVER = "Ajoute tes serveurs";
 	$FOOTER_SERVER_BOT = "Ajoute le bot";
-	$FOOTER_SERVER_SUBSCRIPTION = "Abonnements";
+	$FOOTER_SERVER_DISCORD = "Notre Discord";
 
 	$FOOTER_LINKS_TITLE = "LIENS UTILES";
-	$FOOTER_LINKS_CAREERS = "Carrières";
+	$FOOTER_LINKS_TRANSLATE = "Traduire le site";
 	$FOOTER_LINKS_GUIDELINES = "Charte";
 	$FOOTER_LINKS_TOS = "Conditions d'Utilisation";
 	$FOOTER_LINKS_THANKS = "Merci !";
