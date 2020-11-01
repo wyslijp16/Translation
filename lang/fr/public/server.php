@@ -27,7 +27,7 @@
 	$WEBHOOK_TITLE = "Nouveau vote de";
 	$WEBHOOK_PART_1 = "vient de voter pour";
 	$WEBHOOK_PART_2 = "Nous avons désormais";
-	$WEBHOOK_PART_3 = "votes, merci !";
+	$WEBHOOK_PART_3 = "votes, merci beaucoup !";
 	$WEBHOOK_FOOTER = "Message Automatique par DISCORDTOP.ORG";
 
 	//GIVEAWAY
