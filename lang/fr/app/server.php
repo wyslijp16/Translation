@@ -110,7 +110,7 @@
     $SERVER_SUBUSERS_EDIT_BUTTON_1 = "Modifier le sous-utilisateur !";
     $SERVER_SUBUSERS_EDIT_BUTTON_2 = "Supprimer le sous-utilisateur !";
     $SERVER_SUBUSERS_2 = "Identifiant Discord de l'utilisateur (ID Discord)";
-    $SERVER_SUBUSERS_3 = "You are going to give access to this file to someone outside, be careful, we do not record the actions of our users! <b>You are responsible for your file and its content!</b>";
+    $SERVER_SUBUSERS_3 = "Vous allez donner l'accès à ce serveur à quelqu'un d'autre, nous n'enregistrons pas les actions des utilisateurs ! <b>Vous êtes responsables de votre fiche et de son contenu!</b>";
     $SERVER_SUBUSERS_4 = "Tous";
     $SERVER_SUBUSERS_5 = "Settings";
     $SERVER_SUBUSERS_6 = "Levels";
