@@ -7,7 +7,6 @@
 	$slogan = "Découvrez, trouvez et choisissez des serveurs !";
 	$subslogan = "Votez pour votre serveur favori, gagnez de la visibilité et des cadeaux !";
 	$searchdesc = "Que recherchez-vous ?";
-	$searchbutton = "Rechercher";
 	$discordowner = "Vous êtes propriétaire d'un serveur ?";
 	$discordownerbutton = "Ajouter mon serveur";
 
