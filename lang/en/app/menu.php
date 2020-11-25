@@ -1,6 +1,6 @@
 <?php
 
-    $MENU_WELCOME = "Bienvenue !";
+    $MENU_WELCOME = "Welcome !";
 
     $MENU_PROFILE = "Mon profil";
     $MENU_SETTINGS = "Paramètres";

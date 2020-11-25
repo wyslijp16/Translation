@@ -31,4 +31,4 @@
 
 	$HELP_LIST_SPAM = "Por favor, evite el spam y/o reiniciar inútilmente. Ya tenemos bastante trabajo, y podríamos prohibirle...";
 
-?
+?>
