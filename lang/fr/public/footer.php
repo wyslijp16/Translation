@@ -21,6 +21,6 @@
 	$FOOTER_COPYRIGHT = "&copy; Copyright <strong><span>DISCORDTOP</span></strong> 2020. Tout droit réservé";
 	$FOOTER_CREDIT = "Designed by ";
 
-	$FOOTER_DISCORD_BUTTON = "REJOINT-NOUS";
+	$FOOTER_DISCORD_BUTTON = "REJOINS-NOUS";
 
 ?>
