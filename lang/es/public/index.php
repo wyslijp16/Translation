@@ -5,14 +5,15 @@
 	// HAUT DE PAGE
 
 	$slogan = "¡Descubre, encuentra y elige servidores!";
-	$subslogan = "¡Vota por el mejor camarero del mes, gana visibilidad y regalos!";
 	$searchdesc = "¿Qué estás buscando?";
-	$discordowner = "¿Es dueño de un servidor?";
-	$discordownerbutton = "Añadir mi servidor";
+	$searchbutton = "Buscar";
+	$servercount_title = "Chercher parmi nos";
+	$servercount_title2 = "serveurs :";
+	$discordheart = "Coup de coeur de la semaine :";
+
 
 	// SERVEURS BOOSTÉS
 
-	$b_title = "Servidores impulsados";
 	$b_button_moreinfo = "Véase la hoja";
 	$b_button_joinserver = "Llegar";
 

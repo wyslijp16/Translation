@@ -5,14 +5,14 @@
 	// HAUT DE PAGE
 
 	$slogan = "Découvrez, trouvez et choisissez des serveurs !";
-	$subslogan = "Votez pour votre serveur favori, gagnez de la visibilité et des cadeaux !";
+	$servercount_title = "Chercher parmi nos";
+	$servercount_title2 = "serveurs :";
 	$searchdesc = "Que recherchez-vous ?";
-	$discordowner = "Vous êtes propriétaire d'un serveur ?";
-	$discordownerbutton = "Ajouter mon serveur";
+	$searchbutton = "Rechercher";
+	$discordheart = "Coup de coeur de la semaine :";
 
 	// SERVEURS BOOSTÉS
 
-	$b_title = "Serveurs Boostés";
 	$b_button_moreinfo = "Voir la fiche";
 	$b_button_joinserver = "Rejoindre";
 

@@ -16,7 +16,7 @@
 	$FOOTER_LINKS_TOS = "Conditions d'Utilisation";
 	$FOOTER_LINKS_THANKS = "Merci !";
 
-	$FOOTER_PARTNERS = "PARTENAIRES";
+	$FOOTER_LINKS_PARTNERS = "NOS PARTENAIRES";
 
 	$FOOTER_COPYRIGHT = "&copy; Copyright <strong><span>DISCORDTOP</span></strong> 2020. Tout droit réservé";
 	$FOOTER_CREDIT = "Designed by ";

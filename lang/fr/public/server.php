@@ -89,4 +89,19 @@
 	$S_MODAL_REVIEW_COMMENT = "Commentaire";
 	$S_MODAL_REVIEW_SEND = "Envoyer";
 
+	// SIGNALS
+
+	$S_BUTTON_SIGNAL = "Signaler ce serveur !";
+	$S_SIGNAL_WARNING = "Attention, DiscordTop ne peux pas bannir un compte Discord ni supprimer un serveur Discord. Nous agissons uniquement sur notre plateforme !<br>Pour tout problème lié à l'application Discord, merci de contacter <a href='https://support.discord.com/hc/en-us/requests/new'>le support de l'application Discord</a> !";
+	$S_SIGNAL_TITLE = "Type d'incident";
+	$S_SIGNAL_CONTENT_1 = "invitation Invalide";
+	$S_SIGNAL_CONTENT_2 = "Contenu Dangereux";
+	$S_SIGNAL_CONTENT_3 = "Contenu NSW sans avertissement !";
+	$S_SIGNAL_CONTENT_4 = "Suspicion de ForceVote/FakeVote";
+	$S_SIGNAL_CONTENT_5 = "Harcèlement ou spam";
+	$S_SIGNAL_CONTENT_6 = "Giveaway frauduleux (via DiscordTop !!)";
+	$S_SIGNAL_CONTENT_7 = "Autre contenu ne respectant pas notre charte";
+	$S_SIGNAL_SCREENS = "Un mot à rajouter, ou des preuves ?";
+	$S_SIGNAL_SEND = "Envoyer mon report !";
+
 ?>
