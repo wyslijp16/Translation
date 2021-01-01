@@ -1,13 +1,13 @@
 <?php
 
     $TITLE = "You have win a giveaway !!";
-    $P1 = "Nous sommes ravis de t'annoncer que tu as gagné un giveaway, c'est fou non ? Fais très attention cependant, il est important que tu ailles très rapidement récupérer ton lot avant que le propriétaire décide d'annuler ton gain !";
-    $P2 = "En cas de litige, DiscordTop n'est pas responsable des giveaways qui sont organisés sur nos sites CEPENDANT vous pouvez signaler un serveur qui effectue des giveaways frauduleux/trompeur. En fonction des situations, nous sanctionnerons ou pas.";
-    $P3= "Mais qu'as-tu gagner ?";
-    $P4 = "Tu as gagné un/une %gain% offert par le serveur %servername% !";
+    $P1 = "We're delighted to announce that you've won a giveaway, isn't it crazy? Be very careful though, it is important that you get your prize very quickly before the owner decides to cancel your win!";
+    $P2 = "In the event of a dispute, DiscordTop is not responsible for any giveaways that are held on our sites, HOWEVER you can report a server that performs fraudulent / deceptive giveaways. Depending on the situation, we will sanction or not.";
+    $P3= "But what did you gain ?";
+    $P4 = "You won a %gain% offered by the server %servername% !";
     $BUTTON= "CONTACT %SERVER_USERNAME% ! 🤪";
     
-    $FOOTER_TITLE = "Besoin d'aide ?";
-    $FOOTER_DESC = "Nous sommes là, prêt à t'aider !";
+    $FOOTER_TITLE = "Need Help ?";
+    $FOOTER_DESC = "We are here, ready to help !";
 
 ?>

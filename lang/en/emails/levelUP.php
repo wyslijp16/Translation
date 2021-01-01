@@ -1,11 +1,11 @@
 <?php
 
     $TITLE = "LEVEL UP 🎉";
-    $P1 = "Félicitation, ton serveur %servername% viens de passer level %levelinfo% !";
-    $P2 = "Dois-je te rappeler qu'au Level 20, tu pourras fêter chaque vote sur ton serveur grâce au webhook !";
+    $P1 = "Congratulation, your server %servername% just passed level %levelinfo% !";
+    $P2 = "Do I remind you that at Level 20, you can celebrate each vote on your server thanks to the webhook !";
 
-    $FOOTER_TITLE = "Besoin d'aide ?";
-    $FOOTER_DESC = "Nous sommes là, prêt à t'aider !";
+    $FOOTER_TITLE = "Need Help ?";
+    $FOOTER_DESC = "We are here, ready to help !";
 
 
 ?>
