@@ -1,18 +1,18 @@
 <?php
 
-    $TITLE = "Votre compte a été crédité ! 🤑";
-    $P1 = "Bonjour, %username% !";
-    $P2 = "Nous vous confirmons avec ce mail la reception de vos %CASH% CASH sur votre compte DiscordTop.";
-    $P3 = "Nous tenions également à vous remerciez, si nous existons, c'est en parti grace à des personnes comme vous !";
-    $P4 = "Vous pouvez réclamer un grade \"Client\" sur notre Discord, il suffit d'ouvrir un ticket et d'en faire la demande, c'est très simple et rapide pour pouvez arborer fièrement en grade client et vous la péter auprès de vos amis (encore faut-il en avoir) !";
-    $P5 = "Merci de votre soutiens,<br>Cordialement,<br>L'Équipe de DiscordTop.Org";
+    $TITLE = "Your account has been credited ! 🤑";
+    $P1 = "Hello, %username% !";
+    $P2 = "We confirm with this email the receipt of your %CASH% CASH on your DiscordTop account.";
+    $P3 = "We also wanted to thank you, if we exist, it is partly thanks to people like you!";
+    $P4 = "You can claim \"Customer\" rank on our discord, all you have to do is open a ticket and make the request, it's very simple and fast to be able to proudly display in client rank and you fart it with your friends (you still have to have some)! ";
+    $P5 = "Thanks for supports ,<br>Regards,<br>DiscordTop.org Team ";
 
-    $KNOW_TITLE = "Le saviez-vous ? 🤷‍♂️";
-    $KNOW_DESC = "Sur notre serveur Discord, il est régulier d'avoir des bons plans pour payer moins chère ! Entre les AirDrops et les cadeaux, qu'est-ce que vous attendez pour nous rejoindre ?";
-    $KNOW_BUTTON = "Rejoindre notre Discord !";
+    $KNOW_TITLE = "Did you know ? 🤷‍♂️";
+    $KNOW_DESC = "On our Discord server, it is regular to have good deals to pay less! Between AirDrops and gifts, what are you waiting for to join us?";
+    $KNOW_BUTTON = "Join our discord !";
 
-    $FOOTER_TITLE = "Besoin d'aide ?";
-    $FOOTER_DESC = "Nous sommes là, prêt à t'aider !";
+    $FOOTER_TITLE = "Need Help ?";
+    $FOOTER_DESC = "We are here, ready to help ! ";
 
 
 ?>
