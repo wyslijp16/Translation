@@ -1,19 +1,19 @@
 <?php
 
     $TITLE = "🤖 Control the world";
-    $P1 = "Vous faites fort dit donc ! En réalité, ce mail va vous donnez quelques astuces pour mieux le comprendre, car on le sait tous, les robots, c'est jamais simple ! 🥵";
-    $P2 = "Bon déjà, je vous arrête desuite, le bot ne va pas faire de miracle, nous essayons de faire en sorte qu'il supporte le mieux possible toute vos requêtes, mais au vu du nombre de requête effectué par heure, comprennez qu'il est quelques coup de chaud aux heures de pointes, il ne faut pas lui en vouloir, c'est l'être humain qui le maltraite... 😈";
-    $P3 = "Pour les petits nouveaux, sachez que DiscordTop a un seul objectif, rendre votre serveur visible, a tout prix ! De fait, vous allez très régulièrement voir apparaître de nouvelles mises à jour avec de nouvelles fonctionnalités car DiscordTop, c'est une usine à inover !";
-    $P4 = "Passons aux choses sérieuses, sans que vous l'avez vu, lorsque vous avez effectuer le bot sur votre serveur, une petite série de fonctionnalité a été activé, mais.. Quels sont-ils ? Patience, ça arrive ! En premier lieu, en toute discretion, une invitation a été créer par le bot et a aussitôt mis à jour votre fiche avec cet nouvel invitation !";
-    $P5 = "Vu qu'on vous voit venir à 100 kilomètres, nous avons ajouter la commande \"/config invite\" pour ceux qui par malheur n'ont pas voulu donner la permission au bot de créer une invitation !";
-    $P6 = "Ensuite, nous avons activé l'ensemble des fonctionnalités du bot, mais quelles sont-elles ? Bon, allons droit au but (les footeux, on vous voit), vous pouvez désormais effectuer votre premier boost (/boost), vos premiers votes (/vote) avec le bot ! Mais également consulter votre profil (/user) ou celui des autres (/user {identifiant_discord}), et attends, c'est pas fini ! Vous pouvez également consulter les performances de votre serveur(/server) et de ceux des autres (/server {identifiant_discord}) !";
-    $P7 = "Et pour ceux qui ont la flemme, je les comprends et c'est pourquoi nous avons ajouté la configuration de la langue de votre serveur (et bot) depuis le bot (/config lang { FR/EN/PL/ES })!";
-    $P8 = "Nous avons bien compris que vous êtes des énormes flemmard, pour la majorité en tous cas, et c'est pour ça que plus les semaines passeront, plus nous ajouterons des commandes utiles à tous ! Nous n'en diront pas plus !";
-    $P9 = "Pour finir, vous pouvez suivre les différents incidents et l'uptime du bot en cliquant sur le bouton ci-dessous !";
-    $BUTTON = "VOIR LES DERNIERS INCIDENTS";
+    $P1 = "You are doing so loudly! In reality, this email will give you some tips to better understand it, because we all know, robots, it's never easy! 🥵";
+    $P2 = "Well already, I'll stop you next, the bot is not going to do a miracle, we are trying to make sure that it supports all your requests as well as possible, but given the number of requests made per hour, understand that it is a few hot spells at peak hours, you shouldn't blame him, it's the human being who mistreats him ... 😈";
+    $P3 = "For the newbies, know that DiscordTop has one goal, to make your server visible, at all costs! In fact, you will very regularly see new updates appear with new features because DiscordTop is a factory to innovate!";
+    $P4 = "Let's get down to business, without you having seen it, when you performed the bot on your server, a small set of functionality was activated, but .. What are they? Patience, it happens! First, in all discretion, an invitation was created by the bot and immediately updated your file with this new invitation!";
+    $P5 = "Since we see you coming 100 kilometers away, we added the \"/config invite\" command for those who unfortunately didn't want to give the bot permission to create an invitation!";
+    $P6 = "Next, we activated all of the bot's features, but what are they? Well, let's get straight to the point (footballers, we can see you), you can now perform your first boost (/boost), your first votes (/vote) with the bot! But also consult your profile (/user) or that of the others (/user {identifier_discord}), and wait, it is not finished! You can also check the performance of your server (/server) and those of others (/server {identifier_discord})!";
+    $P7 = "And for those who are lazy, I understand them and that's why we added the language configuration of your server (and bot) from the bot (/config lang {FR / EN / PL / ES})! ";
+    $P8 = "We understand that you are huge lazy people, for the most part anyway, and that's why the more the weeks go by, the more we will add commands that are useful to all! We won't say more!";
+    $P9 = "Finally, you can follow the various incidents and the bot uptime by clicking on the button below!";
+    $BUTTON = "SEE THE LATEST INCIDENTS";
 
-    $FOOTER_TITLE = "Besoin d'aide ?";
-    $FOOTER_DESC = "Nous sommes là, prêt à t'aider !";
+    $FOOTER_TITLE = "Need Help ?";
+    $FOOTER_DESC = "We are here ready to help you !";
 
 
 ?>
