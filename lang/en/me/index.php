@@ -1,40 +1,40 @@
 <?php
 
 	// CARTE 1
-	$INDEX_CARD_1_TITLE = "Prêt pour l'affiliation ?";
-	$INDEX_CARD_1_DESC = "Nous proposons depuis peu un système d’affiliation ! Celui-ci vous permet de parrainer des utilisateurs en les invitant à s’inscrire sur notre plateforme !<br><br>Vous recevrez une comission sur les achats de vos filleuls et de l’xp supplémentaire !";
+	$INDEX_CARD_1_TITLE = "Ready for Affiliation?";
+	$INDEX_CARD_1_DESC = "We recently introduced an affiliate system! This allows you to sponsor users by inviting them to register on our platform! <br><br> You will receive a commission on the purchases of your referrals and additional xp!";
 
 	// AFFICHAGE DES SERVEURS
-	$INDEX_SERVERS_NEED_ACTIVATE = "ACTIVER CE SERVEUR";
-	$INDEX_SERVERS_COG = "CONFIGURER CE SERVEUR";
-	$INDEX_SERVERS_BAN = "SERVEUR SUSPENDU";
+	$INDEX_SERVERS_NEED_ACTIVATE = "ACTIVATE THIS SERVER";
+	$INDEX_SERVERS_COG = "CONFIGURE THIS SERVER";
+	$INDEX_SERVERS_BAN = "SUSPENDED SERVER";
 
 	// IF DON'T HAVE A SERVER
-	$INDEX_CARD_2_TITLE = "TU N’AS AUCUN SERVEUR SUR TON COMPTE DISCORD ...";
-	$INDEX_CARD_2_DESC = "Mais ne t’inquiète pas, on te propose à la place de consulter tes statistiques et de configurer ta fiche utilisateur, c’est sympa pour montrer comment tu es actif sur tes serveurs favoris !";
-	$INDEX_CARD_2_BUTTON = "REJOINDRE NOTRE COMMUNAUTÉ";
+	$INDEX_CARD_2_TITLE = "YOU HAVE NO SERVER ON YOUR DISCORD ACCOUNT";
+	$INDEX_CARD_2_DESC = "But don't worry, we offer you instead to view your statistics and configure your user profile, it's nice to show how you are active on your favorite servers!";
+	$INDEX_CARD_2_BUTTON = "JOIN OUR COMMUNITY";
 
 	// STATS DU COMPTE
-	$INDEX_CARD_3_TITLE_1 = "Tu as voté";
-	$INDEX_CARD_3_TITLE_2 = "fois ces 30 derniers jours !";
-	$INDEX_CARD_3_DESC = "Met tes statistiques de fou furieu en avant et vente toi auprès de tes amis avec ta page de profil ! Désormais, tu peux créer un profil publique et le partager avec tes amis !<br><br> Attention, un profil activé se retrouve visible par l’ensemble de nos visiteurs !";
-	$INDEX_CARD_3_BUTTON = "Mes paramètres";
+	$INDEX_CARD_3_TITLE_1 = "You voted";
+	$INDEX_CARD_3_TITLE_2 = "times in the last 30 days!"; // XX fois ces 30 derniers jours !
+	$INDEX_CARD_3_DESC = "Put your crazy stats forward and sell yourself to your friends with your profile page! Now, you can create a public profile and share it with your friends! <br><br> Please note, an activated profile is visible to all of our visitors!";
+	$INDEX_CARD_3_BUTTON = "My settings";
 
 	// CHARTS STATS SERVERS
-	$INDEX_CHART_1_TITLE = "Les votes de vos serveurs actifs ces 7 derniers jours";
+	$INDEX_CHART_1_TITLE = "The votes of your active servers over the last 7 days";
 
 	// CARD NO ACTIVE SERVERS
-	$INDEX_CARD_4_TITLE = "TU N’AS PAS ENCORE ACTIVER DE SERVEUR ...";
-	$INDEX_CARD_4_DESC = "Oops.. Normalement, il y a un magnifique graphique ici.. Il affiche les performances de ton/tes serveur(s) mais d'après nos informations, tu n'as activer aucun serveur...";
-	$INDEX_CARD_4_BUTTON = "Mes serveurs";
+	$INDEX_CARD_4_TITLE = "YOU HAVE NOT ACTIVATED A SERVER YET ...";
+	$INDEX_CARD_4_DESC = "Oops .. Normally there is a beautiful graph here .. It shows the performance of your server(s) but according to our information you have not activated any server ...";
+	$INDEX_CARD_4_BUTTON = "My servers";
 
 	// CHARTS STATS ACCOUNT
-	$INDEX_CHART_2_TITLE = "Vos votes de ces 7 derniers jours";
+	$INDEX_CHART_2_TITLE = "Your votes for the last 7 days";
 
 	// MODAL ADD BOT
-	$INDEX_MODAL_TITLE = "Souhaitez-vous ajouter notre bot ?";
-	$INDEX_MODAL_DESC = "Découvrer la puissance de voter depuis notre bot, de pouvoir (ré)générer une invitation en une seule commande ! <a href=\"https://status.watchbot.app/bot/620276319703269386\" target=\"blank\" style=\"margin-left: -10px;\"><img class=\"mt-3\" src=\"https://api.watchbot.app/bot/620276319703269386/widget?theme=dark\" alt=\"DISCORDTOP#6394\" /></a>";
-	$INDEX_MODAL_BUTTON_CONFIRM = "AJOUTER LE BOT";
-	$INDEX_MODAL_BUTTON_CANCEL = "NON, MERCI !";
-	$INDEX_MODAL_FOOTER = "<a href=\"https://discord.gg/zyjVqasJ8b\">Discuter avec notre communauté pour avoir leurs avis !</a>";
+	$INDEX_MODAL_TITLE = "Would you like to add our bot?";
+	$INDEX_MODAL_DESC = "Discover the power of voting from our bot, to be able to (re)generate an invitation in a single command! <a href=\"https://status.watchbot.app/bot/620276319703269386\" target=\"blank\" style=\"margin-left: -10px;\"><img class=\"mt-3\" src=\"https://api.watchbot.app/bot/620276319703269386/widget?theme=dark\" alt=\"DISCORDTOP#6394\" /></a>";
+	$INDEX_MODAL_BUTTON_CONFIRM = "ADD BOT";
+	$INDEX_MODAL_BUTTON_CANCEL = "NO, THANKS !";
+	$INDEX_MODAL_FOOTER = "<a href=\"https://discord.gg/zyjVqasJ8b\">Chat with our community to get their opinions !</a>";
 ?>

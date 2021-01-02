@@ -3,38 +3,38 @@
 	$SHOP_NAME = "Market";
 	$SHOP_MONEY_NAME = "CASH";
 
-	$SHOP_MENU_RETURN_TO_HOME = "Retourner à l'accueil";
-	$SHOP_MENU_SUB_SELECTED = "Serveur selectionné";
+	$SHOP_MENU_RETURN_TO_HOME = "Return to home";
+	$SHOP_MENU_SUB_SELECTED = "Selected server";
 	$SHOP_MENU_GIVE_A_GIFT = "You want offer a gift ?";
 	$SHOP_MENU_GIVE_A_GIFT_TITLE = "Choose a Discord Server ID<";
-	$SHOP_MENU_SHOP = "Boutique";
-	$SHOP_MENU_SUB_MORE_CASH = "Plus de cash";
+	$SHOP_MENU_SHOP = "Shop";
+	$SHOP_MENU_SUB_MORE_CASH = "More cash";
 	$SHOP_MENU_DEDIPASS = "Dédipass";
-	$SHOP_MENU_GFITCODE = "Code cadeau";
+	$SHOP_MENU_GFITCODE = "Gift code";
 
-	$SHOP_TIME_LIFETIME = "à vie";
-	$SHOP_TIME_YEAR = "par an";
-	$SHOP_TIME_WEEKLY = "par semaine";
+	$SHOP_TIME_LIFETIME = "for life";
+	$SHOP_TIME_YEAR = "per year";
+	$SHOP_TIME_WEEKLY = "per week";
 
-	$SHOP_ALREADY_HAVE = "Déjà possédé !";
-	$SHOP_ALREADY_DONTHAVE = "Acheter cet article";
-	$SHOP_ALREADY_INPROGRESS = "Renouveler l'achat";
+	$SHOP_ALREADY_HAVE = "Already owned !";
+	$SHOP_ALREADY_DONTHAVE = "Buy this item";
+	$SHOP_ALREADY_INPROGRESS = "Repeat purchase";
 
 
-	$SHOP_PRODUCT_BOOSTER_DESC = "Vous souhaitez rester une semaine sans effort en avant sur l'emplacement des boosts, votre serveur est prioritaire aux boosts classique !";
-	$SHOP_PRODUCT_STATS_DESC = "Vous souhaitez obtenir des statistiques en plus. Augmentez la visibilité de vos graphiques en remontant de 7 à 30 jours en arrière.";
-	$SHOP_PRODUCT_CUSTOM_LINK_DESC = "Vous souhaitez profitez d'un lien court et personnalisable pour le partager plus facilement à vos membres ? C'est possible !";
-	$SHOP_PRODUCT_BOOSTER_XP_DESC = "Vous souhaitez booster le level de votre serveur ? Profitez d'un booster d'Xp de + 30 % sur votre serveur pour chaque action réalisées !";
-	$SHOP_PRODUCT_BADGE_DESC = "Vous souhaitez arborer fièrement un badge en Édition Limité ? Vous avez raison ! Un nouveau badge est proposer tous les mois !";
-	$SHOP_PRODUCT_CUSTOM_INVITE_DESC = "Vous souhaitez profitez d'un lien d'invitation court et personnalisable pour le partager plus facilement à vos membres ? C'est possible !";
-	$SHOP_PRODUCT_DEVELOPERS_DESC = "Vous souhaitez pouvoir voter ou même booster votre serveur ! depuis votre propre bot ! Et bien ça sera bientôt possible !";
-	$SHOP_PRODUCT_DONATION_TITLE = "Tu souhaites nous faire un cadeau ?";
-	$SHOP_PRODUCT_DONATION_DESC = "Pour te remercier, nous offrons un grade Donator sur notre Discord, et si ton don est d'un montant supérieur à 1 000 CASH, un message sera envoyé avec une notification et ton pseudo sera mentionné !";
-	$SHOP_PRODUCT_DONATION_BUTTON = "Nous faire un don";
+	$SHOP_PRODUCT_BOOSTER_DESC = "You want to stay a week without effort forward on the location of the boosts, your server has priority over classic boosts!";
+	$SHOP_PRODUCT_STATS_DESC = "You want to get more statistics. Increase the visibility of your charts by going back 7 to 30 days.";
+	$SHOP_PRODUCT_CUSTOM_LINK_DESC = "Do you want to take advantage of a short and customizable link to share it more easily with your members? It's possible !";
+	$SHOP_PRODUCT_BOOSTER_XP_DESC = "Do you want to boost the level of your server? Enjoy an XP booster of + 30% on your server for each action carried out!";
+	$SHOP_PRODUCT_BADGE_DESC = "Do you want to proudly display a Limited Edition badge? You are right ! A new badge is offered every month!";
+	$SHOP_PRODUCT_CUSTOM_INVITE_DESC = "Do you want to take advantage of a short and customizable invitation link to share it more easily with your members? It's possible !";
+	$SHOP_PRODUCT_DEVELOPERS_DESC = "You want to be able to vote or even boost your server! from your own bot! Well it will soon be possible!";
+	$SHOP_PRODUCT_DONATION_TITLE = "You want to give us a gift ?";
+	$SHOP_PRODUCT_DONATION_DESC = "To thank you, we are offering a Donator rank on our Discord, and if your donation is greater than 1000 CASH, a message will be sent with a notification and your nickname will be mentioned!";
+	$SHOP_PRODUCT_DONATION_BUTTON = "Donate to us";
 
 
 	$SHOP_PROMO_TITLE = "Do you have a promotionnal code ?";
-	$SHOP_PROMO_NOCODE = "I DON'T YOU A CODE :'(";
+	$SHOP_PROMO_NOCODE = "I DON'T HAVE A CODE :'(";
 	$SHOP_PROMO_CODE = "CONFIRME MY CODE !";
 
 	$SHOP_DEDIPASS_TITLE = "More cash with Dédipass";
@@ -63,26 +63,26 @@
 	$SHOP_NOTIF_TITLE_7 = "Everything is fine ?";
 	$SHOP_NOTIF_DESC_7 = "You must have been wrong .. Try again !";
 
-	$SHOP_INVOICE_TITLE = "Récapitulatif de la commande";
-	$SHOP_INVOICE_DESC_1 = "Identifiant";
+	$SHOP_INVOICE_TITLE = "Order Summary";
+	$SHOP_INVOICE_DESC_1 = "Username";
 	$SHOP_INVOICE_DESC_2 = "Product Name";
 	$SHOP_INVOICE_DESC_3 = "Total";
 	$SHOP_INVOICE_SUBTOTAL = "Subtotal";
 	$SHOP_INVOICE_DISCOUNT = "Discount";
 	$SHOP_INVOICE_TOTAL = "Total";
 
-	$SHOP_INVOICE_INFO = "Attention : Les renouvellements NE sont PAS autmatique, cependant vous recevrez des emails 7 et 3 jours avant l'expiration de votre achat !";
-	$SHOP_INVOICE_INFO_COUNT_1 = "Après paiement, il restera ";
-	$SHOP_INVOICE_INFO_COUNT_2 = " CASH sur votre compte !";
-	$SHOP_INVOICE_INFO_COUNT_3 = "Il vous manque ";
-	$SHOP_INVOICE_INFO_COUNT_4 = " CASH sur votre compte pour acheter cet article !";
-	$SHOP_INVOICE_CGV = "J'accepte les <a href=\"https://discordtop.org/terms\" target=\"blank\">Conditions Générales de Vente</a> !";
-	$SHOP_INVOICE_CANCEL = "Annuler";
-	$SHOP_INVOICE_CONFIRM = "Confirmer";
-	$SHOP_INVOICE_CONFIRM_SUBJECT_MAIL = "Merci pour votre achat sur DISCORDTOP !";
-	$SHOP_INVOICE_BUY = "Acheter des CASH !";
+	$SHOP_INVOICE_INFO = "Attention: Renewals are NOT automatic, however you will receive emails 7 and 3 days before your purchase expires!";
+	$SHOP_INVOICE_INFO_COUNT_1 = "After payment, there will remain ";
+	$SHOP_INVOICE_INFO_COUNT_2 = " CASH on your account!";
+	$SHOP_INVOICE_INFO_COUNT_3 = "You miss ";
+	$SHOP_INVOICE_INFO_COUNT_4 = " CASH on your account to purchase this item !";
+	$SHOP_INVOICE_CGV = "I accept the <a href=\"https://discordtop.org/terms\" target=\"blank\">Terms of Sales</a> !";
+	$SHOP_INVOICE_CANCEL = "Cancel";
+	$SHOP_INVOICE_CONFIRM = "Confirm";
+	$SHOP_INVOICE_CONFIRM_SUBJECT_MAIL = "Thank you for your purchase on DISCORDTOP !";
+	$SHOP_INVOICE_BUY = "Buy CASH !";
 
-	$SHOP_INVOICE_EMPTY = "Votre panier est vide...";
-	$SHOP_INVOICE_EMPTY_BUTTON = "Un peu de shopping ?";
+	$SHOP_INVOICE_EMPTY = "Your basket is empty...";
+	$SHOP_INVOICE_EMPTY_BUTTON = "A little shopping ?";
 
 ?>

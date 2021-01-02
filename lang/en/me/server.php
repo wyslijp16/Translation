@@ -4,20 +4,20 @@
 
     /*-- SERVER NAVBAR --*/
 
-    $SERVER_MENU_BACK_TO_HOME = "Retourner à l'accueil";
-    $SERVER_MENU_SELECTED_SERVER = "Serveur selectionné";
+    $SERVER_MENU_BACK_TO_HOME = "Return to home";
+    $SERVER_MENU_SELECTED_SERVER = "Selected server";
     $SERVER_MENU_SERVER_TITLE = "SERVER SETTINGS";
-    $SERVER_MENU_HOME = "ACCUEIL";
+    $SERVER_MENU_HOME = "HOME";
     $SERVER_MENU_SETTINGS = "CONFIGURATIONS";
-    $SERVER_MENU_STATS = "STATSISTIQUES";
-    $SERVER_MENU_HISTORY = "HISTORIQU DES VOTES";
+    $SERVER_MENU_STATS = "STATSISTICS";
+    $SERVER_MENU_HISTORY = "HISTORY OF VOTES";
     $SERVER_MENU_GIVEAWAY = "GIVEAWAYS";
 
     /*-- MODAL VALIDATION --*/
-    $SERVER_MODAL_TITLE = "Souhaitez-vous confirmer les modifications apportées ?";
-    $SERVER_MODAL_BUTTON = "Enregistrer les modifications...";
-    $SERVER_NOTIF_SUCCESS = "Tout est ok !";
-    $SERVER_NOTIF_ERROR = "Une erreur s\'est produite, veuillez réessayer !";
+    $SERVER_MODAL_TITLE = "Would you like to confirm the changes made ?";
+    $SERVER_MODAL_BUTTON = "Save Changes...";
+    $SERVER_NOTIF_SUCCESS = "Everything is ok !";
+    $SERVER_NOTIF_ERROR = "An error is reported, please try again !";
 
 
 
@@ -28,14 +28,14 @@
 
     $SERVER_HOME_CARD_2_TITLE = "YOUR SERVER WAS SUSPENDED !";
     $SERVER_HOME_CARD_2_DESC = "Your server has been suspended ! Click on me for more information !";
-    $SELECT_SERVERS_BAN_1 = "Nom";
+    $SELECT_SERVERS_BAN_1 = "Name";
     $SELECT_SERVERS_BAN_2 = "Type";
-    $SELECT_SERVERS_BAN_3 = "Motif";
-    $SELECT_SERVERS_BAN_4 = "Preuve";
-    $SELECT_SERVERS_BAN_5 = "Durée";
-    $SELECT_SERVERS_BAN_6 = "Date de fin";
-    $SELECT_SERVERS_BAN_CLOSE = "Fermer";
-    $SELECT_SERVERS_BAN_APPEL = "Faire appel";
+    $SELECT_SERVERS_BAN_3 = "Reason";
+    $SELECT_SERVERS_BAN_4 = "Proof";
+    $SELECT_SERVERS_BAN_5 = "Duration";
+    $SELECT_SERVERS_BAN_6 = "End date";
+    $SELECT_SERVERS_BAN_CLOSE = "Close";
+    $SELECT_SERVERS_BAN_APPEL = "Appeal";
 
     $SERVER_HOME_CARD_3_TITLE = "WANT MORE VISIBILITY?";
     $SERVER_HOME_CARD_3_DESC = "Buy a boost for 3 990 CASH, save - 10% with the code";
@@ -72,57 +72,57 @@
 
     /*-- SERVER SETTINGS PAGE --*/
 
-    $SERVER_SETTINGS_TITLE = "STATUT DU SERVEUR";
+    $SERVER_SETTINGS_TITLE = "SERVER STATUS";
 
-    $SERVER_SETTINGS_CARD_1_TITLE = "Nouveau nom/logo? Il n'a pas changer ?";
-    $SERVER_SETTINGS_CARD_1_DESC = "Essayer de vous déconnectez/reconnectez, ça permet de mettre à jour les informations tranquillement !";
+    $SERVER_SETTINGS_CARD_1_TITLE = "New name/logo? He did not change ?";
+    $SERVER_SETTINGS_CARD_1_DESC = "Trying to disconnect/reconnect, it allows you to update the information quietly!";
 
-    $SERVER_SETTINGS_CARD_2_TITLE = "Nous avons remarquer que vous n'utilisiez pas notre bot ..";
-    $SERVER_SETTINGS_CARD_2_DESC = "Saviez-vous que notre bot vous permet de mettre en avant votre serveur toutes les heures gratuitement ?";
-    $SERVER_SETTINGS_CARD_2_BUTTON = "AJOUTER LE BOT";
+    $SERVER_SETTINGS_CARD_2_TITLE = "We noticed that you are not using our bot ..";
+    $SERVER_SETTINGS_CARD_2_DESC = "Did you know that our bot allows you to highlight your server every hour for free?";
+    $SERVER_SETTINGS_CARD_2_BUTTON = "ADD BOT";
 
     $SERVER_SETTINGS_CARD_3_COG = "Configuration";
 
     $SERVER_SETTINGS_CARD_3_TITLE = "Type";
-    $SERVER_SETTINGS_CARD_3_DESC = "Veuillez noter que les sociétés/associations sont considérés comme une communauté. Cependant, des prochaines mises à jours permettront d'avoir des avantages propres à chaque type de serveur.";
-    $SERVER_SETTINGS_3_1 = "Communautaire";
-    $SERVER_SETTINGS_3_2 = "Jeux";
-    $SERVER_SETTINGS_3_3 = "Publicitaire";
+    $SERVER_SETTINGS_CARD_3_DESC = "Please note that companies/associations are considered a community. However, future updates will provide advantages specific to each type of server.";
+    $SERVER_SETTINGS_3_1 = "Community";
+    $SERVER_SETTINGS_3_2 = "Games";
+    $SERVER_SETTINGS_3_3 = "Advertising";
     $SERVER_SETTINGS_3_4 = "Bot";
     $SERVER_SETTINGS_3_5 = "RolePlay";
     $SERVER_SETTINGS_3_6 = "WebSite";
-    $SERVER_SETTINGS_3_7 = "Autre";
+    $SERVER_SETTINGS_3_7 = "Other";
 
     $SERVER_SETTINGS_CARD_4_TITLE = "Tags";
-    $SERVER_SETTINGS_CARD_4_DESC = "Ajouter quelques étiquettes de serveur vous permettra d'être plus facilement trouvable sur notre moteur de recherche, mais seulement le notre, ils seront utilisés pour votre référencement Google !";
+    $SERVER_SETTINGS_CARD_4_DESC = "Adding a few server labels will make you more easily findable on our search engine, but only ours, they will be used for your Google SEO!";
 
     $SERVER_SETTINGS_CARD_5_TITLE = "Invitation";
-    $SERVER_SETTINGS_CARD_5_DESC = "Si vous avez ajouter le bot, il est normal que vous ne puissiez pas modifier l'invitation !";
+    $SERVER_SETTINGS_CARD_5_DESC = "If you added the bot, it's normal that you can't edit the invitation!";
 
-    $SERVER_SETTINGS_CARD_6_TITLE = "Langue";
-    $SERVER_SETTINGS_CARD_6_DESC = "Par défaut, le serveur a la même langue que votre compte. Vous pouvez le modifier ici mais également depuis le bot !";
+    $SERVER_SETTINGS_CARD_6_TITLE = "Language";
+    $SERVER_SETTINGS_CARD_6_DESC = "By default, the server has the same language as your account. You can modify it here but also from the bot!";
 
-    $SERVER_SETTINGS_CARD_7_TITLE = "Méthode de Vote";
-    $SERVER_SETTINGS_CARD_7_DESC = "Si vous préférez qu'il ne soit pas nécessaire d'être inscrit pour voter, à vous de voir ! Cependant, vous ne pourrez plus voter via le bot !<br><i style=\"font-size: 10px;\">(Oui : Connexion nécessaire)</i>";
+    $SERVER_SETTINGS_CARD_7_TITLE = "Voting method";
+    $SERVER_SETTINGS_CARD_7_DESC = "If you prefer that it is not necessary to be registered to vote, it's up to you! However, you will no longer be able to vote through the bot !<br><i style=\"font-size: 10px;\">(Yes : Login required)</i>";
 
-    $SERVER_SETTINGS_CARD_8_TITLE = "Recevoir des avis";
-    $SERVER_SETTINGS_CARD_8_DESC = "Vous souhaitez donner la parole à vos membres, quel bonne idée ! Sachez que notre équipe vérifie tous les commentaires avant de les publiés !";
+    $SERVER_SETTINGS_CARD_8_TITLE = "Receive notices";
+    $SERVER_SETTINGS_CARD_8_DESC = "You want to give voice to your members, what a good idea! Be aware that our team checks all comments before posting!";
 
     $SERVER_SETTINGS_CARD_9_TITLE = "Webhook";
     $SERVER_SETTINGS_CARD_9_LOCKED = "Unlock to Level 20 !";
-    $SERVER_SETTINGS_CARD_9_DESC = "Envie de crier et de danser dès qu'une personne vote pour votre serveur ? C'est possible ! (Vous avez besoin d'aide ? Rejoignez notre Discord, notre équipe vous aidera !).";
+    $SERVER_SETTINGS_CARD_9_DESC = "Feel like screaming and dancing whenever someone votes for your server? It's possible ! (Need help? Join our Discord, our team will help you!).";
 
-    $SERVER_SETTINGS_CARD_10_TITLE = "Lien Personnalisé";
+    $SERVER_SETTINGS_CARD_10_TITLE = "Custom Link";
     $SERVER_SETTINGS_CARD_10_LOCKED = "Unlock this for 24 990 <sup>CASH</sup> and have access to this for lifetime !";
-    $SERVER_SETTINGS_CARD_10_DESC = "Marre de devoir retenir votre lien de vote ? Utilisez donc nos liens personnalisés ! <i>Example : https://dtop.fr/dt</i> !<br>Votre lien actuel :";
+    $SERVER_SETTINGS_CARD_10_DESC = "Tired of having to remember your voting link? So use our personalized links! <i>Example : https://dtop.fr/dt</i> !<br>Your current link :";
 
-    $SERVER_SETTINGS_CARD_11_TITLE = "Description courte";
-    $SERVER_SETTINGS_CARD_11_DESC = "Vous avez 255 caractères pour décrire votre serveur, cette description sera utilisé pour votre référencement sur DiscordTop mais également sur Google !";
+    $SERVER_SETTINGS_CARD_11_TITLE = "short description";
+    $SERVER_SETTINGS_CARD_11_DESC = "You have 255 characters to describe your server, this description will be used for your referencing on DiscordTop but also on Google!";
 
     $SERVER_SETTINGS_CARD_12_TITLE = "Description";
-    $SERVER_SETTINGS_CARD_12_DESC = "Profitez un peu pour vous amusez, et décrivez votre serveur dans ces moindres détails ! Tous ce que l'on vous demandez, c'est de respecter notre charte !";
+    $SERVER_SETTINGS_CARD_12_DESC = "Enjoy a little fun, and describe your server in great detail! All we ask you is to respect our charter!";
 
-    $SERVER_SETTINGS_DELETE_BUTTON = "Supprimer ce serveur !";
+    $SERVER_SETTINGS_DELETE_BUTTON = "Delete this server !";
 
 
 
@@ -132,11 +132,11 @@
 
     /*-- SERVER LEVELS PAGE --*/
 
-    $SERVER_LEVELS_TITLE = "Tu es level";
-    $SERVER_LEVELS_NEXT = "Prochain Level";
+    $SERVER_LEVELS_TITLE = "You are level";
+    $SERVER_LEVELS_NEXT = "Next level";
     $SERVER_LEVELS_XP = "XP";
-    $SERVER_LEVELS_BOOSTER = "Votre booster";
-    $SERVER_LEVELS_LOGS_TITLE = "Logs d'XP";
+    $SERVER_LEVELS_BOOSTER = "Your boost";
+    $SERVER_LEVELS_LOGS_TITLE = "XP Logs";
     $SERVER_LEVELS_LOGS_1 = "Pseudo"; //username
     $SERVER_LEVELS_LOGS_2 = "Action";
     $SERVER_LEVELS_LOGS_3 = "Date";
@@ -145,41 +145,41 @@
 
     /*-- SERVER STATS PAGE --*/
 
-    $SERVER_STATS__TITLE = "STATISTIQUES PUBLIQUES";
+    $SERVER_STATS__TITLE = "PUBLIC STATISTICS";
 
-    $SERVER_STATS_1 = "Les votes des 7 derniers jours";
-    $SERVER_STATS_2 = "Les votes par mois";
-    $SERVER_STATS_3 = "Les votes des 30 derniers jours";
+    $SERVER_STATS_1 = "The votes of the last 7 days";
+    $SERVER_STATS_2 = "Votes per month";
+    $SERVER_STATS_3 = "The votes of the last 30 days";
 
-    $SERVER_STATS_4 = "L'impact des 7 derniers jours";
-    $SERVER_STATS_5 = "L'impact par mois";
-    $SERVER_STATS_6 = "L'impact des 30 derniers jours";
+    $SERVER_STATS_4 = "The impact of the last 7 days";
+    $SERVER_STATS_5 = "Impact per month";
+    $SERVER_STATS_6 = "The impact of the last 30 days";
 
-    $SERVER_STATS_7 = "Visiteurs Uniques des 7 derniers jours";
-    $SERVER_STATS_8 = "Visiteurs Uniques par mois";
-    $SERVER_STATS_9 = "Visiteurs Uniques des 30 derniers jours";
+    $SERVER_STATS_7 = "Unique Visitors of the last 7 days";
+    $SERVER_STATS_8 = "Unique visitors per month";
+    $SERVER_STATS_9 = "Unique Visitors of the last 30 days";
 
     /*-- END SERVER STATS PAGE --*/
 
     /*-- SERVER SUBUSERS PAGE --*/
 
-    $SERVER_SUBUSERS_ADD = "Ajouter un nouveau sous-utilisateur";
-    $SERVER_SUBUSERS_EDIT = "Modifier un sous-utilisateur";
-    $SERVER_SUBUSERS_ADD_BUTTON = "Ajouter le sous-utilisateur !";
-    $SERVER_SUBUSERS_EDIT_BUTTON_1 = "Modifier le sous-utilisateur !";
-    $SERVER_SUBUSERS_EDIT_BUTTON_2 = "Supprimer le sous-utilisateur !";
-    $SERVER_SUBUSERS_2 = "Identifiant Discord de l'utilisateur (ID Discord)";
-    $SERVER_SUBUSERS_3 = "Vous allez donner l'accès à ce serveur à quelqu'un d'autre, nous n'enregistrons pas les actions des utilisateurs ! <b>Vous êtes responsables de votre fiche et de son contenu!</b>";
-    $SERVER_SUBUSERS_4 = "Tous";
+    $SERVER_SUBUSERS_ADD = "Add a new sub-user";
+    $SERVER_SUBUSERS_EDIT = "Modify a sub-user";
+    $SERVER_SUBUSERS_ADD_BUTTON = "Add the subuser!";
+    $SERVER_SUBUSERS_EDIT_BUTTON_1 = "Edit sub-user !";
+    $SERVER_SUBUSERS_EDIT_BUTTON_2 = "Delete the subuser !";
+    $SERVER_SUBUSERS_2 = "User Discord ID (Discord ID)";
+    $SERVER_SUBUSERS_3 = "You are going to give access to this server to someone else, we are not recording user actions! <b> You are responsible for your file and its content! </b>";
+    $SERVER_SUBUSERS_4 = "All";
     $SERVER_SUBUSERS_5 = "Settings";
     $SERVER_SUBUSERS_6 = "Levels";
     $SERVER_SUBUSERS_7 = "Stats";
     $SERVER_SUBUSERS_8 = "Subusers";
     $SERVER_SUBUSERS_9 = "History";
 
-    $SERVER_SUBUSERS_ADD_BUTTON = "Ajouter le sous-utilisateur !";
+    $SERVER_SUBUSERS_ADD_BUTTON = "Add the subuser !";
 
-    $SERVER_SUBUSERS_LIST_1 = "Liste des sous-utilisateurs";
+    $SERVER_SUBUSERS_LIST_1 = "List of sub-users";
     $SERVER_SUBUSERS_LIST_2 = "Username";
     $SERVER_SUBUSERS_LIST_3 = "Settings";
     $SERVER_SUBUSERS_LIST_4 = "Levels";
@@ -193,10 +193,10 @@
 
     /*-- SERVER HISTORY PAGE --*/
 
-    $SERVER_HISTORY_1 = "Les 50 derniers votes";
-    $SERVER_HISTORY_2 = "Top 10 du mois (Voteurs)";
-    $SERVER_HISTORY_3 = "Top 10 du mois dernier (Voteurs)";
-    $SERVER_HISTORY_4 = "Top 10 global (Voteurs)";
+    $SERVER_HISTORY_1 = "The last 50 votes";
+    $SERVER_HISTORY_2 = "Top 10 of the month (Voters)";
+    $SERVER_HISTORY_3 = "Top 10 from last month (Voters)";
+    $SERVER_HISTORY_4 = "Global Top 10 (Voters)";
     $SERVER_HISTORY_NOVOTE = "You don't have any vote !";
     $SERVER_HISTORY_PSEUDO = "Pseudo";
     $SERVER_HISTORY_DATE = "Date";
@@ -207,26 +207,26 @@
 
     /*-- SERVER GIVEAWAY PAGE --*/
 
-    $SERVER_GIVEAWAY_ADD_1 = "Créer un nouveau giveaway";
-    $SERVER_GIVEAWAY_ADD_2 = "Qu'offrez-vous comme cadeau ? Éviter les romans, merci !";
-    $SERVER_GIVEAWAY_ADD_3 = "Combien de gagnants ?";
-    $SERVER_GIVEAWAY_ADD_4 = "Quelle est la quantité de votes nécessaire pour participer ?";
-    $SERVER_GIVEAWAY_ADD_5 = "Quand le giveaway doit-il prendre fin ?";
-    $SERVER_GIVEAWAY_ADD_5_1 = "Dès (x) votes ce mois-ci !";
-    $SERVER_GIVEAWAY_ADD_5_2 = "Dès (x) votes depuis notre inscription";
-    $SERVER_GIVEAWAY_ADD_5_3 = "Dès qu'on atteint le niveau (x)";
-    $SERVER_GIVEAWAY_ADD_5_4 = "Dès qu'on est dans le Top (x) (mensuel)";
-    $SERVER_GIVEAWAY_ADD_5_6 = "Dans (x) jours";
-    $SERVER_GIVEAWAY_ADD_6 = "Quelle valeur doit-on donner à X ?";
-    $SERVER_GIVEAWAY_ADD_7 = "Lancer le giveaway !";
+    $SERVER_GIVEAWAY_ADD_1 = "Create a new giveaway";
+    $SERVER_GIVEAWAY_ADD_2 = "What do you offer as a gift? Avoid novels, thank you !";
+    $SERVER_GIVEAWAY_ADD_3 = "How many winners ?";
+    $SERVER_GIVEAWAY_ADD_4 = "How many votes are needed to participate ?";
+    $SERVER_GIVEAWAY_ADD_5 = "When is the giveaway due to end ?";
+    $SERVER_GIVEAWAY_ADD_5_1 = "From (x) votes this month !";
+    $SERVER_GIVEAWAY_ADD_5_2 = "From (x) votes since our registration";
+    $SERVER_GIVEAWAY_ADD_5_3 = "As soon as we reach level (x)";
+    $SERVER_GIVEAWAY_ADD_5_4 = "As soon as we are in the Top (x) (monthly)";
+    $SERVER_GIVEAWAY_ADD_5_6 = "In (x) days";
+    $SERVER_GIVEAWAY_ADD_6 = "What value should we give to X?";
+    $SERVER_GIVEAWAY_ADD_7 = "Start the giveaway!";
 
-    $SERVER_GIVEAWAY_NEW = "Nouveau giveaway !";
+    $SERVER_GIVEAWAY_NEW = "New giveaway !";
 
-    $SERVER_GIVEAWAY_LIST_1_TITLE = "Giveaway en cours";
-    $SERVER_GIVEAWAY_LIST_2_TITLE = "Giveaway terminé";
-    $SERVER_GIVEAWAY_LIST_1_1 = "Cadeau";
-    $SERVER_GIVEAWAY_LIST_1_2 = "Gagnant(s)";
-    $SERVER_GIVEAWAY_LIST_1_3 = "Fin à";
+    $SERVER_GIVEAWAY_LIST_1_TITLE = "Giveaway in progress";
+    $SERVER_GIVEAWAY_LIST_2_TITLE = "Giveaway completed";
+    $SERVER_GIVEAWAY_LIST_1_1 = "Gift";
+    $SERVER_GIVEAWAY_LIST_1_2 = "Winner(s)";
+    $SERVER_GIVEAWAY_LIST_1_3 = "End at";
     $SERVER_GIVEAWAY_LIST_1_4 = "Participants";
 
     /*-- END SERVER GIVEAWAY PAGE --*/
