@@ -1,24 +1,24 @@
 <?php
 
-	$PARTNERS_TITLE = "Paramètres partenaire";
+	$PARTNERS_TITLE = "Partner settings";
 
 	$PARTNERS_PROGRAM_TITLE = "PARTNERS PROGRAM";
-	$PARTNERS_PROGRAM_RECUP_COIN = "Récupérer mes gains";
-	$PARTNERS_PROGRAM_RECUP_COIN_DESC = "Attention, pour effectuer un virement, vous devez avoir au minimum 10 000 TopCoins !";
-	$PARTNERS_PROGRAM_RECUP_COIN_BUTTON = "Demander un virement (soon)";
+	$PARTNERS_PROGRAM_RECUP_COIN = "Collect my earnings";
+	$PARTNERS_PROGRAM_RECUP_COIN_DESC = "Please note, to make a transfer, you must have at least 10,000 TopCoins !";
+	$PARTNERS_PROGRAM_RECUP_COIN_BUTTON = "Request a transfer (soon)";
 
-	$PARTNERS_PROGRAM_CODE = "Code créateur";
-	$PARTNERS_PROGRAM_CODE_DESC = "Code Promotionnel de -10 % sur toute la boutique";
-	$PARTNERS_PROGRAM_CODE_BUTTON = "Configurer";
+	$PARTNERS_PROGRAM_CODE = "Creator code";
+	$PARTNERS_PROGRAM_CODE_DESC = "Promotional code of -10% on the whole store";
+	$PARTNERS_PROGRAM_CODE_BUTTON = "Configure";
 
 	$PARTNERS_SETTINGS_TITLE = "PARTNERS SETTINGS";
 
-	$PARTNERS_SETTINGS_DESC = "Explications";
-	$PARTNERS_SETTINGS_SUBDESC = "Félicitations, vous êtes désormais un partenaire de DiscordTop !<br>Votre compte est désormais Partenaire, vous pouvez récupérer votre lien d'affilié dans la page d'affiliation et la partager. Vous possédez des avantages considérables, en tant que partenaire vous avez accès à l'abonnement Developer gratuitement, vous pouvez aussi retirer vos coins en demandant un virement PayPal ou créer des codes cadeaux pour votre communauté !<br><br>De cette page, vous pouvez également configurer votre logo et votre lien qui seront affichés dans le pied de page de notre site.";
+	$PARTNERS_SETTINGS_DESC = "Explanations";
+	$PARTNERS_SETTINGS_SUBDESC = "Congratulations, you are now a DiscordTop Partner! <br> Your account is now a Partner, you can grab your affiliate link from the affiliate page and share it. You have considerable advantages, as a partner you have access to the Developer subscription for free, you can also withdraw your coins by requesting a PayPal transfer or create gift codes for your community! <br><br> From this page, you can also configure your logo and your link which will be displayed in the footer of our site.";
 	$PARTNERS_SETTINGS_UPDATE = "Configuration";
-	$PARTNERS_SETTINGS_UPDATE_IMG = "Lien de l'image (logo)";
-	$PARTNERS_SETTINGS_UPDATE_LINK = "Lien de votre projet";
-	$PARTNERS_SETTINGS_UPDATE_BUTTON = "Configurer";
+	$PARTNERS_SETTINGS_UPDATE_IMG = "Image link (logo)";
+	$PARTNERS_SETTINGS_UPDATE_LINK = "Link of your project";
+	$PARTNERS_SETTINGS_UPDATE_BUTTON = "Configure";
 
 
 ?>

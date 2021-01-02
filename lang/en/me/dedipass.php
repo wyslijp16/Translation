@@ -1,8 +1,8 @@
 <?php
 
-	$DEDIPASS_NOTIF_OBJECT_SUCCESS = "Vous avez reçu du CASH !";
+	$DEDIPASS_NOTIF_OBJECT_SUCCESS = "You have received CASH !";
 	
-	$DEDIPASS_TITLE = "Besoin de CASH ?";
+	$DEDIPASS_TITLE = "Need CASH ?";
 	
 	$DEDIPASS_PAY_ERROR_TITLE = "Code Error";
 	$DEDIPASS_PAY_ERROR_DESC = "The code is invalid.. Try again..";
