@@ -1,7 +1,7 @@
 <?php
 
     $PROFILE_TITLE = "Salut, ";
-    $PROFILE_DESC = "C'est ta page de profil, c'est cool n'est-ce pas? Vous trouverez de nombreuses statistiques sur vos votes, et vous pourrez également ajuster vos paramètres!";
+    $PROFILE_DESC = "Voici votre page de profil, c'est cool n'est-ce pas? Vous trouverez de nombreuses statistiques sur vos votes, et vous pourrez également ajuster vos paramètres !";
 
     $PROFIL_CARD_1_VOTE = "Votes";
     $PROFIL_CARD_1_XP = "XP";
@@ -20,7 +20,7 @@
     $PROFILE_CARD_4_TITLE = "Vos votes des 7 derniers jours";
 
     $PROFILE_CARD_5_TITLE = "Votes par mois";
-    
+
     $PROFILE_CARD_6_TITLE = "Vos votes des 30 derniers jours";
 
     $PROFILE_CARD_6_TITLE = "Historique des achats";
@@ -32,6 +32,6 @@
     // MODAL VALIDATION
     $PROFILE_MODAL_TITLE = "Souhaitez-vous confirmer les modifications apportées ?";
     $PROFILE_MODAL_BUTTON = "Enregistrer les modifications...";
-    $PROFIL_NOTIF_SUCCESS = "La modification a été réalisée avec succès !";
+    $PROFIL_NOTIF_SUCCESS = "Les modifications ont été appliquées avec succès !";
 
 ?>

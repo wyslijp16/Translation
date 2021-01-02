@@ -2,7 +2,7 @@
 
 	// CARTE 1
 	$AFFILIATE_CARD_1_TITLE = "Prêt pour l'affiliation ?";
-	$AFFILIATE_CARD_1_DESC = "Nous proposons depuis peu un système d’affiliation ! Celui-ci vous permet de parrainer des utilisateurs en les invitant à s’inscrire sur notre plateforme !<br><br>Vous recevrez une comission sur les achats de vos filleuls et de l’xp supplémentaire !";
+	$AFFILIATE_CARD_1_DESC = "Nous proposons depuis peu un système d’affiliation ! Celui-ci vous permet de parrainer des utilisateurs en les invitant à s’inscrire sur notre plateforme !<br><br>Vous recevrez une commission sur les achats de vos filleuls et de l’xp supplémentaire !";
 
 
 	$AFFILIATE_CARD_1_1 = "Clics";

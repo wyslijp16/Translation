@@ -1,7 +1,7 @@
 <?php
 
     $SELECT_CARD_1_TITLE = "Vous avez une équipe ?";
-    $SELECT_CARD_1_DESC = "Vous avez un Comunity Manager, ou peut-être un administrateur ou un animateur ? Donner leurs la possibilité de gérer vos serveurs , nous avons mis en place un système de permisison pour leur donner uniquement ce dont ils ont besoins !";
+    $SELECT_CARD_1_DESC = "Vous avez un Comunity Manager, ou peut-être un administrateur ou un animateur ? Donnez-leur la possibilité de gérer vos serveurs, nous avons mis en place un système de permissions pour leur donner uniquement ce dont ils ont besoin !";
 
     // AFFICHAGE DES SERVEURS
 	$SELECT_SERVERS_NEED_ACTIVATE = "ACTIVER CE SERVEUR";
@@ -20,10 +20,10 @@
 	$SELECT_SERVERS_NEED_ACTIVATE = "ACTIVER CE SERVEUR";
 	$SELECT_SERVERS_COG = "CONFIGURER CE SERVEUR";
     $SELECT_SERVERS_BAN = "SERVEUR SUSPENDU";
-    
+
     // NO SERVER, SRY
-    $SELECT_CARD_2_TITLE = "TU N’AS AUCUN SERVEUR SUR TON COMPTE DISCORD ...";
-    $SELECT_CARD_2_DESC = "Mais ne t’inquiète pas, on te propose à la place de consulter tes statistiques et de configurer ta fiche utilisateur, c’est sympa pour montrer comment tu es actif sur tes serveurs favoris !";
+    $SELECT_CARD_2_TITLE = "TU N’AS AUCUN SERVEUR SUR TON COMPTE DISCORD...";
+    $SELECT_CARD_2_DESC = "Mais ne t’inquiète pas, on te propose à la place de consulter tes statistiques et de configurer ta fiche utilisateur, c’est sympa pour montrer ton activité sur tes serveurs favoris !";
     $SELECT_CARD_2_BUTTON = "REJOINDRE NOTRE COMMUNAUTÉ";
 
     // MODAL ADD BOT
