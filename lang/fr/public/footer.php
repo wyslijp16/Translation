@@ -2,7 +2,7 @@
 
 	// PIED DE PAGE - FOOTER
 
-	$FOOTER_DESCRIPTION = "Une superbe description que Skayn nous fera lorsqu'il aura arrêté de baver sur le site.";
+	$FOOTER_DESCRIPTION = "DiscordTop.org vous aide depuis 2018 à construire et mettre en avant votre communauté ! Vous n'avez toujours pas inscrit votre serveur ? N'attendez plus et propulsez votre serveur !";
 
 	$FOOTER_SERVER_TITLE = "VOS SERVEURS";
 	$FOOTER_SERVER_MEMBER = "Dashboard";
