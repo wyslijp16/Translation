@@ -23,11 +23,11 @@
 
     /*-- SERVER HOME PAGE --*/
 
-    $SERVER_HOME_CARD_1_TITLE = "YOUR SERVER WAS DESACTIVATE !";
-    $SERVER_HOME_CARD_1_DESC = "Remember to activate the server to share it with your members !";
+    $SERVER_HOME_CARD_1_TITLE = "VOTRE SERVEUR A ÉTÉ DÉSACTIVÉ !";
+    $SERVER_HOME_CARD_1_DESC = "Rappelez-vous d'activer votre serveur pour le partager à vos membres !";
 
-    $SERVER_HOME_CARD_2_TITLE = "YOUR SERVER WAS SUSPENDED !";
-    $SERVER_HOME_CARD_2_DESC = "Your server has been suspended ! Click on me for more information !";
+    $SERVER_HOME_CARD_2_TITLE = "VOTRE SERVER A ÉTÉ SUSPENDU !";
+    $SERVER_HOME_CARD_2_DESC = "Votre serveur a été suspendu ! Cliquez ici pour obtenir plus d'informations !";
     $SELECT_SERVERS_BAN_1 = "Nom";
     $SELECT_SERVERS_BAN_2 = "Type";
     $SELECT_SERVERS_BAN_3 = "Motif";
@@ -37,36 +37,36 @@
     $SELECT_SERVERS_BAN_CLOSE = "Fermer";
     $SELECT_SERVERS_BAN_APPEL = "Faire appel";
 
-    $SERVER_HOME_CARD_3_TITLE = "WANT MORE VISIBILITY?";
-    $SERVER_HOME_CARD_3_DESC = "Buy a boost for 3 990 CASH, save - 10% with the code";
+    $SERVER_HOME_CARD_3_TITLE = "VOUS VOULEZ PLUS DE VISIBILITÉ ?";
+    $SERVER_HOME_CARD_3_DESC = "Achetez un boost pour 3 990 CASH, économisez 10% avec un code !";
 
-    $SERVER_HOME_CARD_4_TITLE = "COMPLETE YOUR INFORMATION !";
-    $SERVER_HOME_CARD_4_DESC = "It is essential to regularly check the information on your server !";
+    $SERVER_HOME_CARD_4_TITLE = "COMPLÉTEZ VOS INFORMATIONS !";
+    $SERVER_HOME_CARD_4_DESC = "Il est essentiel de consulter régulièrement les informations de votre serveur !";
 
 
-    $SERVER_HOME_MENU_1_TITLE = "SETTINGS";
-    $SERVER_HOME_MENU_1_DESC = "You can modify your server and put, for example, a description to it to make our visitors want to join your server !";
+    $SERVER_HOME_MENU_1_TITLE = "PARAMÈTRES";
+    $SERVER_HOME_MENU_1_DESC = "Vous pouvez facilement modifier votre serveur, et y ajouter par exemple une description pour donner envie à nos visiteurs de rejoindre votre serveur !";
 
-    $SERVER_HOME_MENU_2_TITLE = "STATISTICS";
-    $SERVER_HOME_MENU_2_DESC = "Check your server performance and see your statistics increase! Be careful, the magic does not happen without the help of your community !";
+    $SERVER_HOME_MENU_2_TITLE = "STATISTIQUES";
+    $SERVER_HOME_MENU_2_DESC = "Consultez les performances de votre serveur et regardez vos statistiques monter ! Attention, la magie n'opèrera pas sans l'aide de votre communauté !";
 
     $SERVER_HOME_MENU_3_TITLE = "LEVEL";
-    $SERVER_HOME_MENU_3_DESC = "The more your level increases, the more your server will unlock new features! We regularly add new functionality only accessible with the level of your servers !";
+    $SERVER_HOME_MENU_3_DESC = "Plus le level de votre serveur est élevé, plus votre serveur déverrouillera de nouvelles fonctionnalités ! Nous en ajoutons régulièrement de nouvelles, accessibles à partir d'un certain niveau !";
 
-    $SERVER_HOME_MENU_4_TITLE = "QUEST";
-    $SERVER_HOME_MENU_4_DESC = "Nothing better than quests to motivate the troops ! Clearly set goals and rewards for your server !";
+    $SERVER_HOME_MENU_4_TITLE = "QUÊTES";
+    $SERVER_HOME_MENU_4_DESC = "Rien n'est mieux que des missions pour motiver vos troupes ! Configurez des objectifs et des récompenses pour votre serveur !";
 
-    $SERVER_HOME_MENU_5_TITLE = "GIVEAWAY";
-    $SERVER_HOME_MENU_5_DESC = "A giveaway system to reward your voters, make your voters want to vote regularly by regularly offering contests !";
+    $SERVER_HOME_MENU_5_TITLE = "GIVEAWAYS";
+    $SERVER_HOME_MENU_5_DESC = "Un système de giveaways pour vos voteurs, faites en sorte de leur donner envie de voter encore plus en leur offrant la possibilité de participer à des concours !";
 
-    $SERVER_HOME_MENU_6_TITLE = "History";
-    $SERVER_HOME_MENU_6_DESC = "We offer you the possibility to know your voters with a voting / boost history.";
+    $SERVER_HOME_MENU_6_TITLE = "HISTORIQUE";
+    $SERVER_HOME_MENU_6_DESC = "Nous vous offrons la possibilité d'accéder à la liste des votes et des boosts pour votre serveur !";
 
-    $SERVER_HOME_MENU_7_TITLE = "BOT SETTINGS";
-    $SERVER_HOME_MENU_7_DESC = "You can configure some technical bot parameters from your interface, isn't that great !";
+    $SERVER_HOME_MENU_7_TITLE = "PARAMÈTRES DU BOT";
+    $SERVER_HOME_MENU_7_DESC = "Vous pouvez configurer des paramètres techniques du bot depuis votre interface, n'est-ce pas formidable ?";
 
-    $SERVER_HOME_MENU_8_TITLE = "SUB-USERS";
-    $SERVER_HOME_MENU_8_DESC = "Giving your employees the opportunity to configure this server has never been so easy !";
+    $SERVER_HOME_MENU_8_TITLE = "SOUS-UTILISATEURS";
+    $SERVER_HOME_MENU_8_DESC = "Donner à vos employés la possibilité de configurer ce serveur n'a jamais été plus facile !";
 
 
 
@@ -74,17 +74,17 @@
 
     $SERVER_SETTINGS_TITLE = "STATUT DU SERVEUR";
 
-    $SERVER_SETTINGS_CARD_1_TITLE = "Nouveau nom/logo? Il n'a pas changer ?";
-    $SERVER_SETTINGS_CARD_1_DESC = "Essayer de vous déconnectez/reconnectez, ça permet de mettre à jour les informations tranquillement !";
+    $SERVER_SETTINGS_CARD_1_TITLE = "Nouveau nom/logo ? Il n'a pas changé ?";
+    $SERVER_SETTINGS_CARD_1_DESC = "Essayer de vous déconnecter/reconnecter, cela permet de mettre à jour les informations tranquillement !";
 
-    $SERVER_SETTINGS_CARD_2_TITLE = "Nous avons remarquer que vous n'utilisiez pas notre bot ..";
+    $SERVER_SETTINGS_CARD_2_TITLE = "Nous avons remarqué que vous n'utilisiez pas notre bot...";
     $SERVER_SETTINGS_CARD_2_DESC = "Saviez-vous que notre bot vous permet de mettre en avant votre serveur toutes les heures gratuitement ?";
     $SERVER_SETTINGS_CARD_2_BUTTON = "AJOUTER LE BOT";
 
     $SERVER_SETTINGS_CARD_3_COG = "Configuration";
 
     $SERVER_SETTINGS_CARD_3_TITLE = "Type";
-    $SERVER_SETTINGS_CARD_3_DESC = "Veuillez noter que les sociétés/associations sont considérés comme une communauté. Cependant, des prochaines mises à jours permettront d'avoir des avantages propres à chaque type de serveur.";
+    $SERVER_SETTINGS_CARD_3_DESC = "Veuillez noter que les sociétés/associations sont considérées comme une communauté. Cependant, de prochaines mises à jours permettront d'avoir des avantages propres à chaque type de serveur.";
     $SERVER_SETTINGS_3_1 = "Communautaire";
     $SERVER_SETTINGS_3_2 = "Jeux";
     $SERVER_SETTINGS_3_3 = "Publicitaire";
@@ -94,10 +94,10 @@
     $SERVER_SETTINGS_3_7 = "Autre";
 
     $SERVER_SETTINGS_CARD_4_TITLE = "Tags";
-    $SERVER_SETTINGS_CARD_4_DESC = "Ajouter quelques étiquettes de serveur vous permettra d'être plus facilement trouvable sur notre moteur de recherche, mais seulement le notre, ils seront utilisés pour votre référencement Google !";
+    $SERVER_SETTINGS_CARD_4_DESC = "Ajouter quelques étiquettes de serveur vous permettra d'être plus facilement (re)trouvable sur notre moteur de recherche, mais pas seulement le notre, ils seront utilisés pour votre référencement Google !";
 
     $SERVER_SETTINGS_CARD_5_TITLE = "Invitation";
-    $SERVER_SETTINGS_CARD_5_DESC = "Si vous avez ajouter le bot, il est normal que vous ne puissiez pas modifier l'invitation !";
+    $SERVER_SETTINGS_CARD_5_DESC = "Si vous avez ajouté le bot, il est normal que vous ne puissiez pas modifier l'invitation !";
 
     $SERVER_SETTINGS_CARD_6_TITLE = "Langue";
     $SERVER_SETTINGS_CARD_6_DESC = "Par défaut, le serveur a la même langue que votre compte. Vous pouvez le modifier ici mais également depuis le bot !";
@@ -106,21 +106,21 @@
     $SERVER_SETTINGS_CARD_7_DESC = "Si vous préférez qu'il ne soit pas nécessaire d'être inscrit pour voter, à vous de voir ! Cependant, vous ne pourrez plus voter via le bot !<br><i style=\"font-size: 10px;\">(Oui : Connexion nécessaire)</i>";
 
     $SERVER_SETTINGS_CARD_8_TITLE = "Recevoir des avis";
-    $SERVER_SETTINGS_CARD_8_DESC = "Vous souhaitez donner la parole à vos membres, quel bonne idée ! Sachez que notre équipe vérifie tous les commentaires avant de les publiés !";
+    $SERVER_SETTINGS_CARD_8_DESC = "Vous souhaitez donner la parole à vos membres, quelle bonne idée ! Sachez que notre équipe vérifie tous les commentaires avant de les publier !";
 
     $SERVER_SETTINGS_CARD_9_TITLE = "Webhook";
-    $SERVER_SETTINGS_CARD_9_LOCKED = "Unlock to Level 20 !";
+    $SERVER_SETTINGS_CARD_9_LOCKED = "Débloqué au Level 20 !";
     $SERVER_SETTINGS_CARD_9_DESC = "Envie de crier et de danser dès qu'une personne vote pour votre serveur ? C'est possible ! (Vous avez besoin d'aide ? Rejoignez notre Discord, notre équipe vous aidera !).";
 
     $SERVER_SETTINGS_CARD_10_TITLE = "Lien Personnalisé";
-    $SERVER_SETTINGS_CARD_10_LOCKED = "Unlock this for 24 990 <sup>CASH</sup> and have access to this for lifetime !";
+    $SERVER_SETTINGS_CARD_10_LOCKED = "Déverouillez cela pour 24 990 <sup>CASH</sup> et obtenez l'accès à cette fonctionnalité pour toujours !";
     $SERVER_SETTINGS_CARD_10_DESC = "Marre de devoir retenir votre lien de vote ? Utilisez donc nos liens personnalisés ! <i>Example : https://dtop.fr/dt</i> !<br>Votre lien actuel :";
 
     $SERVER_SETTINGS_CARD_11_TITLE = "Description courte";
-    $SERVER_SETTINGS_CARD_11_DESC = "Vous avez 255 caractères pour décrire votre serveur, cette description sera utilisé pour votre référencement sur DiscordTop mais également sur Google !";
+    $SERVER_SETTINGS_CARD_11_DESC = "Vous avez 255 caractères pour décrire votre serveur, cette description sera utilisée pour votre référencement sur DiscordTop, mais également sur Google !";
 
     $SERVER_SETTINGS_CARD_12_TITLE = "Description";
-    $SERVER_SETTINGS_CARD_12_DESC = "Profitez un peu pour vous amusez, et décrivez votre serveur dans ces moindres détails ! Tous ce que l'on vous demandez, c'est de respecter notre charte !";
+    $SERVER_SETTINGS_CARD_12_DESC = "Profitez un peu pour vous amuser, et décrivez votre serveur dans ses moindres détails ! Tout ce que l'on vous demande, c'est de respecter notre charte !";
 
     $SERVER_SETTINGS_DELETE_BUTTON = "Supprimer ce serveur !";
 
@@ -180,14 +180,14 @@
     $SERVER_SUBUSERS_ADD_BUTTON = "Ajouter le sous-utilisateur !";
 
     $SERVER_SUBUSERS_LIST_1 = "Liste des sous-utilisateurs";
-    $SERVER_SUBUSERS_LIST_2 = "Username";
-    $SERVER_SUBUSERS_LIST_3 = "Settings";
+    $SERVER_SUBUSERS_LIST_2 = "Nom d'utilisateur";
+    $SERVER_SUBUSERS_LIST_3 = "Paramètres";
     $SERVER_SUBUSERS_LIST_4 = "Levels";
     $SERVER_SUBUSERS_LIST_5 = "Stats";
-    $SERVER_SUBUSERS_LIST_6 = "Subusers";
-    $SERVER_SUBUSERS_LIST_7 = "History";
-    $SERVER_SUBUSERS_LIST_8 = "Action";
-    $SERVER_SUBUSERS_LIST_9 = "You don't have any subuser ! Add your admin now :D";
+    $SERVER_SUBUSERS_LIST_6 = "Sous-utilisateurs";
+    $SERVER_SUBUSERS_LIST_7 = "Historique";
+    $SERVER_SUBUSERS_LIST_8 = "Actions";
+    $SERVER_SUBUSERS_LIST_9 = "Vous n'avez aucun sous-utilisateur ! Ajouter un administrateur dès maintenant :D";
 
     /*-- END SERVER SUBUSERS PAGE --*/
 
@@ -197,7 +197,7 @@
     $SERVER_HISTORY_2 = "Top 10 du mois (Voteurs)";
     $SERVER_HISTORY_3 = "Top 10 du mois dernier (Voteurs)";
     $SERVER_HISTORY_4 = "Top 10 global (Voteurs)";
-    $SERVER_HISTORY_NOVOTE = "You don't have any vote !";
+    $SERVER_HISTORY_NOVOTE = "Vous n'avez aucun vote !";
     $SERVER_HISTORY_PSEUDO = "Pseudo";
     $SERVER_HISTORY_DATE = "Date";
     $SERVER_HISTORY_TYPE = "Type";
@@ -208,7 +208,7 @@
     /*-- SERVER GIVEAWAY PAGE --*/
 
     $SERVER_GIVEAWAY_ADD_1 = "Créer un nouveau giveaway";
-    $SERVER_GIVEAWAY_ADD_2 = "Qu'offrez-vous comme cadeau ? Éviter les romans, merci !";
+    $SERVER_GIVEAWAY_ADD_2 = "Qu'offrez-vous comme cadeau ? Évitez les romans, merci !";
     $SERVER_GIVEAWAY_ADD_3 = "Combien de gagnants ?";
     $SERVER_GIVEAWAY_ADD_4 = "Quelle est la quantité de votes nécessaire pour participer ?";
     $SERVER_GIVEAWAY_ADD_5 = "Quand le giveaway doit-il prendre fin ?";

@@ -1,6 +1,6 @@
 <?php
 
-	$PARTNERS_TITLE = "Paramètres partenaire";
+	$PARTNERS_TITLE = "Paramètres Partenaire";
 
 	$PARTNERS_PROGRAM_TITLE = "PARTNERS PROGRAM";
 	$PARTNERS_PROGRAM_RECUP_COIN = "Récupérer mes gains";

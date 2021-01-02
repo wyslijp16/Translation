@@ -5,7 +5,7 @@
 
 	$S_BUTTON_VOTE = "Voter pour ce serveur";
 	$S_BUTTON_WAIT = "Veuillez patienter...";
-	$S_BUTTON_WAIT_MSG = "You can't vote now !";
+	$S_BUTTON_WAIT_MSG = "Vous ne pouvez pas voter maintenant !";
 	$S_BUTTON_JOIN = "Rejoindre le serveur";
 	$S_BUTTON_REVIEW = "Laisser un avis :D";
 	$S_BUTTON_REVIEW_ALREADY = "Vous avez déjà donné votre avis pour ce serveur ;) !";
@@ -73,7 +73,7 @@
 	// La partie avis :)
 	// Les avis ne sont pas traduit car ils sont dans la langue d'origine du serveur, en toute logique évidemment..
 	$S_CARD_REVIEW_TITLE = "Dernier Avis";
-	$S_CARD_REVIEW_NO_TITLE = "Désolé, ce serveur n'a aucun avis..";
+	$S_CARD_REVIEW_NO_TITLE = "Désolé, ce serveur n'a aucun avis...";
 	$S_CARD_REVIEW_NO_CONTENT = "Si tu es connecté, tu peux poster un avis.";
 	$S_CARD_REVIEW_NO_BUTTON = "Envoyer un avis";
 
@@ -96,9 +96,9 @@
 	$S_SIGNAL_TITLE = "Type d'incident";
 	$S_SIGNAL_CONTENT_1 = "invitation Invalide";
 	$S_SIGNAL_CONTENT_2 = "Contenu Dangereux";
-	$S_SIGNAL_CONTENT_3 = "Contenu NSW sans avertissement !";
-	$S_SIGNAL_CONTENT_4 = "Suspicion de ForceVote/FakeVote";
-	$S_SIGNAL_CONTENT_5 = "Harcèlement ou spam";
+	$S_SIGNAL_CONTENT_3 = "Contenu NSFW sans avertissement !";
+	$S_SIGNAL_CONTENT_4 = "Suspicion de ForceVote / FakeVote";
+	$S_SIGNAL_CONTENT_5 = "Harcèlement ou Spam";
 	$S_SIGNAL_CONTENT_6 = "Giveaway frauduleux (via DiscordTop !!)";
 	$S_SIGNAL_CONTENT_7 = "Autre contenu ne respectant pas notre charte";
 	$S_SIGNAL_SCREENS = "Un mot à rajouter, ou des preuves ?";
