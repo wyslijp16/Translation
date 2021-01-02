@@ -16,12 +16,12 @@
 	$VOTE_MSG_2 = "<strong>The attempt is honorable, but the failure is powerful</strong>";
 	$VOTE_MSG_3 = "<strong>Did you forget any neurons when you woke up?</strong> Have a good coffee, it should wake you up!";
 	$VOTE_MSG_4 = "<strong>Thanks for your review !</strong> You have contribuate for level up this server, so thanks you !";
-	$VOTE_MSG_5 = "<strong>Votre participation a bien été enregistrée</strong> Désormais, il suffit d'attendre que l'objectif soit atteint pour le tirage !";
-	$VOTE_MSG_6 = "<strong>Hop hop hop !</strong> Il me semble que tu participe déjà à ce giveaway, petit malin !";
-	$VOTE_MSG_7 = "<strong>Ah non !</strong> Vous n'avez pas suffisament voter pour participer au giveaway !";
-	$REPORT_MSG_1 = "Votre invitation est invalide, pourriez-vous la modifier s'il vous plaît ?";
-	$REPORT_MSG_2 = "Une notification a été envoyer au propriétaire du serveur !";
-	$REPORT_MSG_3 = "Notre équipe à bien reçu le rapport, nous étudirons la situation et nous sanctionnerons si nécessaire.";
+	$VOTE_MSG_5 = "<strong>Your participation has been registered</strong> Now you just have to wait until the goal is reached for the draw !";
+	$VOTE_MSG_6 = "<strong>Hop hop hop !</strong> It seems to me that you are already participating in this giveaway, smart kid !";
+	$VOTE_MSG_7 = "<strong>Oh no !</strong> You did not vote enough to participate in the giveaway !";
+	$REPORT_MSG_1 = "Your invitation is invalid, could you change it please ?";
+	$REPORT_MSG_2 = "A notification has been sent to the server owner !";
+	$REPORT_MSG_3 = "Our team has received the report, we will investigate the situation and take action if necessary.";
 
 	$WEBHOOK_TITLE = "New vote by";
 	$WEBHOOK_PART_1 = "have voted for";
@@ -31,14 +31,14 @@
 
 	//GIVEAWAY
 
-	$MSG_WINNERS = "Félicitation, vous avez gagner un giveaway, contact le propriétaire du serveur rapidement ! Vous avez gagner : ";
-	$MSG_OWNER_END = "L'un de vos giveaway vient de se terminer, les gagnants devrait vous contactez sous peu, rester attentif !";
+	$MSG_WINNERS = "Congratulations, you have won a giveaway, contact the owner of the server quickly! You won : ";
+	$MSG_OWNER_END = "One of your giveaways has just ended, the winners should contact you shortly, stay tuned !";
 	$S_CARD_GIVEAWAY_TITLE = "Giveaway";
 	$S_CARD_TABLE_GIFT = "Gift";
 	$S_CARD_TABLE_WINNERS = "Winners";
 	$S_CARD_TABLE_ENDED = "Ended at";
-	$S_CARD_GIVEAWAY_BUTTON_JOIN = "Rejoindre";
-	$S_CARD_GIVEAWAY_BUTTON_ALREADYJOIN = "Participe Déjà";
+	$S_CARD_GIVEAWAY_BUTTON_JOIN = "Join";
+	$S_CARD_GIVEAWAY_BUTTON_ALREADYJOIN = "Participate Already";
 	$S_CARD_GIVEAWAY_BUTTON_CONNECT = "Connect";
 
 	// La partie description
@@ -91,16 +91,16 @@
 
 	// SIGNALS
 
-	$S_BUTTON_SIGNAL = "Signaler ce serveur !";
-	$S_SIGNAL_WARNING = "Attention, DiscordTop ne peux pas bannir un compte Discord ni supprimer un serveur Discord. Nous agissons uniquement sur notre plateforme !<br>Pour tout problème lié à l'application Discord, merci de contacter <a href='https://support.discord.com/hc/en-us/requests/new'>le support de l'application Discord</a> !";
-	$S_SIGNAL_TITLE = "Type d'incident";
-	$S_SIGNAL_CONTENT_1 = "invitation Invalide";
-	$S_SIGNAL_CONTENT_2 = "Contenu Dangereux";
-	$S_SIGNAL_CONTENT_3 = "Contenu NSW sans avertissement !";
-	$S_SIGNAL_CONTENT_4 = "Suspicion de ForceVote/FakeVote";
-	$S_SIGNAL_CONTENT_5 = "Harcèlement ou spam";
-	$S_SIGNAL_CONTENT_6 = "Giveaway frauduleux (via DiscordTop !!)";
-	$S_SIGNAL_CONTENT_7 = "Autre contenu ne respectant pas notre charte";
-	$S_SIGNAL_SCREENS = "Un mot à rajouter, ou des preuves ?";
-	$S_SIGNAL_SEND = "Envoyer mon report !";
+	$S_BUTTON_SIGNAL = "Report this server !";
+	$S_SIGNAL_WARNING = "Please note, DiscordTop cannot ban a Discord account or delete a Discord server. We only act on our platform! <br> For any problem related to the Discord application, please contact <a href='https://support.discord.com/hc/en-us/requests/new'>support for the Discord application</a> !";
+	$S_SIGNAL_TITLE = "Type of incident";
+	$S_SIGNAL_CONTENT_1 = "Invalid invitation";
+	$S_SIGNAL_CONTENT_2 = "Dangerous Content";
+	$S_SIGNAL_CONTENT_3 = "NSFW content without warning !";
+	$S_SIGNAL_CONTENT_4 = "Suspicion of ForceVote / FakeVote";
+	$S_SIGNAL_CONTENT_5 = "Harassment or spam";
+	$S_SIGNAL_CONTENT_6 = "Fraudulent Giveaway (via DiscordTop !!)";
+	$S_SIGNAL_CONTENT_7 = "Other content that does not respect our charter";
+	$S_SIGNAL_SCREENS = "A word to add, or proof ?";
+	$S_SIGNAL_SEND = "Send Report !";
 ?>
