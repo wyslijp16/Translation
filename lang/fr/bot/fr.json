@@ -1,0 +1,116 @@
+{
+    "french": {
+        "lang": "FR",
+        "on_guild_join": "INSTALLATION DU BOT",
+        "help": {
+            "title": "PANEL D'AIDE - DISCORDTOP.ORG BOT",
+            "bot": "`{0}robot infos` : Afficher les infos du bot\n`{0}robot invite` : Obtenir le lien d'invitation du bot\n`{0}ping` : Afficher la latence du bot et du site",
+            "dt": "`{0}id` : Obtenir l'id du serveur\n`{0}vote` : Voter pour ce serveur\n`{0}boost` : Booster ce serveur\n`{0}user [utilisateur]` : Afficher les informations d'un utilisateur\n`{0}server` : Afficher les informations du serveur",
+            "tops": "`{0}top` : Afficher le Top 10 actuel\n`{0}top FR` : Afficher le Top 10 des serveurs français\n`{0}top EN` : Afficher le Top 10 des serveurs anglais",
+            "config": {
+                "name": ":tools: | **Configuration** (Propriétaire seulement)",
+                "value": "`{0}config install` : Relier le serveur avec le site\n`{0}config invite` : Créer une nouvelle invitation\n`{0}config lang [langue]` : Sélectionner le langage du serveur"
+            },
+            "support": "[Serveur Discord](https://discord.gg/pYYpknj) • [Site Web]({})"
+        },
+        "ping": ":robot: **Latence du Bot :** `{}ms`{}\n:globe_with_meridians: **Latence du site :** `{}ms`{}",
+        "botinfos": {
+            "description": "Un bot relié à [DiscordTop]({}), créé pour voter, booster, afficher des informations, et plus encore !",
+            "botdev": ":robot: Développeur du bot",
+            "webdev": ":man_technologist: Développeur du site",
+            "stats": {
+                "name": ":bar_chart: Statistiques du bot",
+                "value": "> Serveurs : `{}`\n> Utilisateurs : `{}`\n> Moyenne : `{}` utilisateurs/serveur"
+            }
+        },
+        "botinvite": {
+            "title": "VOUS DÉSIREZ PLUS DE VISIBLITÉ ? INVITEZ-MOI !",
+            "pre": {
+                "name": "Prérequis",
+                "value": ":globe_with_meridians: [Inscription Web]({})"
+            },
+            "perms": {
+                "name": "Permissions Discord requises",
+                "value": "{0} Créer une invitation\n{0} Lire les messages\n{0} Envoyez des messages\n{0} Gérer les messages\n{0} Intégrer des liens\n{0} Envoyer des fichiers\n{0} Utiliser des émojis externes"
+            },
+            "link": {
+                "name": "Lien d'invitation",
+                "value": ":round_pushpin: **[Cliquez ici]({})**"
+            }
+        },
+        "id": "L'id de votre serveur est `{}`",
+        "config": {
+            "owner": ":x: **Seul le propriétaire du serveur peut exécuter cette commande**",
+            "install": {
+                "title_success": "INSTALLATION RÉUSSIE",
+                "title_fail": "INSTALLATION ÉCHOUÉE"
+            },
+            "invite": {
+                "title_success": "MODIFICATION DE L'INVITATION RÉUSSIE",
+                "title_fail": "MODIFICATION DE L'INVITATION ÉCHOUÉE",
+                "fail": "**Modification de l'invitation échouée : Je n'ai pas la permission Créer une invitation.\nExécutez la commande `{}config invite` après avoir ajouté la permission.**"
+            },
+            "lang": {
+                "title_success": "MODIFICATION DE LA LANGUE RÉUSSIE",
+                "title_fail": "MODIFICATION DE LA LANGUE ÉCHOUÉE",
+                "error": "La langue de votre serveur est déjà configurée sur `{}`"
+            }
+        },
+        "vote": {
+            "success": ":v: VOTE RÉUSSI",
+            "fail": ":x: VOTE RÉUSSI"
+        },
+        "boost": {
+            "success": ":v: BOOST RÉUSSI",
+            "fail": ":x: BOOST RÉUSSI"
+        },
+        "top": {
+            "description": "***Vous pouvez consulter ce top sur [DiscordTop.Org]({}) !\n***```{}```"
+        },
+        "user": {
+            "id_error": ":x: **Erreur : Entrez un id ou une mention valide (ou rien du tout)**",
+            "bot_error": ":x: **Cet utilisateur est un bot... Il n'a donc pas de compte DiscordTop.**",
+            "account_error": ":x: **Cet utilisateur n'a pas de compte DiscordTop.**",
+            "loading": "<a:Loading:645602088625373190> ***Chargement des données de l'utilisateur...***",
+            "author": "Demandé par {}",
+            "stats": {
+                "title": "STATISTIQUES DE L'UTILISATEUR",
+                "description": "**Statistiques de {}** (`{}`)"
+            },
+            "level": {
+                "name": ":star: Level de l'utilisateur",
+                "value": "> Level : `{}`\n> XP : `{}`"
+            },
+            "ratio": {
+                "name": ":chart_with_upwards_trend: Ratio de l'utilisateur",
+                "value": "> Ratio hebdomadaire : `{}`\n> Ratio mensuel : `{}`"
+            },
+            "general": {
+                "name": ":abacus: Votes Globaux",
+                "value": "> Votes totaux : `{}`\n> Votes d'hier : `{}`\n> Votes d'aujourd'hui : `{}`"
+            },
+            "server": {
+                "name": ":inbox_tray: Votes pour ce serveur",
+                "value": "> Votes totaux : `{}`\n> Votes mensuels : `{}`"
+            }
+        },
+        "server": {
+            "loading": "<a:Loading:645602088625373190> ***Chargement des données du serveur...***",
+            "author": "Demandé par {}",
+            "stats": {
+                "name": "{} Stats DiscordTop",
+                "value": "Votes mensuels : `{}`\nVotes totaux : `{}`\nRang : `{}`"
+            },
+            "mt_top": ":calendar_spiral: Top mensuel",
+            "lt_top": ":abacus: Top global",
+            "dt_datas": {
+                "name": "Informations DiscordTop",
+                "value": "Type : `{}`\nLangage : `{}`\nInscription : `{}`"
+            },
+            "d_datas": {
+                "name": "Informations Discord",
+                "value": "Id : `{}`\nPropriétaire : `{}` (`{}`)\nNombre de membres : `{}`\nCréation : `{}`"
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "english": {
+        "lang": "EN",
+        "on_guild_join": "BOT INSTALLATION",
+        "help": {
+            "title": "HELP PANEL - DISCORDTOP.ORG BOT",
+            "bot": "`{0}robot infos` : Display bot infos\n`{0}robot invite` : Get the invite link of the bot\n`{0}ping` : Display bot latency",
+            "dt": "`{0}id` : Get the current server's id\n`{0}vote` : Vote for the current server\n`{0}boost` : Boost the current server\n`{0}user [user]` : Display user's informations\n`{0}server` : Display current server's informations",
+            "tops": "`{0}top` : Display the current Top 10\n`{0}top FR` : Display the Top 10 of French Servers\n`{0}top EN` : Display the Top 10 of English Servers",
+            "config": {
+                "name": ":tools: | **Configuration** (Owner only)",
+                "value": "`{0}config install` : Install the bot\n`{0}config invite` : Create a new invite\n`{0}config lang [lang]` : Select the language of your server"
+            },
+            "support": "[Discord Server](https://discord.gg/pYYpknj) • [Website]({})"
+        },
+        "ping": ":robot: **Bot Latency :** `{}ms`{}\n:globe_with_meridians: **Website Latency :** `{}ms`{}",
+        "botinfos": {
+            "description": "A bot linked to [DiscordTop]({}), made to vote from Discord, display informations, and more !",
+            "botdev": ":robot: Bot Developer",
+            "webdev": ":man_technologist: Web Developer",
+            "stats": {
+                "name": ":bar_chart: Bot Statistics",
+                "value": "> Servers : `{}`\n> Users : `{}`\n> Average : `{}` users/server"
+            }
+        },
+        "botinvite": {
+            "title": "YOU WANT MORE VISIBILITY ? INVITE ME !",
+            "pre": {
+                "name": "Prerequisite",
+                "value": ":globe_with_meridians: [Web registration]({})"
+            },
+            "perms": {
+                "name": "Discord Permissions required",
+                "value": "{0} Create Invite\n{0} Read Messages\n{0} Send Messages\n{0} Manage Message\n{0} Embed Links\n{0} Attach Files\n{0} Use External Emojis"
+            },
+            "link": {
+                "name": "Invite Link",
+                "value": ":round_pushpin: **[Clic here]({})**"
+            }
+        },
+        "id": "Your server id is `{}`",
+        "config": {
+            "owner": ":x: **Only the server's owner is allowed to use this command**",
+            "install": {
+                "title_success": "INSTALLATION SUCCESSFUL",
+                "title_fail": "INSTALLATION FAILED"
+            },
+            "invite": {
+                "title_success": "INVITE MODIFICATION SUCCESSFUL",
+                "title_fail": "INVITE MODIFICATION FAILED",
+                "fail": "**Invite modification failed : I don't have the Create Instant Invite permission.\nExecute the `{}config invite` command after adding the permission.**"
+            },
+            "lang": {
+                "title_success": "LANGUAGE MODIFICATION SUCCESSFUL",
+                "title_fail": "LANGUAGE MODIFICATION FAILED",
+                "error": "Your server's language is already set to `{}`"
+            }
+        },
+        "vote": {
+            "success": ":v: SUCCESSFUL VOTE",
+            "fail": ":x: FAILED VOTE"
+        },
+        "boost": {
+            "success": ":v: SUCCESSFUL BOOST",
+            "fail": ":x: FAILED BOOST"
+        },
+        "top": {
+            "description": "***You can consult this top on [DiscordTop.Org]({}) !***\n```{}```"
+        },
+        "user": {
+            "id_error": ":x: **Error : Please enter a valid id or a valid mention (or nothing)**",
+            "bot_error": ":x: **This user is a bot... He don't have a DiscordTop account.**",
+            "account_error": ":x: **This user don't have a DiscordTop account**",
+            "loading": "<a:Loading:645602088625373190> ***Loading user datas...***",
+            "author": "Requested by {}",
+            "stats": {
+                "title": "USER STATS",
+                "description": "**Statistics of {}** (`{}`)"
+            },
+            "level": {
+                "name": ":star: User Level",
+                "value": "> Level : `{}`\n> XP : `{}`"
+            },
+            "ratio": {
+                "name": ":chart_with_upwards_trend: User Ratio",
+                "value": "> Weekly Ratio : `{}`\n> Monthly Ratio : `{}`"
+            },
+            "general": {
+                "name": ":abacus: User General Votes",
+                "value": "> Lifetime's Votes : `{}`\n> Yesterday's Votes : `{}`\n> Today's Votes : `{}`"
+            },
+            "server": {
+                "name": ":inbox_tray: User Votes on this Server",
+                "value": "> Lifetime's Votes : `{}`\n> Monthly's Votes : `{}`"
+            }
+        },
+        "server": {
+            "loading": "<a:Loading:645602088625373190> ***Loading server datas...***",
+            "author": "Requested by {}",
+            "stats": {
+                "name": "{} DiscordTop Stats",
+                "value": "Monthly's Votes : `{}`\nLifetime's Votes : `{}`\nRanking : `{}`"
+            },
+            "mt_top": ":calendar_spiral: Monthly Top",
+            "lt_top": ":abacus: Lifetime Top",
+            "dt_datas": {
+                "name": "DiscordTop Datas",
+                "value": "Type : `{}`\nLanguage : `{}`\nInscription : `{}`"
+            },
+            "d_datas": {
+                "name": "Discord Datas",
+                "value": "Id : `{}`\nOwner : `{}` (`{}`)\nMembercount : `{}`\nCreation : `{}`"
+            }
+        }
+    }
+}
