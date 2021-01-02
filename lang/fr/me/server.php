@@ -38,7 +38,7 @@
     $SELECT_SERVERS_BAN_APPEL = "Faire appel";
 
     $SERVER_HOME_CARD_3_TITLE = "VOUS VOULEZ PLUS DE VISIBILITÉ ?";
-    $SERVER_HOME_CARD_3_DESC = "Achetez un boost pour 3 990 CASH, économisez 10% avec un code !";
+    $SERVER_HOME_CARD_3_DESC = "Achetez un boost pour 3 990 CASH, économisez 10% avec un code ";
 
     $SERVER_HOME_CARD_4_TITLE = "COMPLÉTEZ VOS INFORMATIONS !";
     $SERVER_HOME_CARD_4_DESC = "Il est essentiel de consulter régulièrement les informations de votre serveur !";
