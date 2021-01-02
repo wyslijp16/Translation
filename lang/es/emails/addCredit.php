@@ -1,18 +1,18 @@
 <?php
 
-    $TITLE = "Votre compte a été crédité ! 🤑";
-    $P1 = "Bonjour, %username% !";
-    $P2 = "Nous vous confirmons avec ce mail la reception de vos %CASH% CASH sur votre compte DiscordTop.";
-    $P3 = "Nous tenions également à vous remerciez, si nous existons, c'est en parti grace à des personnes comme vous !";
-    $P4 = "Vous pouvez réclamer un grade \"Client\" sur notre Discord, il suffit d'ouvrir un ticket et d'en faire la demande, c'est très simple et rapide pour pouvez arborer fièrement en grade client et vous la péter auprès de vos amis (encore faut-il en avoir) !";
-    $P5 = "Merci de votre soutiens,<br>Cordialement,<br>L'Équipe de DiscordTop.Org";
+    $TITLE = "¡Tu cuenta ha sido acreditada! 🤑";
+    $P1 = "Holà, %username% !";
+    $P2 = "Confirmamos con este correo electrónico el recibo de su %CASH% CASH en su cuenta DiscordTop.";
+    $P3 = "También queríamos darte las gracias, si existimos es en parte gracias a personas como tú. !";
+    $P4 = "Puedes reclamar un rango \"Cliente\" en nuestro Discord, todo lo que tienes que hacer es abrir un ticket y hacer la solicitud, es muy simple y rápido poder lucirse con orgullo en el rango de cliente y tirar un pedo con tus amigos (¡todavía tienes que tener algunos)!";
+    $P5 = "racias por su apoyo, <br>Saludos,<br> El equipo de DiscordTop.Org";
 
-    $KNOW_TITLE = "Le saviez-vous ? 🤷‍♂️";
-    $KNOW_DESC = "Sur notre serveur Discord, il est régulier d'avoir des bons plans pour payer moins chère ! Entre les AirDrops et les cadeaux, qu'est-ce que vous attendez pour nous rejoindre ?";
-    $KNOW_BUTTON = "Rejoindre notre Discord !";
+    $KNOW_TITLE = "Sabías ? 🤷‍♂️";
+    $KNOW_DESC = "¡En nuestro servidor de Discord, es habitual tener buenas ofertas para pagar menos! Entre AirDrops y regalos, ¿a qué esperas para unirte a nosotros?";
+    $KNOW_BUTTON = "Únase a nuestra discordia !";
 
-    $FOOTER_TITLE = "Besoin d'aide ?";
-    $FOOTER_DESC = "Nous sommes là, prêt à t'aider !";
+    $FOOTER_TITLE = "Necesidad de ayuda ?";
+    $FOOTER_DESC = "Estamos aquí listos para ayudarte !";
 
 
 ?>
