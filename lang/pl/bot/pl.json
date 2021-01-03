@@ -1,17 +1,17 @@
 {
     "english": {
         "lang": "EN",
-        "on_guild_join": "BOT INSTALLATION",
+        "on_guild_join": "INSJATACJA BOTA",
         "help": {
-            "title": "HELP PANEL - DISCORDTOP.ORG BOT",
-            "bot": "`{0}robot infos` : Display bot infos\n`{0}robot invite` : Get the invite link of the bot\n`{0}ping` : Display bot latency",
-            "dt": "`{0}id` : Get the current server's id\n`{0}vote` : Vote for the current server\n`{0}boost` : Boost the current server\n`{0}user [user]` : Display user's informations\n`{0}server` : Display current server's informations",
-            "tops": "`{0}top` : Display the current Top 10\n`{0}top FR` : Display the Top 10 of French Servers\n`{0}top EN` : Display the Top 10 of English Servers",
+            "title": "PANEL POMOCY - BOT DISCORDTOP.ORG",
+            "bot": "`{0}robot infos` : Pokazuje informacje o bocie\n`{0}robot invite` : Otrzymaj link do dodania bota\n`{0}ping` : Wyświetla ping/latencje bota",
+            "dt": "`{0}id` : Otrzymaj id aktualnego serwera\n`{0}vote` : Zagłosuj na aktualny serwer\n`{0}boost` : Zboostój aktualny serwer\n`{0}user [user]` : Wyświetla informacje o użytkowniku\n`{0}server` : Wyświetla informacje o aktualnym serwerze",
+            "tops": "`{0}top` : Wyświetla aktualną TOP 10\n`{0}top FR` : Wyświetla TOP 10 Francuskich Serwerów\n`{0}top EN` : Wyświetla TOP 10 Angielskich Serwerów",
             "config": {
-                "name": ":tools: | **Configuration** (Owner only)",
+                "name": ":tools: | **Konfiguracja** (Tylko Właściciel)",
                 "value": "`{0}config install` : Install the bot\n`{0}config invite` : Create a new invite\n`{0}config lang [lang]` : Select the language of your server"
             },
-            "support": "[Discord Server](https://discord.gg/pYYpknj) • [Website]({})"
+            "support": "[Serwer Discord](https://discord.gg/pYYpknj) • [Strona]({})"
         },
         "ping": ":robot: **Bot Latency :** `{}ms`{}\n:globe_with_meridians: **Website Latency :** `{}ms`{}",
         "botinfos": {
