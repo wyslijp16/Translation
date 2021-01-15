@@ -9,33 +9,33 @@
             "tops": "`{0}top` : Wyświetla aktualną TOP 10\n`{0}top FR` : Wyświetla TOP 10 Francuskich Serwerów\n`{0}top EN` : Wyświetla TOP 10 Angielskich Serwerów",
             "config": {
                 "name": ":tools: | **Konfiguracja** (Tylko Właściciel)",
-                "value": "`{0}config install` : Install the bot\n`{0}config invite` : Create a new invite\n`{0}config lang [lang]` : Select the language of your server"
+                "value": "`{0}config install` : Zainstaluj bota\n`{0}config invite` : Stwórz nowe zaproszenie\n`{0}config lang [lang]` : Wybierz język serwera"
             },
             "support": "[Serwer Discord](https://discord.gg/pYYpknj) • [Strona]({})"
         },
-        "ping": ":robot: **Bot Latency :** `{}ms`{}\n:globe_with_meridians: **Website Latency :** `{}ms`{}",
+        "ping": ":robot: **Latencja Bota :** `{}ms`{}\n:globe_with_meridians: **Latencja Strony :** `{}ms`{}",
         "botinfos": {
-            "description": "A bot linked to [DiscordTop]({}), made to vote from Discord, display informations, and more !",
-            "botdev": ":robot: Bot Developer",
-            "webdev": ":man_technologist: Web Developer",
+            "description": "Bot własności [DiscordTop]({}), stworzony do głosowania z Discorda, wyświetlania informacji, i wiele więcej !",
+            "botdev": ":robot: Deweloper Bota",
+            "webdev": ":man_technologist: Deweloper Strony",
             "stats": {
-                "name": ":bar_chart: Bot Statistics",
-                "value": "> Servers : `{}`\n> Users : `{}`\n> Average : `{}` users/server"
+                "name": ":bar_chart: Statystyki Bota",
+                "value": "> Serwerów : `{}`\n> Użytkowników : `{}`\n> Średnia : `{}` użytkowników/serwerów"
             }
         },
         "botinvite": {
-            "title": "YOU WANT MORE VISIBILITY ? INVITE ME !",
+            "title": "CHCESZ WIĘCEJ WIDOCZNOŚCI ? DODAJ MNIE !",
             "pre": {
-                "name": "Prerequisite",
-                "value": ":globe_with_meridians: [Web registration]({})"
+                "name": "Warunki Wstępne",
+                "value": ":globe_with_meridians: [Rejestracja internetowa]({})"
             },
             "perms": {
                 "name": "Discord Permissions required",
                 "value": "{0} Create Invite\n{0} Read Messages\n{0} Send Messages\n{0} Manage Message\n{0} Embed Links\n{0} Attach Files\n{0} Use External Emojis"
             },
             "link": {
-                "name": "Invite Link",
-                "value": ":round_pushpin: **[Clic here]({})**"
+                "name": "Link Zaproszeniowy",
+                "value": ":round_pushpin: **[Kliknij tutaj]({})**"
             }
         },
         "id": "Your server id is `{}`",
