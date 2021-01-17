@@ -1,7 +1,7 @@
 <?php
 
-	//**************************** CONTENU ****************************//
-	// Le menu est indépendant des pages !
+	//**************************** TREŚĆ ****************************//
+	// Menu jest niezależne od stron!
 
 	$L_TITLE = "Dziś";
 	$L_SERVER = "Serwerów";
