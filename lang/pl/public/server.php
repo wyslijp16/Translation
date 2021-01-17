@@ -92,7 +92,7 @@
 
 	// SIGNALS
 
-	$S_BUTTON_SIGNAL = "Signaler ce serveur !";
+	$S_BUTTON_SIGNAL = "Zgłoś ten serwer !";
 	$S_SIGNAL_WARNING = "Attention, DiscordTop ne peux pas bannir un compte Discord ni supprimer un serveur Discord. Nous agissons uniquement sur notre plateforme !<br>Pour tout problème lié à l'application Discord, merci de contacter <a href='https://support.discord.com/hc/en-us/requests/new'>le support de l'application Discord</a> !";
 	$S_SIGNAL_TITLE = "Type d'incident";
 	$S_SIGNAL_CONTENT_1 = "invitation Invalide";
