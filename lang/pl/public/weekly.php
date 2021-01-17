@@ -1,13 +1,13 @@
 <?php
 
-	//**************************** CONTENU ****************************//
-	// Le menu est indépendant des pages !
+	//**************************** TREŚĆ ****************************//
+	// Menu jest niezależne od stron!
 
 	$L_TITLE = "W tym tygodniu";
 	$L_SERVER = "Serwerów";
 	$L_MEMBER = "Głosujących";
 
-	// Tableau
+	// Tablica
 
 	$T_RANK = "Ranga";
 	$T_NAME = "Nazwa";
