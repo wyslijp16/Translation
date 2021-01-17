@@ -1,20 +1,20 @@
 <?php
 
-    $TITLE = "Bienvenue sur DISCORDTOP.ORG ! 👋";
-    $P1 = "Salut, %username%";
-    $P2 = "Permettez-moi de me présenter rapidement, je m'appelle Jules et je suis l'assistant de DISCORDTOP.ORG. Je suis celui qui va vous harceler avec des emails, enfin en général ils sont utiles et surtout il y a des codes cadeaux régulièrement donc vous devriez m'aimer.";
-    $P3 = "Cependant, évitez de me demander pourquoi je m'occupe de cette tâche, disons que je n'ai pas eu trop de choix ...";
-    $P4 = "Passons à autre chose .. J'ai donc été chargé de vous accueillir, vous venez de vous inscrire sur DISCORDTOP.ORG et ce n'est pas rien! Pas de panique, ce n'est pas un mariage même si cela ne me dérangerait !";
-    $P5 = "Pour finir ce roman, sachez que DISCORDTOP.ORG est une communauté qui aime s'amuser et profiter de la vie. Nous sommes des bons vivants, voulez-vous rejoindre cette superbe communauté?";
-    $P6 = "Avant de vous quitter ... Mon patron me demande de promouvoir notre Discord, de temps en temps il aime donner des codes cadeaux ou même des cadeaux. Si cela vous intéresse !";
-    $BUTTON = "REJOINS MOI SUR DISCORD ! 🤪";
+    $TITLE = "Witamy na DISCORDTOP.ORG ! 👋";
+    $P1 = "Hej, %username%";
+    $P2 = "Pozwól mi się szybko przedstawić, nazywam się Jules i jestem asystentem DISCORDTOP.ORG. Jestem tym który cię będzie nękać mailami, generalnie są użyteczne i są w nich często kody prezentowe więc powinieneś to polubić.";
+    $P3 = "Jednak, nie pytaj się mnie dlaczego się zajmuje tym zadaniem, powiedzmy że nie mam zbytnio wyboru...";
+    $P4 = "Przejdźmy do czegoś innego.. Zostałem zobowiązany by cię przywitać, właśnie zarejestrowałeś/aś się na DISCORDTOP.ORG i to nie jest nic! Bez paniki, to nie jest ślub nawet jeżeli by mi to nie przeszkadzało !";
+    $P5 = "By zakończyć tą powieść, wiedz że DISCORDTOP.ORG jest społecznością która lubi się bawić i cieszyć się życiem. Jesteśmy żywymi istotami, chcesz dołączyć do tej genialnej społeczności?";
+    $P6 = "Zanim się opuścimy... Mój szef zapytał mnie aby promować nasz serwer, od czasu do czasu daje on kody prezentowe lub nawet prezenty. Jeżeli to cię interesuje !";
+    $BUTTON = "DOŁĄCZ DO MNIE NA DISCORD ! 🤪";
 
-    $KNOW_TITLE = "Le saviez-vous ? 🤷‍♂️";
-    $KNOW_DESC = "Vous pouvez gagner de l'argent virtuel en proposant à vos amis de rejoindre DiscordTop !";
-    $KNOW_BUTTON = "En savoir plus sur l'affiliation !";
+    $KNOW_TITLE = "Czy wiedziałeś/aś ? 🤷‍♂️";
+    $KNOW_DESC = "Możesz dostać wirtualne pieniądze proponując swoim przyjacielom dołączenie do DiscordTop !";
+    $KNOW_BUTTON = "Dowiedz się więcej o afiliacjii !";
 
-    $FOOTER_TITLE = "Besoin d'aide ?";
-    $FOOTER_DESC = "Nous sommes là, prêt à t'aider !";
+    $FOOTER_TITLE = "Potrzebna pomoc ?";
+    $FOOTER_DESC = "Jesteśmy tu, gotowi by ci pomóc !";
 
 
 ?>
