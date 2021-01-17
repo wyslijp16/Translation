@@ -30,56 +30,56 @@
                 "value": ":globe_with_meridians: [Rejestracja internetowa]({})"
             },
             "perms": {
-                "name": "Discord Permissions required",
-                "value": "{0} Create Invite\n{0} Read Messages\n{0} Send Messages\n{0} Manage Message\n{0} Embed Links\n{0} Attach Files\n{0} Use External Emojis"
+                "name": "Wymagane Discordowe uprawnienia",
+                "value": "{0} Tworzenie zaproszenia\n{0} Czytanie kanałów tekstowych i wyświetlanie kanałów głosowych\n{0} Wysyłanie wiadomości\n{0} Zarządzanie wiadomościami\n{0} Wyświetlanie podglądu linku\n{0} Załączanie plików\n{0} Używanie zewnętrznych emoji"
             },
             "link": {
                 "name": "Link Zaproszeniowy",
                 "value": ":round_pushpin: **[Kliknij tutaj]({})**"
             }
         },
-        "id": "Your server id is `{}`",
+        "id": "ID serwera `{}`",
         "config": {
-            "owner": ":x: **Only the server's owner is allowed to use this command**",
+            "owner": ":x: **Jedynie właściciel serwera może wykonać tą komende**",
             "install": {
-                "title_success": "INSTALLATION SUCCESSFUL",
-                "title_fail": "INSTALLATION FAILED"
+                "title_success": "INSTALACJA UDANA",
+                "title_fail": "INSTALACJA NIEUDANA"
             },
             "invite": {
-                "title_success": "INVITE MODIFICATION SUCCESSFUL",
-                "title_fail": "INVITE MODIFICATION FAILED",
-                "fail": "**Invite modification failed : I don't have the Create Instant Invite permission.\nExecute the `{}config invite` command after adding the permission.**"
+                "title_success": "MODYFIKACJA ZAPROSZENIA UDANA",
+                "title_fail": "MODYFIKACJA ZAPROSZENIA NIEUDANA",
+                "fail": "**Modyfikacja zaproszenia nieudana : Nie mam uprawnienia Tworzenia zaproszenia.\nWykonaj komende `{}config invite` po dodaniu tego uprawnienia.**"
             },
             "lang": {
-                "title_success": "LANGUAGE MODIFICATION SUCCESSFUL",
-                "title_fail": "LANGUAGE MODIFICATION FAILED",
-                "error": "Your server's language is already set to `{}`"
+                "title_success": "MODYFIKACJA JĘZYKA UDANA",
+                "title_fail": "MODYFIKACJA JĘZYKA NIEUDANA",
+                "error": "Język serwera już jest `{}`"
             }
         },
         "vote": {
-            "success": ":v: SUCCESSFUL VOTE",
-            "fail": ":x: FAILED VOTE"
+            "success": ":v: UDANY GŁOS",
+            "fail": ":x: NIEUDANY GŁOS"
         },
         "boost": {
-            "success": ":v: SUCCESSFUL BOOST",
-            "fail": ":x: FAILED BOOST"
+            "success": ":v: UDANY BOOST",
+            "fail": ":x: NIEUDANY BOOST"
         },
         "top": {
-            "description": "***You can consult this top on [DiscordTop.Org]({}) !***\n```{}```"
+            "description": "***Możesz skonsultować TOP na [DiscordTop.Org]({}) !***\n```{}```"
         },
         "user": {
-            "id_error": ":x: **Error : Please enter a valid id or a valid mention (or nothing)**",
-            "bot_error": ":x: **This user is a bot... He don't have a DiscordTop account.**",
-            "account_error": ":x: **This user don't have a DiscordTop account**",
-            "loading": "<a:Loading:645602088625373190> ***Loading user datas...***",
-            "author": "Requested by {}",
+            "id_error": ":x: **Błąd : Proszę wpisać prawidłowe id lub prawidłową wzmiankę (lub nic)**",
+            "bot_error": ":x: **Ten użytkownik jest botem... Nie posiada konta DiscordTop.**",
+            "account_error": ":x: **Ten użytkownik nie posiada konta DiscordTop**",
+            "loading": "<a:Loading:645602088625373190> ***Ładowanie danych użytkownika...***",
+            "author": "Zażądane przez {}",
             "stats": {
-                "title": "USER STATS",
-                "description": "**Statistics of {}** (`{}`)"
+                "title": "STATYSTYKI UŻYTKOWNIKA",
+                "description": "**Statystyki {}** (`{}`)"
             },
             "level": {
-                "name": ":star: User Level",
-                "value": "> Level : `{}`\n> XP : `{}`"
+                "name": ":star: Poziom Użytkownika",
+                "value": "> Poziom : `{}`\n> XP : `{}`"
             },
             "ratio": {
                 "name": ":chart_with_upwards_trend: User Ratio",
