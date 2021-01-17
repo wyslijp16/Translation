@@ -1,7 +1,7 @@
 <?php
 
-	//**************************** CONTENU ****************************//
-	// Le menu est indépendant des pages !
+	//**************************** TREŚĆ ****************************//
+	// Menu jest niezależne od stron!
 
 	$LAST_BOOST = "OSTATNI BOOST";
 
@@ -14,7 +14,7 @@
 	$SERVER_BUTTON_JOIN = "Dołącz";
 
 	$SEE_MORE = "Wyświetl więcej...";
-	$SEE_MORE_ALL = "Właśnie dobiłeś/aś koniec listy, mocny cios...";
+	$SEE_MORE_ALL = "Właśnie dotarłeś/aś na koniec listy...";
 
 
 ?>
