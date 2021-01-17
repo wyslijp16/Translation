@@ -14,7 +14,7 @@
     $KNOW_BUTTON = "Dowiedz się więcej o afiliacjii !";
 
     $FOOTER_TITLE = "Potrzebna pomoc ?";
-    $FOOTER_DESC = "Jesteśmy tu, gotowi by ci pomóc !";
+    $FOOTER_DESC = "Jesteśmy tu , gotowi by ci pomóc !";
 
 
 ?>
