@@ -1,37 +1,37 @@
 <?php
 
-    $PROFILE_TITLE = "Salut, ";
-    $PROFILE_DESC = "C'est ta page de profil, c'est cool n'est-ce pas? Vous trouverez de nombreuses statistiques sur vos votes, et vous pourrez également ajuster vos paramètres!";
+    $PROFILE_TITLE = "Hej, ";
+    $PROFILE_DESC = "To twoja strona profilowa, super co nie? Znajdziesz tutaj wiele statystyk co do twoich głosów, i będziesz mógł dostosować swoje ustawienia!";
 
-    $PROFIL_CARD_1_VOTE = "Votes";
+    $PROFIL_CARD_1_VOTE = "Głosy";
     $PROFIL_CARD_1_XP = "XP";
     $PROFIL_CARD_1_CASH = "CASH";
-    $PROFIL_CARD_1_LEVEL = "LEVEL";
+    $PROFIL_CARD_1_LEVEL = "POZIOM";
 
-    $PROFIL_CARD_2_TITLE = "Biographie";
-    $PROFIL_CARD_2_DESC = "Message <i>(255 caractères maximum) :</i>";
+    $PROFIL_CARD_2_TITLE = "Biografia";
+    $PROFIL_CARD_2_DESC = "Wiadomość <i>(255 znaków maksymalnie) :</i>";
 
-    $PROFILE_CARD_3_TITLE = "Vos 7 dernières actions !";
-    $PROFILE_CARD_3_DESC = "Activité";
-    $PROFILE_CARD_3_1 = "Serveur";
-    $PROFILE_CARD_3_2 = "Date";
-    $PROFILE_CARD_3_3 = "Type";
+    $PROFILE_CARD_3_TITLE = "Twoje 7 ostatnich aktywności !";
+    $PROFILE_CARD_3_DESC = "Aktywność";
+    $PROFILE_CARD_3_1 = "Serwer";
+    $PROFILE_CARD_3_2 = "Data";
+    $PROFILE_CARD_3_3 = "Typ";
 
-    $PROFILE_CARD_4_TITLE = "Vos votes des 7 derniers jours";
+    $PROFILE_CARD_4_TITLE = "Twoje głosy z ostatnich 7 dni";
 
-    $PROFILE_CARD_5_TITLE = "Votes par mois";
+    $PROFILE_CARD_5_TITLE = "Głosy na mięsiąc";
     
-    $PROFILE_CARD_6_TITLE = "Vos votes des 30 derniers jours";
+    $PROFILE_CARD_6_TITLE = "Twoje głosy z ostatnich 30 dni";
 
-    $PROFILE_CARD_6_TITLE = "Historique des achats";
+    $PROFILE_CARD_6_TITLE = "Historia zakupów";
     $PROFILE_CARD_6_1 = "ID";
-    $PROFILE_CARD_6_2 = "Produit";
-    $PROFILE_CARD_6_3 = "Prix";
-    $PROFILE_CARD_6_4 = "Date";
+    $PROFILE_CARD_6_2 = "Produkt";
+    $PROFILE_CARD_6_3 = "Cena";
+    $PROFILE_CARD_6_4 = "Data";
 
     // MODAL VALIDATION
-    $PROFILE_MODAL_TITLE = "Souhaitez-vous confirmer les modifications apportées ?";
-    $PROFILE_MODAL_BUTTON = "Enregistrer les modifications...";
-    $PROFIL_NOTIF_SUCCESS = "La modification a été réalisée avec succès !";
+    $PROFILE_MODAL_TITLE = "Czy chcesz potwierdzić wprowadzone zmiany?";
+    $PROFILE_MODAL_BUTTON = "Zapisz zmiany...";
+    $PROFIL_NOTIF_SUCCESS = "Zmiana została zakończona pomyślnie !";
 
 ?>
