@@ -1,24 +1,24 @@
 <?php
 
-	$PARTNERS_TITLE = "Paramètres partenaire";
+	$PARTNERS_TITLE = "Ustawienia patrnerów";
 
-	$PARTNERS_PROGRAM_TITLE = "PARTNERS PROGRAM";
-	$PARTNERS_PROGRAM_RECUP_COIN = "Récupérer mes gains";
-	$PARTNERS_PROGRAM_RECUP_COIN_DESC = "Attention, pour effectuer un virement, vous devez avoir au minimum 10 000 TopCoins !";
-	$PARTNERS_PROGRAM_RECUP_COIN_BUTTON = "Demander un virement (soon)";
+	$PARTNERS_PROGRAM_TITLE = "PROGRAM PARTNERSKI";
+	$PARTNERS_PROGRAM_RECUP_COIN = "Odbierz mój zarobek";
+	$PARTNERS_PROGRAM_RECUP_COIN_DESC = "Uwaga, aby wykonać przelew, musisz posiadać przynajmniej 10 000 TopCoinsów !";
+	$PARTNERS_PROGRAM_RECUP_COIN_BUTTON = "Poproś przelew (soon)";
 
-	$PARTNERS_PROGRAM_CODE = "Code créateur";
-	$PARTNERS_PROGRAM_CODE_DESC = "Code Promotionnel de -10 % sur toute la boutique";
-	$PARTNERS_PROGRAM_CODE_BUTTON = "Configurer";
+	$PARTNERS_PROGRAM_CODE = "Kod twórczy";
+	$PARTNERS_PROGRAM_CODE_DESC = "Kod Promocyjny -10 % na cały sklep";
+	$PARTNERS_PROGRAM_CODE_BUTTON = "Zkonfiguruj";
 
-	$PARTNERS_SETTINGS_TITLE = "PARTNERS SETTINGS";
+	$PARTNERS_SETTINGS_TITLE = "USTAWIENIA PARTNERSKIE";
 
-	$PARTNERS_SETTINGS_DESC = "Explications";
-	$PARTNERS_SETTINGS_SUBDESC = "Félicitations, vous êtes désormais un partenaire de DiscordTop !<br>Votre compte est désormais Partenaire, vous pouvez récupérer votre lien d'affilié dans la page d'affiliation et la partager. Vous possédez des avantages considérables, en tant que partenaire vous avez accès à l'abonnement Developer gratuitement, vous pouvez aussi retirer vos coins en demandant un virement PayPal ou créer des codes cadeaux pour votre communauté !<br><br>De cette page, vous pouvez également configurer votre logo et votre lien qui seront affichés dans le pied de page de notre site.";
-	$PARTNERS_SETTINGS_UPDATE = "Configuration";
-	$PARTNERS_SETTINGS_UPDATE_IMG = "Lien de l'image (logo)";
-	$PARTNERS_SETTINGS_UPDATE_LINK = "Lien de votre projet";
-	$PARTNERS_SETTINGS_UPDATE_BUTTON = "Configurer";
+	$PARTNERS_SETTINGS_DESC = "Wyjaśnienia";
+	$PARTNERS_SETTINGS_SUBDESC = "Gratulacje, jesteś teraz partnerem DiscordTop !<br>Twoje konto jest od teraz partnerskie,  możesz odebrać link afiliacyjny a stronie afiliacyjnej by go promować. Posiadasz znaczące korzyści, jako partner masz dostęp do abonamentu Developper za darmo, możesz też odebrać twoje TopCoinsy prosząc o przelew PayPal lub tworzyć kody prezentowe dla swojej społeczności !<br><br>Na tej stronie, możesz także skonfigurować swoje logo i link które będą wyświetlane na dole naszej strony.";
+	$PARTNERS_SETTINGS_UPDATE = "Konfiguracja";
+	$PARTNERS_SETTINGS_UPDATE_IMG = "Link obrazu (logo)";
+	$PARTNERS_SETTINGS_UPDATE_LINK = "Link do projektu";
+	$PARTNERS_SETTINGS_UPDATE_BUTTON = "Zkonfiguruj";
 
 
 ?>
