@@ -1,10 +1,10 @@
 <?php
 
-    $MENU_HOME = "Accueil";
-    $MENU_SERVERS = "Mes serveurs";
-    $MENU_SHOP = "Boutique";
-    $MENU_AFFILIATE = "Affiliation";
-    $MENU_PARTNERS = "Partenaires";
-    $MENU_HELP = "Support";
+    $MENU_HOME = "Strona Główna";
+    $MENU_SERVERS = "Moje Serwery";
+    $MENU_SHOP = "Sklep";
+    $MENU_AFFILIATE = "Afiliacja";
+    $MENU_PARTNERS = "Partnerzy";
+    $MENU_HELP = "Pomoc";
 
 ?>
