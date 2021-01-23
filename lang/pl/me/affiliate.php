@@ -1,26 +1,26 @@
 <?php
 
 	// CARTE 1
-	$AFFILIATE_CARD_1_TITLE = "Prêt pour l'affiliation ?";
-	$AFFILIATE_CARD_1_DESC = "Nous proposons depuis peu un système d’affiliation ! Celui-ci vous permet de parrainer des utilisateurs en les invitant à s’inscrire sur notre plateforme !<br><br>Vous recevrez une comission sur les achats de vos filleuls et de l’xp supplémentaire !";
+	$AFFILIATE_CARD_1_TITLE = "Gotowy na afiliacje ?";
+	$AFFILIATE_CARD_1_DESC = "Proponujemy od niedawna system afiliacyjny ! Pozwala on na zapraszanie użytkowników proponując im zapisanie na naszej platformie !<br><br>Dostaniesz komisje na zakupach swoich zaproszonych i dodatkowe punkty doświadczenia !";
 
 
-	$AFFILIATE_CARD_1_1 = "Clics";
-	$AFFILIATE_CARD_1_2 = "Affilié(s)";
-	$AFFILIATE_CARD_1_3 = "Niveau";
+	$AFFILIATE_CARD_1_1 = "Kliknięć";
+	$AFFILIATE_CARD_1_2 = "Zaproszony(ch)";
+	$AFFILIATE_CARD_1_3 = "Poziom";
 
-	$AFFILIATE_CARD_2_TITLE = "PARTAGEZ VOTRE LIEN DE PARRAINAGE AVEC VOS AMIS ET EMPOCHEZ UNE COMMISSION SUR LEURS ACHATS !";
-	$AFFILIATE_CARD_2_LEVEL = "LEVEL";
-	$AFFILIATE_CARD_2_IN = "affilié(s) sur"; // xx affilié(s) sur xx !
-	$AFFILIATE_CARD_2_END = "Nombre d'affiliés :";
+	$AFFILIATE_CARD_2_TITLE = "UDOSTĘPNIAJ SWÓJ LINK ZAPROSZENIOWY ZE SWOIMI ZNAJOMYMI I DOSTAWAJ KOMISJE Z ICH ZAKUPÓW !";
+	$AFFILIATE_CARD_2_LEVEL = "POZIOM";
+	$AFFILIATE_CARD_2_IN = "zaproszony(ch) na"; // xx zaproszony(ch) na xx !
+	$AFFILIATE_CARD_2_END = "Liczba zaproszonych :";
 
-	$AFFILIATE_CARD_3_TITLE = "LOGS DES AFFILIÉS";
-	$AFFILIATE_CARD_3_1 = "Pseudo";
-	$AFFILIATE_CARD_3_2 = "Action";
-	$AFFILIATE_CARD_3_3 = "Gains";
-	$AFFILIATE_CARD_3_3_COINS = "coins";
+	$AFFILIATE_CARD_3_TITLE = "LOGI ZAPROSZNOYCH";
+	$AFFILIATE_CARD_3_1 = "Pseudonim";
+	$AFFILIATE_CARD_3_2 = "Akcja";
+	$AFFILIATE_CARD_3_3 = "Zdobyto";
+	$AFFILIATE_CARD_3_3_COINS = "coinsów";
 
-	$AFFILIATE_CARD_4_TITLE = "VOS AFFILIÉS";
-	$AFFILIATE_CARD_4_1 = "Pseudo";
+	$AFFILIATE_CARD_4_TITLE = "TWOI ZAPROSZENI";
+	$AFFILIATE_CARD_4_1 = "Pseudonim";
 
 ?>
