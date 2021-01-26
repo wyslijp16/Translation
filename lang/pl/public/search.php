@@ -1,7 +1,7 @@
 <?php
 
-	//**************************** CONTENU ****************************//
-	// Le menu est indépendant des pages !
+	//**************************** TREŚĆ ****************************//
+	// Menu jest niezależne od stron !
 
 	$S_TITLE = "Szukasz :";
 	$S_BUTTON_ABOUT = "Wyświetl kartę";
