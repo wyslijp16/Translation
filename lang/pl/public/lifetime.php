@@ -1,13 +1,13 @@
 <?php
 
-	//**************************** CONTENU ****************************//
-	// Le menu est indépendant des pages !
+	//**************************** TREŚĆ ****************************//
+	// Menu jest niezależne od stron !
 
 	$L_TITLE = "LifeTime";
 	$L_SERVER = "Serwerów";
 	$L_MEMBER = "Głosujących";
 
-	// Tableau
+	// Tablica/Tabela
 
 	$T_RANK = "Ranga";
 	$T_NAME = "Nazwa";
