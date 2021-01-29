@@ -1,6 +1,6 @@
 <?php
 
-	// MENU - NAWIGACJAs
+	// MENU - NAWIGACJA
 
 	$MENU_HOME = "STRONA GŁÓWNA";
 	$MENU_ABOUT_US = "O NAS";
