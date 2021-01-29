@@ -1,7 +1,7 @@
 <?php
 
-	//**************************** CONTENU ****************************//
-	// Le menu est indépendant des pages !
+	//**************************** TREŚĆ ****************************//
+	// Menu jest niezależne od stron !
 
 	$PRESENTATION_TITLE = "Kim jesteśmy ?";
 	$PRESENTATION_DESCRIPTION = "DiscordTop jest stroną grupy Anarya. Mamy już więcej niż 2 lata doświadczenia z naszą francuską stroną Discord-Top.fr która liczy setki tysięcy odwiedzających na rok.";
@@ -13,6 +13,6 @@
 	$WHYCHOOSE_DESCRIPTION = "Dwa lata doświadczenia to nie prosta sprawa. Stworzyliśmy społeczność ludzi którzy mają tą samą chęć: EWOLUOWAĆ. <br> <br> DiscordTop daje wszystkie możliwości i się stara dać jak najwięcej by każdy z waszych serwerów był widoczny dziś i jutro ! <br> <br> Z dziesiątkami nowych funkcjonalności, zaangażujcie waszą społeczność w wasz rozwój! Podejmujcie wyzwania, organizujcie konkursy, konsultujcie waszy statystyki na żywo  powiększajcie waszą widoczność ! <br> <br> DiscordTop jest stroną zaufania, bezpieczeństwa i gwarantowanej widoczności ! Nie musicie płacić by być widocznym, to wasza społeczność wam pomaga i was wspiera !";
 
 	$HOW_TITLE = "Jak to działa ?";
-	// Images can't be translated... Sorry :'(
+	// Zdjęcia nie mogą być przetłumaczone... Przepraszamy :'(
 
 ?>
