@@ -1,24 +1,24 @@
 <?php
 
-	// CARTE 1
-	$INDEX_CARD_1_TITLE = "Prêt pour l'affiliation ?";
-	$INDEX_CARD_1_DESC = "Nous proposons depuis peu un système d’affiliation ! Celui-ci vous permet de parrainer des utilisateurs en les invitant à s’inscrire sur notre plateforme !<br><br>Vous recevrez une comission sur les achats de vos filleuls et de l’xp supplémentaire !";
+	// KARTA 1
+	$INDEX_CARD_1_TITLE = "Gotowy/a na afiliacje ?";
+	$INDEX_CARD_1_DESC = "Proponujemy od niedawna system afiliacyjny ! Pozwala on na zapraszanie użytkowników proponując im zapisanie na naszej platformie !<br><br>Dostaniesz komisje na zakupach swoich zaproszonych i dodatkowe punkty doświadczenia !";
 
-	// AFFICHAGE DES SERVEURS
-	$INDEX_SERVERS_NEED_ACTIVATE = "ACTIVER CE SERVEUR";
-	$INDEX_SERVERS_COG = "CONFIGURER CE SERVEUR";
-	$INDEX_SERVERS_BAN = "SERVEUR SUSPENDU";
+	// WYŚWIETLANIE SERWERÓW
+	$INDEX_SERVERS_NEED_ACTIVATE = "AKTYWUJ TEN SERWER";
+	$INDEX_SERVERS_COG = "ZKONFIGURUJ TEN SERWER";
+	$INDEX_SERVERS_BAN = "SERWER ZAWIESZONY";
 
-	// IF DON'T HAVE A SERVER
-	$INDEX_CARD_2_TITLE = "TU N’AS AUCUN SERVEUR SUR TON COMPTE DISCORD ...";
-	$INDEX_CARD_2_DESC = "Mais ne t’inquiète pas, on te propose à la place de consulter tes statistiques et de configurer ta fiche utilisateur, c’est sympa pour montrer comment tu es actif sur tes serveurs favoris !";
-	$INDEX_CARD_2_BUTTON = "REJOINDRE NOTRE COMMUNAUTÉ";
+	// W RAZIE BRAKU SERWERÓW
+	$INDEX_CARD_2_TITLE = "NIE MASZ SERWERÓW NA SWOIM KONCIE DISCORD ...";
+	$INDEX_CARD_2_DESC = "Ale się nie martw, proponujemy ci zamiast tego skonsultowanie swoich statystyk i zkonfigurowania swojej karty użytkownika, fajnie jest pokazać jak jesteś aktywny/a na swoich ulubionych serwerach !";
+	$INDEX_CARD_2_BUTTON = "DOŁĄCZ DO NASZEJ SPOŁECZNOŚCI";
 
-	// STATS DU COMPTE
-	$INDEX_CARD_3_TITLE_1 = "Tu as voté";
-	$INDEX_CARD_3_TITLE_2 = "fois ces 30 derniers jours !";
+	// STATY KONTA
+	$INDEX_CARD_3_TITLE_1 = "Zagłosowałeś/aś";
+	$INDEX_CARD_3_TITLE_2 = "razy w ostatnich 30 dniach !";
 	$INDEX_CARD_3_DESC = "Met tes statistiques de fou furieu en avant et vente toi auprès de tes amis avec ta page de profil ! Désormais, tu peux créer un profil publique et le partager avec tes amis !<br><br> Attention, un profil activé se retrouve visible par l’ensemble de nos visiteurs !";
-	$INDEX_CARD_3_BUTTON = "Mes paramètres";
+	$INDEX_CARD_3_BUTTON = "Moje ustawienia";
 
 	// CHARTS STATS SERVERS
 	$INDEX_CHART_1_TITLE = "Les votes de vos serveurs actifs ces 7 derniers jours";
