@@ -11,7 +11,7 @@
 	$FOOTER_SERVER_SUBSCRIPTION = "Subskrypcje";
 
 	$FOOTER_LINKS_TITLE = "UŻYTECZNE LINKI";
-	$FOOTER_LINKS_CAREERS = "Carrières";
+	$FOOTER_LINKS_CAREERS = "Kariera";
 	$FOOTER_LINKS_GUIDELINES = "Czarter";
 	$FOOTER_LINKS_TOS = "Warunki Korzystania";
 	$FOOTER_LINKS_THANKS = "Dziękujemy !";
