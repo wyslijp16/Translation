@@ -1,22 +1,22 @@
 <?php
 
-	//**************************** CONTENU ****************************//
-	// Le menu est indépendant des pages !
-	// HAUT DE PAGE
+	//**************************** TREŚĆ ****************************//
+	// Menu jest niezależne od stron !
+	// GÓRA STRONA
 
 	$slogan = "Odkrywaj, znajduj i wybieraj serwery !";
 	$searchdesc = "Czego szukasz ?";
 	$searchbutton = "Wyszukaj";
-	$servercount_title = "Chercher parmi nos";
-	$servercount_title2 = "serveurs :";
-	$discordheart = "Coup de coeur de la semaine :";
+	$servercount_title = "Wyszukaj pomiędzy";
+	$servercount_title2 = "serwerami :";
+	$discordheart = "Strzał w dziesiątke tygodnia :";
 
-	// SERVEURS BOOSTÉS
+	// ZBOOSTOWANE SERWERY
 
 	$b_button_moreinfo = "Wyświetl kartę";
 	$b_button_joinserver = "Dołącz";
 
-	// CLASSEMENT - TOP
+	// RANKING - TOP
 
 	$t_title = "Ranking";
 	$t_description = "DiscordTop proponuje kilka trybów promocji : ranking dzięki głosom, lista boostów. Zostaje ci tylko podbój rankingu ! To tak jak gra, ale z ładną marchewką na końcu !";
