@@ -82,34 +82,34 @@
                 "value": "> Poziom : `{}`\n> XP : `{}`"
             },
             "ratio": {
-                "name": ":chart_with_upwards_trend: User Ratio",
-                "value": "> Weekly Ratio : `{}`\n> Monthly Ratio : `{}`"
+                "name": ":chart_with_upwards_trend: Średnia Użytkownika",
+                "value": "> Średnia Tygodnia : `{}`\n> Średnia Miesiąca : `{}`"
             },
             "general": {
-                "name": ":abacus: User General Votes",
-                "value": "> Lifetime's Votes : `{}`\n> Yesterday's Votes : `{}`\n> Today's Votes : `{}`"
+                "name": ":abacus: Globalne Głosy Użytkownika",
+                "value": "> Wszystkie Głosy : `{}`\n> Wczorajsze Głosy : `{}`\n> Dzisiejsze Głosy : `{}`"
             },
             "server": {
-                "name": ":inbox_tray: User Votes on this Server",
-                "value": "> Lifetime's Votes : `{}`\n> Monthly's Votes : `{}`"
+                "name": ":inbox_tray: Serwerowe Głosy Użytkownika",
+                "value": "> Wszystkie Głosy : `{}`\n> Wczorajsze Głosy : `{}`\n> Dzisiejsze Głosy : `{}`"
             }
         },
         "server": {
-            "loading": "<a:Loading:645602088625373190> ***Loading server datas...***",
-            "author": "Requested by {}",
+            "loading": "<a:Loading:645602088625373190> ***Ładowanie informacji o serwerze...***",
+            "author": "Zażądane przez {}",
             "stats": {
-                "name": "{} DiscordTop Stats",
-                "value": "Monthly's Votes : `{}`\nLifetime's Votes : `{}`\nRanking : `{}`"
+                "name": "{} Statystyki DiscordTop",
+                "value": "Miesięczne Głosy : `{}`\nWszystkie Głosy : `{}`\nPozycja : `{}`"
             },
-            "mt_top": ":calendar_spiral: Monthly Top",
-            "lt_top": ":abacus: Lifetime Top",
+            "mt_top": ":calendar_spiral: Pozycja Miesiąca",
+            "lt_top": ":abacus: Pozycja Ogólna",
             "dt_datas": {
-                "name": "DiscordTop Datas",
-                "value": "Type : `{}`\nLanguage : `{}`\nInscription : `{}`"
+                "name": "Dane DiscordTop",
+                "value": "Typ : `{}`\nJęzyk : `{}`\nRejestracja : `{}`"
             },
             "d_datas": {
-                "name": "Discord Datas",
-                "value": "Id : `{}`\nOwner : `{}` (`{}`)\nMembercount : `{}`\nCreation : `{}`"
+                "name": "Dane Discord",
+                "value": "Id : `{}`\nWłaściciel : `{}` (`{}`)\nCzłonków : `{}`\nStworzenia : `{}`"
             }
         }
     }
