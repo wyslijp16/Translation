@@ -17,7 +17,7 @@
 	// STATY KONTA
 	$INDEX_CARD_3_TITLE_1 = "Zagłosowałeś/aś";
 	$INDEX_CARD_3_TITLE_2 = "razy w ostatnich 30 dniach !";
-	$INDEX_CARD_3_DESC = "Met tes statistiques de fou furieu en avant et vente toi auprès de tes amis avec ta page de profil ! Désormais, tu peux créer un profil publique et le partager avec tes amis !<br><br> Attention, un profil activé se retrouve visible par l’ensemble de nos visiteurs !";
+	$INDEX_CARD_3_DESC = "Pokaż swoje chore statystyki i przechwal się przed swoimi znajomymi swoją stroną profilową ! Od teraz, możesz stworzyć publiczny profil i udostępniać go swoim znajomym !<br><br> Uwaga, aktywny profil może być wyświetlony przez całość naszych odwiedzających !";
 	$INDEX_CARD_3_BUTTON = "Moje ustawienia";
 
 	// CHARTS STATS SERVERS
