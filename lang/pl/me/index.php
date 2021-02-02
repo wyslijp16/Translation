@@ -21,12 +21,12 @@
 	$INDEX_CARD_3_BUTTON = "Moje ustawienia";
 
 	// CHARTS STATS SERVERS
-	$INDEX_CHART_1_TITLE = "Les votes de vos serveurs actifs ces 7 derniers jours";
+	$INDEX_CHART_1_TITLE = "Głosy twoich serwerów z ostatnich 7 dni";
 
 	// CARD NO ACTIVE SERVERS
-	$INDEX_CARD_4_TITLE = "TU N’AS PAS ENCORE ACTIVER DE SERVEUR ...";
-	$INDEX_CARD_4_DESC = "Oops.. Normalement, il y a un magnifique graphique ici.. Il affiche les performances de ton/tes serveur(s) mais d'après nos informations, tu n'as activer aucun serveur...";
-	$INDEX_CARD_4_BUTTON = "Mes serveurs";
+	$INDEX_CARD_4_TITLE = "JESZCZE NIE AKTYWOWAŁEŚ/AŚ SERWERÓW ...";
+	$INDEX_CARD_4_DESC = "Oops.. Normalnie, jest tutaj przepiękny grafik.. Wyświetla on performencje twojego/twoich serwera/ów ale zgodnie z naszymi informacjami, nie aktywowałeś/aś żadnych serwerów...";
+	$INDEX_CARD_4_BUTTON = "Moje serwery";
 
 	// CHARTS STATS ACCOUNT
 	$INDEX_CHART_2_TITLE = "Vos votes de ces 7 derniers jours";
