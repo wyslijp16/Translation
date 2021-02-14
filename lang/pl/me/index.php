@@ -29,12 +29,12 @@
 	$INDEX_CARD_4_BUTTON = "Moje serwery";
 
 	// CHARTS STATS ACCOUNT
-	$INDEX_CHART_2_TITLE = "Vos votes de ces 7 derniers jours";
+	$INDEX_CHART_2_TITLE = "Twoje głosy z ostatnich 7 dni";
 
 	// MODAL ADD BOT
-	$INDEX_MODAL_TITLE = "Souhaitez-vous ajouter notre bot ?";
-	$INDEX_MODAL_DESC = "Découvrer la puissance de voter depuis notre bot, de pouvoir (ré)générer une invitation en une seule commande ! <a href=\"https://status.watchbot.app/bot/620276319703269386\" target=\"blank\" style=\"margin-left: -10px;\"><img class=\"mt-3\" src=\"https://api.watchbot.app/bot/620276319703269386/widget?theme=dark\" alt=\"DISCORDTOP#6394\" /></a>";
-	$INDEX_MODAL_BUTTON_CONFIRM = "AJOUTER LE BOT";
-	$INDEX_MODAL_BUTTON_CANCEL = "NON, MERCI !";
-	$INDEX_MODAL_FOOTER = "<a href=\"https://discord.gg/zyjVqasJ8b\">Discuter avec notre communauté pour avoir leurs avis !</a>";
+	$INDEX_MODAL_TITLE = "Czy chcesz dodać naszego bota ?";
+	$INDEX_MODAL_DESC = "Odkryj moc głosowania z bota, i możliwości (zre)generowania zaproszenia jedną komendą ! <a href=\"https://status.watchbot.app/bot/620276319703269386\" target=\"blank\" style=\"margin-left: -10px;\"><img class=\"mt-3\" src=\"https://api.watchbot.app/bot/620276319703269386/widget?theme=dark\" alt=\"DISCORDTOP#6394\" /></a>";
+	$INDEX_MODAL_BUTTON_CONFIRM = "DODAJ BOTA";
+	$INDEX_MODAL_BUTTON_CANCEL = "NIE, DZIĘKUJĘ !";
+	$INDEX_MODAL_FOOTER = "<a href=\"https://discord.gg/zyjVqasJ8b\">Porozmawiaj z naszą społecznością by poznać jej opinie !</a>";
 ?>
