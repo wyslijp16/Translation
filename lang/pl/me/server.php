@@ -1,44 +1,44 @@
 <?php
 
-    // THIS FILE WAS VERY LONG !!
+    // PLIK JEST BARDZO DŁUGI !!
 
     /*-- SERVER NAVBAR --*/
 
-    $SERVER_MENU_BACK_TO_HOME = "Retourner à l'accueil";
-    $SERVER_MENU_SELECTED_SERVER = "Serveur selectionné";
-    $SERVER_MENU_SERVER_TITLE = "SERVER SETTINGS";
-    $SERVER_MENU_HOME = "ACCUEIL";
-    $SERVER_MENU_SETTINGS = "CONFIGURATIONS";
-    $SERVER_MENU_STATS = "STATSISTIQUES";
-    $SERVER_MENU_HISTORY = "HISTORIQU DES VOTES";
+    $SERVER_MENU_BACK_TO_HOME = "Powrót do strony głównej";
+    $SERVER_MENU_SELECTED_SERVER = "Wybrany serwer";
+    $SERVER_MENU_SERVER_TITLE = "USTAWIENIA SERWERA";
+    $SERVER_MENU_HOME = "STRONA GŁÓWNA";
+    $SERVER_MENU_SETTINGS = "KONFIGURACJE";
+    $SERVER_MENU_STATS = "STATYSTYKI";
+    $SERVER_MENU_HISTORY = "HISTORIA GŁOSÓW";
     $SERVER_MENU_GIVEAWAY = "GIVEAWAYS";
 
     /*-- MODAL VALIDATION --*/
-    $SERVER_MODAL_TITLE = "Souhaitez-vous confirmer les modifications apportées ?";
-    $SERVER_MODAL_BUTTON = "Enregistrer les modifications...";
-    $SERVER_NOTIF_SUCCESS = "Tout est ok !";
-    $SERVER_NOTIF_ERROR = "Une erreur s\'est produite, veuillez réessayer !";
+    $SERVER_MODAL_TITLE = "Czy chcesz potwierdzić doznane modyfikacje ?";
+    $SERVER_MODAL_BUTTON = "Zapisz modyfikacje...";
+    $SERVER_NOTIF_SUCCESS = "Wszystko jest ok !";
+    $SERVER_NOTIF_ERROR = "Wystąpił błąd, spróbuj ponownie !";
 
 
 
     /*-- SERVER HOME PAGE --*/
 
-    $SERVER_HOME_CARD_1_TITLE = "YOUR SERVER WAS DESACTIVATE !";
-    $SERVER_HOME_CARD_1_DESC = "Remember to activate the server to share it with your members !";
+    $SERVER_HOME_CARD_1_TITLE = "TWÓJ SERWER ZOSTAŁ ZDEZAKTYWOWANY !";
+    $SERVER_HOME_CARD_1_DESC = "Nie zapomnij aktywować tego serwera i do udostępnienia go ze swoimi członkami !";
 
-    $SERVER_HOME_CARD_2_TITLE = "YOUR SERVER WAS SUSPENDED !";
-    $SERVER_HOME_CARD_2_DESC = "Your server has been suspended ! Click on me for more information !";
-    $SELECT_SERVERS_BAN_1 = "Nom";
-    $SELECT_SERVERS_BAN_2 = "Type";
-    $SELECT_SERVERS_BAN_3 = "Motif";
-    $SELECT_SERVERS_BAN_4 = "Preuve";
-    $SELECT_SERVERS_BAN_5 = "Durée";
-    $SELECT_SERVERS_BAN_6 = "Date de fin";
-    $SELECT_SERVERS_BAN_CLOSE = "Fermer";
-    $SELECT_SERVERS_BAN_APPEL = "Faire appel";
+    $SERVER_HOME_CARD_2_TITLE = "TWÓJ SERWER ZOSTAŁ ZAWIESZONY !";
+    $SERVER_HOME_CARD_2_DESC = "Twój serwer został zawieszony ! Kliknij mnie by poznać więcej informacjii !";
+    $SELECT_SERVERS_BAN_1 = "Nazwa";
+    $SELECT_SERVERS_BAN_2 = "Typ";
+    $SELECT_SERVERS_BAN_3 = "Powód";
+    $SELECT_SERVERS_BAN_4 = "Dowód";
+    $SELECT_SERVERS_BAN_5 = "Długość";
+    $SELECT_SERVERS_BAN_6 = "Data końca";
+    $SELECT_SERVERS_BAN_CLOSE = "Zamknij";
+    $SELECT_SERVERS_BAN_APPEL = "Zaapeluj";
 
-    $SERVER_HOME_CARD_3_TITLE = "WANT MORE VISIBILITY?";
-    $SERVER_HOME_CARD_3_DESC = "Buy a boost for 3 990 CASH, save - 10% with the code";
+    $SERVER_HOME_CARD_3_TITLE = "CHCESZ WIĘCEJ WIDOCZNOŚCI?";
+    $SERVER_HOME_CARD_3_DESC = "Kup boost za 3 990 CASH, zaoszczędź - 10% z tym kodem";
 
     $SERVER_HOME_CARD_4_TITLE = "COMPLETE YOUR INFORMATION !";
     $SERVER_HOME_CARD_4_DESC = "It is essential to regularly check the information on your server !";
