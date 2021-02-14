@@ -1,12 +1,12 @@
 <?php
 
-    $SELECT_CARD_1_TITLE = "Vous avez une équipe ?";
-    $SELECT_CARD_1_DESC = "Vous avez un Comunity Manager, ou peut-être un administrateur ou un animateur ? Donner leurs la possibilité de gérer vos serveurs , nous avons mis en place un système de permisison pour leur donner uniquement ce dont ils ont besoins !";
+    $SELECT_CARD_1_TITLE = "Masz ekipe ?";
+    $SELECT_CARD_1_DESC = "Posiadasz Community Managera, a może administratora albo animatora ? Daj im możliwość zarządzania serwerem , daliśmy życie systemowi uprawnieńby im dać jedynie to czego potrzebują !";
 
     // AFFICHAGE DES SERVEURS
-	$SELECT_SERVERS_NEED_ACTIVATE = "ACTIVER CE SERVEUR";
-	$SELECT_SERVERS_COG = "CONFIGURER CE SERVEUR";
-    $SELECT_SERVERS_BAN = "SERVEUR SUSPENDU";
+	$SELECT_SERVERS_NEED_ACTIVATE = "AKTYWUJ SERWER";
+	$SELECT_SERVERS_COG = "ZKONFIGURUJ SERWER";
+    $SELECT_SERVERS_BAN = "SERWER ZAWIESZONY";
     $SELECT_SERVERS_BAN_1 = "Nazwa";
     $SELECT_SERVERS_BAN_2 = "Typ";
     $SELECT_SERVERS_BAN_3 = "Powód";
@@ -14,23 +14,23 @@
     $SELECT_SERVERS_BAN_5 = "Długość";
     $SELECT_SERVERS_BAN_6 = "Data zakończenia";
     $SELECT_SERVERS_BAN_CLOSE = "Zamknij";
-    $SELECT_SERVERS_BAN_APPEL = "Faire appel";
+    $SELECT_SERVERS_BAN_APPEL = "Zaapeluj";
 
     // AFFICHAGE DES SERVEURS
-	$SELECT_SERVERS_NEED_ACTIVATE = "ACTIVER CE SERVEUR";
-	$SELECT_SERVERS_COG = "CONFIGURER CE SERVEUR";
-    $SELECT_SERVERS_BAN = "SERVEUR SUSPENDU";
+	$SELECT_SERVERS_NEED_ACTIVATE = "AKTYWUJ SERWER";
+	$SELECT_SERVERS_COG = "ZKONFIGURUJ SERWER";
+    $SELECT_SERVERS_BAN = "SERWER ZAWIESZONY";
     
     // NO SERVER, SRY
-    $SELECT_CARD_2_TITLE = "TU N’AS AUCUN SERVEUR SUR TON COMPTE DISCORD ...";
-    $SELECT_CARD_2_DESC = "Mais ne t’inquiète pas, on te propose à la place de consulter tes statistiques et de configurer ta fiche utilisateur, c’est sympa pour montrer comment tu es actif sur tes serveurs favoris !";
-    $SELECT_CARD_2_BUTTON = "REJOINDRE NOTRE COMMUNAUTÉ";
+    $SELECT_CARD_2_TITLE = "NIE POSIADASZ ŻADNEGO SERWERA NA SWOIM KONCIE DISCORD ...";
+    $SELECT_CARD_2_DESC = "Ale się nie martw, proponujemy ci zamiast tego skonsultować swoje statystyki i skonfigurować swój profil użytkownika, fajnie jest pokazać jak jesteś aktywny na swoich ulubionych serwerach !";
+    $SELECT_CARD_2_BUTTON = "DOŁĄCZ DO NASZEJ SPOŁECZNOŚCI";
 
     // MODAL ADD BOT
-	$SELECT_MODAL_TITLE = "Souhaitez-vous ajouter notre bot ?";
-	$SELECT_MODAL_DESC = "Découvrer la puissance de voter depuis notre bot, de pouvoir (ré)générer une invitation en une seule commande ! <a href=\"https://status.watchbot.app/bot/620276319703269386\" target=\"blank\" style=\"margin-left: -10px;\"><img class=\"mt-3\" src=\"https://api.watchbot.app/bot/620276319703269386/widget?theme=dark\" alt=\"DISCORDTOP#6394\" /></a>";
-	$SELECT_MODAL_BUTTON_CONFIRM = "AJOUTER LE BOT";
-	$SELECT_MODAL_BUTTON_CANCEL = "NON, MERCI !";
-	$SELECT_MODAL_FOOTER = "<a href=\"https://discord.gg/zyjVqasJ8b\">Discuter avec notre communauté pour avoir leurs avis !</a>";
+	$SELECT_MODAL_TITLE = "Czy chcesz dodać naszego bota ?";
+	$SELECT_MODAL_DESC = "Odkryj moc głosowania z bota, i możliwości (zre)generowania zaproszenia jedną komendą ! <a href=\"https://status.watchbot.app/bot/620276319703269386\" target=\"blank\" style=\"margin-left: -10px;\"><img class=\"mt-3\" src=\"https://api.watchbot.app/bot/620276319703269386/widget?theme=dark\" alt=\"DISCORDTOP#6394\" /></a>";
+	$SELECT_MODAL_BUTTON_CONFIRM = "DODAJ BOTA";
+	$SELECT_MODAL_BUTTON_CANCEL = "NIE, DZIĘKUJĘ !";
+	$SELECT_MODAL_FOOTER = "<a href=\"https://discord.gg/zyjVqasJ8b\">Porozmawiaj z naszą społecznością by poznać jej opinie !</a>";
 
 ?>
