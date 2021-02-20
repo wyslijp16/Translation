@@ -82,10 +82,10 @@
 	// Le modal dans lequel vous entrez votre pseudo pour voter !
 	$S_MODAL_PSEUDO_TITLE = "Wybierz nazwę !";
 	$S_MODAL_PSEUDO_NOSPECIALCHARS = "Nazwa (Bez Znaków Specjalnych !)";
-	$S_MODAL_PSEUDO_REMEMBER = "Pamiętać o mnie !";
+	$S_MODAL_PSEUDO_REMEMBER = "Pamiętaj o mnie !";
 
 	// Le modal dans lequel vous envoyez votre avis !
-	$S_MODAL_REVIEW_TITLE = "Wysłać opinie !";
+	$S_MODAL_REVIEW_TITLE = "Wyślij opinie !";
 	$S_MODAL_REVIEW_NOTATION = "Ocena";
 	$S_MODAL_REVIEW_COMMENT = "Komentarz";
 	$S_MODAL_REVIEW_SEND = "Wyślij";
@@ -93,15 +93,15 @@
 	// SIGNALS
 
 	$S_BUTTON_SIGNAL = "Zgłoś ten serwer !";
-	$S_SIGNAL_WARNING = "Attention, DiscordTop ne peux pas bannir un compte Discord ni supprimer un serveur Discord. Nous agissons uniquement sur notre plateforme !<br>Pour tout problème lié à l'application Discord, merci de contacter <a href='https://support.discord.com/hc/en-us/requests/new'>le support de l'application Discord</a> !";
-	$S_SIGNAL_TITLE = "Type d'incident";
-	$S_SIGNAL_CONTENT_1 = "invitation Invalide";
-	$S_SIGNAL_CONTENT_2 = "Contenu Dangereux";
-	$S_SIGNAL_CONTENT_3 = "Contenu NSW sans avertissement !";
-	$S_SIGNAL_CONTENT_4 = "Suspicion de ForceVote/FakeVote";
-	$S_SIGNAL_CONTENT_5 = "Harcèlement ou spam";
-	$S_SIGNAL_CONTENT_6 = "Giveaway frauduleux (via DiscordTop !!)";
-	$S_SIGNAL_CONTENT_7 = "Autre contenu ne respectant pas notre charte";
-	$S_SIGNAL_SCREENS = "Un mot à rajouter, ou des preuves ?";
-	$S_SIGNAL_SEND = "Envoyer mon report !";
+	$S_SIGNAL_WARNING = "Uwaga, DiscordTop nie może zbanować konta Discord ani usunąć serwera Discord. Działamy tylko na naszej platwormie !<br>W przypadku jakichkolwiek problemów powiązanych z Discord, proszę się zkontaktować z <a href='https://support.discord.com/hc/en-us/requests/new'>supportem Discord</a> !";
+	$S_SIGNAL_TITLE = "Typ incydentu";
+	$S_SIGNAL_CONTENT_1 = "Nieprawidłowe Zaproszenie";
+	$S_SIGNAL_CONTENT_2 = "Niebezpieczne Treści";
+	$S_SIGNAL_CONTENT_3 = "Treści NSFW bez ostrzeżenia !";
+	$S_SIGNAL_CONTENT_4 = "Podejrzewanie Głosowania na Siłe/Fałszywych Głosów";
+	$S_SIGNAL_CONTENT_5 = "Nękanie lub spam";
+	$S_SIGNAL_CONTENT_6 = "Fałszywe giveaway (przez DiscordTop !!)";
+	$S_SIGNAL_CONTENT_7 = "Inna treść która nie respektuje naszego regulaminu";
+	$S_SIGNAL_SCREENS = "Słowo do dodania lub dowody ?";
+	$S_SIGNAL_SEND = "Wyślij moje zgłoszenie !";
 ?>
