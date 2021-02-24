@@ -1,12 +1,12 @@
 <?php
 
-    $TITLE = "Votre abonnement expire dans 7 jours !";
-    $P1 = "😭 Oh non ! Attention, votre abonnement \"%tier%\" se termine dans une semaine, ce serait dommage de perdre votre avantage. N'arrive pas trop tard, on ne sait jamais!";
-    $P2 = "N'oubliez pas de renouveler l'abonnement avant la son expiration !";
-    $BUTTON = "LET'S GO ! 🏃";
+    $TITLE = "Twój abonament dobiegnie końca za 7 dni !";
+    $P1 = "😭 O nie ! Uwaga, twój abonament \"%tier%\" dobiegnie końca za tydzień, było by bardzo smutno stracić swoje przywileje. Nie spóźnij się, nigdy nie wiadomo !";
+    $P2 = "Nie zapomnij o odnowieniu przed końcem !";
+    $BUTTON = "LECIMY ! 🏃";
 
-    $FOOTER_TITLE = "Besoin d'aide ?";
-    $FOOTER_DESC = "Nous sommes là, prêt à t'aider !";
+    $FOOTER_TITLE = "Potrzebna pomoc ?";
+    $FOOTER_DESC = "Jesteśmy ty, by ci pomóc !";
 
 
 ?>
