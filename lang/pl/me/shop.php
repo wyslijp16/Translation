@@ -3,18 +3,18 @@
 	$SHOP_NAME = "Market";
 	$SHOP_MONEY_NAME = "CASH";
 
-	$SHOP_MENU_RETURN_TO_HOME = "Retourner à l'accueil";
-	$SHOP_MENU_SUB_SELECTED = "Serveur selectionné";
-	$SHOP_MENU_GIVE_A_GIFT = "You want offer a gift ?";
+	$SHOP_MENU_RETURN_TO_HOME = "Wróć do strony głównej";
+	$SHOP_MENU_SUB_SELECTED = "Wybrany serwer";
+	$SHOP_MENU_GIVE_A_GIFT = "Chcesz zrobić prezent ?";
 	$SHOP_MENU_GIVE_A_GIFT_TITLE = "Choose a Discord Server ID<";
-	$SHOP_MENU_SHOP = "Boutique";
-	$SHOP_MENU_SUB_MORE_CASH = "Plus de cash";
+	$SHOP_MENU_SHOP = "Sklep";
+	$SHOP_MENU_SUB_MORE_CASH = "Więcej cash";
 	$SHOP_MENU_DEDIPASS = "Dédipass";
-	$SHOP_MENU_GFITCODE = "Code cadeau";
+	$SHOP_MENU_GFITCODE = "Kod prezentowy";
 
-	$SHOP_TIME_LIFETIME = "à vie";
-	$SHOP_TIME_YEAR = "par an";
-	$SHOP_TIME_WEEKLY = "par semaine";
+	$SHOP_TIME_LIFETIME = "na zawsze";
+	$SHOP_TIME_YEAR = "co rok";
+	$SHOP_TIME_WEEKLY = "co tydzień";
 
 	$SHOP_ALREADY_HAVE = "Déjà possédé !";
 	$SHOP_ALREADY_DONTHAVE = "Acheter cet article";
@@ -33,19 +33,19 @@
 	$SHOP_PRODUCT_DONATION_BUTTON = "Nous faire un don";
 
 
-	$SHOP_PROMO_TITLE = "Do you have a promotionnal code ?";
-	$SHOP_PROMO_NOCODE = "I DON'T YOU A CODE :'(";
-	$SHOP_PROMO_CODE = "CONFIRME MY CODE !";
+	$SHOP_PROMO_TITLE = "Posiadasz osobisty kod ?";
+	$SHOP_PROMO_NOCODE = "NIE MAM KODY :'(";
+	$SHOP_PROMO_CODE = "ZKONFIRMUJ KOD !";
 
-	$SHOP_DEDIPASS_TITLE = "More cash with Dédipass";
+	$SHOP_DEDIPASS_TITLE = "Więcej cash z Dedipass";
 
-	$SHOP_GIFTCODE_TITLE = "More CASH with Gift code";
-	$SHOP_GIFTCODE_DESC = "More CASH with Gift code";
+	$SHOP_GIFTCODE_TITLE = "Więcej CASH z Kodem Prezentowym";
+	$SHOP_GIFTCODE_DESC = "Więcej CASH z Kodem Prezentowym";
 
-	$SHOP_NOTIF_TITLE_1 = "No Money";
-	$SHOP_NOTIF_DESC_1 = "You need more CASH for buy this !";
+	$SHOP_NOTIF_TITLE_1 = "Brak Cash";
+	$SHOP_NOTIF_DESC_1 = "Musisz posiadać więcej CASH by to kupić !";
 
-	$SHOP_NOTIF_TITLE_2 = "Why..? Just why ?";
+	$SHOP_NOTIF_TITLE_2 = "Czemu..? Poprostu czemu ?";
 	$SHOP_NOTIF_DESC_2 = "You already have this item ... If you purchase a duplicate item, you will not be refunded !";
 
 	$SHOP_NOTIF_TITLE_3 = "Confirmation of Purchase !!";
