@@ -1,12 +1,12 @@
 <?php
 
-    $TITLE = "Votre abonnement vient d'expiré !";
+    $TITLE = "Twój abonament wygasł !";
     $P1 = "🤧 Nous sommes au regret de devoir vous annoncez que votre abonnement pour \"%tier%\" vient d'expiré, et malgré nos relances, vous n'avez pas renouveler votre abonnement et nous en sommes si triste. Cependant, vous pouvez toujours vous ré-abonnez depuis notre boutique !";
-    $P2 = "Nous sommes désolé de vous voir partir...";
-    $BUTTON = "C'EST UNE ERREUR ! 😱";
+    $P2 = "Jesteśmy nieszczęślwi widząc że odchodzisz...";
+    $BUTTON = "TO BŁĄD ! 😱";
 
-    $FOOTER_TITLE = "Besoin d'aide ?";
-    $FOOTER_DESC = "Nous sommes là, prêt à t'aider !";
+    $FOOTER_TITLE = "Potrzebna pomoc ?";
+    $FOOTER_DESC = "Jesteśmy tu, gotowi by ci pomóc !";
 
 
 ?>
