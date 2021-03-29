@@ -1,6 +1,6 @@
 <?php
 
-	$SHOP_NAME = "Market";
+	$SHOP_NAME = "Sklep";
 	$SHOP_MONEY_NAME = "CASH";
 
 	$SHOP_MENU_RETURN_TO_HOME = "Wróć do strony głównej";
@@ -16,8 +16,8 @@
 	$SHOP_TIME_YEAR = "co rok";
 	$SHOP_TIME_WEEKLY = "co tydzień";
 
-	$SHOP_ALREADY_HAVE = "Déjà possédé !";
-	$SHOP_ALREADY_DONTHAVE = "Acheter cet article";
+	$SHOP_ALREADY_HAVE = "Już posiadane !";
+	$SHOP_ALREADY_DONTHAVE = "Kup ten produkt";
 	$SHOP_ALREADY_INPROGRESS = "Renouveler l'achat";
 
 
@@ -34,10 +34,10 @@
 
 
 	$SHOP_PROMO_TITLE = "Posiadasz osobisty kod ?";
-	$SHOP_PROMO_NOCODE = "NIE MAM KODY :'(";
+	$SHOP_PROMO_NOCODE = "NIE MAM KODU :'(";
 	$SHOP_PROMO_CODE = "ZKONFIRMUJ KOD !";
 
-	$SHOP_DEDIPASS_TITLE = "Więcej cash z Dedipass";
+	$SHOP_DEDIPASS_TITLE = "Więcej CASH z Dedipass";
 
 	$SHOP_GIFTCODE_TITLE = "Więcej CASH z Kodem Prezentowym";
 	$SHOP_GIFTCODE_DESC = "Więcej CASH z Kodem Prezentowym";
@@ -46,7 +46,7 @@
 	$SHOP_NOTIF_DESC_1 = "Musisz posiadać więcej CASH by to kupić !";
 
 	$SHOP_NOTIF_TITLE_2 = "Czemu..? Poprostu czemu ?";
-	$SHOP_NOTIF_DESC_2 = "You already have this item ... If you purchase a duplicate item, you will not be refunded !";
+	$SHOP_NOTIF_DESC_2 = "Już posiadasz ten produkt ... Jeżeli kupisz podwójnie produkt, nie dostaniesz zwrotu !";
 
 	$SHOP_NOTIF_TITLE_3 = "Confirmation of Purchase !!";
 	$SHOP_NOTIF_DESC_3 = "Your purchase has just been launched !";
