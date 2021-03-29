@@ -8,7 +8,7 @@
     $SERVER_MENU_SELECTED_SERVER = "Wybrany serwer";
     $SERVER_MENU_SERVER_TITLE = "USTAWIENIA SERWERA";
     $SERVER_MENU_HOME = "STRONA GŁÓWNA";
-    $SERVER_MENU_SETTINGS = "KONFIGURACJE";
+    $SERVER_MENU_SETTINGS = "KONFIGURACJA";
     $SERVER_MENU_STATS = "STATYSTYKI";
     $SERVER_MENU_HISTORY = "HISTORIA GŁOSÓW";
     $SERVER_MENU_GIVEAWAY = "GIVEAWAYS";
@@ -40,11 +40,11 @@
     $SERVER_HOME_CARD_3_TITLE = "CHCESZ WIĘCEJ WIDOCZNOŚCI?";
     $SERVER_HOME_CARD_3_DESC = "Kup boost za 3 990 CASH, zaoszczędź - 10% z tym kodem";
 
-    $SERVER_HOME_CARD_4_TITLE = "COMPLETE YOUR INFORMATION !";
-    $SERVER_HOME_CARD_4_DESC = "It is essential to regularly check the information on your server !";
+    $SERVER_HOME_CARD_4_TITLE = "UZUPEŁNIJ DANE SERWERA !";
+    $SERVER_HOME_CARD_4_DESC = "Istotne jest, aby regularnie sprawdzać informacje o swoim serwerze !";
 
 
-    $SERVER_HOME_MENU_1_TITLE = "SETTINGS";
+    $SERVER_HOME_MENU_1_TITLE = "USTAWIENIA";
     $SERVER_HOME_MENU_1_DESC = "You can modify your server and put, for example, a description to it to make our visitors want to join your server !";
 
     $SERVER_HOME_MENU_2_TITLE = "STATISTICS";
