@@ -45,16 +45,16 @@
 
 
     $SERVER_HOME_MENU_1_TITLE = "USTAWIENIA";
-    $SERVER_HOME_MENU_1_DESC = "You can modify your server and put, for example, a description to it to make our visitors want to join your server !";
+    $SERVER_HOME_MENU_1_DESC = "Możesz zmodyfikować serwer i umieścić, na przykład, jego opis aby nasi odwiedzający chcieli dołączyć na wasz serwer !";
 
-    $SERVER_HOME_MENU_2_TITLE = "STATISTICS";
-    $SERVER_HOME_MENU_2_DESC = "Check your server performance and see your statistics increase! Be careful, the magic does not happen without the help of your community !";
+    $SERVER_HOME_MENU_2_TITLE = "STATYSTYKI";
+    $SERVER_HOME_MENU_2_DESC = "Sprawdź wydajność swojego serwera i zobacz swoje rosnące statystyki! Bądź ostrożny/a, magia nie stanie się bez pomocy twojej społeczności !";
 
-    $SERVER_HOME_MENU_3_TITLE = "LEVEL";
-    $SERVER_HOME_MENU_3_DESC = "The more your level increases, the more your server will unlock new features! We regularly add new functionality only accessible with the level of your servers !";
+    $SERVER_HOME_MENU_3_TITLE = "POZIOM";
+    $SERVER_HOME_MENU_3_DESC = "Im bardziej wzrasta twój poziom, tym bardziej twój serwer odblokuje nowe funkcje! Regularnie dodajemy nowe funkcje dostępne tylko według poziomu waszych serwerów !";
 
-    $SERVER_HOME_MENU_4_TITLE = "QUEST";
-    $SERVER_HOME_MENU_4_DESC = "Nothing better than quests to motivate the troops ! Clearly set goals and rewards for your server !";
+    $SERVER_HOME_MENU_4_TITLE = "ZADANIA";
+    $SERVER_HOME_MENU_4_DESC = "Nic lepszego niż zadania by zmotywować jednostki ! Clearly set goals and rewards for your server !";
 
     $SERVER_HOME_MENU_5_TITLE = "GIVEAWAY";
     $SERVER_HOME_MENU_5_DESC = "A giveaway system to reward your voters, make your voters want to vote regularly by regularly offering contests !";
