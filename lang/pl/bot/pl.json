@@ -1,6 +1,6 @@
 {
-    "english": {
-        "lang": "EN",
+    "polish": {
+        "lang": "PL",
         "on_guild_join": "INSJATACJA BOTA",
         "help": {
             "title": "PANEL POMOCY - BOT DISCORDTOP.ORG",
