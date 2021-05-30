@@ -21,7 +21,7 @@
 
     $KNOW_TITLE = "Czy wiedziałeś/aś ? 🤷‍♂️";
     $KNOW_DESC = "Chcesz podkreślić świeżo zakupione zalety swojego serwera ? Z twoim zakupem, możesz zyskać rangę Klient i rangę Discord Owner które dadzą ci dostęp do kanału reklamowego ! ";
-    $KNOW_BUTTON = "Rejoindre notre Discord !";
+    $KNOW_BUTTON = "Dołącz do nas na Discord !";
 
     $FOOTER_TITLE = "Potrzebna pomoce ?";
     $FOOTER_DESC = "Jesteśmy tu, gotowi by ci pomóc !";
