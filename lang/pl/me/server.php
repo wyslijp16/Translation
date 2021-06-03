@@ -57,43 +57,43 @@
     $SERVER_HOME_MENU_4_DESC = "Nic lepszego niż zadania by zmotywować jednostki ! Clearly set goals and rewards for your server !";
 
     $SERVER_HOME_MENU_5_TITLE = "GIVEAWAY";
-    $SERVER_HOME_MENU_5_DESC = "A giveaway system to reward your voters, make your voters want to vote regularly by regularly offering contests !";
+    $SERVER_HOME_MENU_5_DESC = "System giveaway do nagradzania twoich głosujących, spraw aby twoi głosujący chcieli regularnie głosować poprzez regularne giveaway !";
 
-    $SERVER_HOME_MENU_6_TITLE = "History";
-    $SERVER_HOME_MENU_6_DESC = "We offer you the possibility to know your voters with a voting / boost history.";
+    $SERVER_HOME_MENU_6_TITLE = "Historia";
+    $SERVER_HOME_MENU_6_DESC = "Oferujemy możliwość poznania swoich głosujących dzięki historii głosowania/boostowania.";
 
-    $SERVER_HOME_MENU_7_TITLE = "BOT SETTINGS";
-    $SERVER_HOME_MENU_7_DESC = "You can configure some technical bot parameters from your interface, isn't that great !";
+    $SERVER_HOME_MENU_7_TITLE = "USTAWIENIA BOTA";
+    $SERVER_HOME_MENU_7_DESC = "Możesz skonfigurować niektóre ustawienia techniczne bota ze swojego swojego interfejsu, czyż to nie wspaniałe !";
 
-    $SERVER_HOME_MENU_8_TITLE = "SUB-USERS";
-    $SERVER_HOME_MENU_8_DESC = "Giving your employees the opportunity to configure this server has never been so easy !";
+    $SERVER_HOME_MENU_8_TITLE = "POD-UŻYTKOWNICY";
+    $SERVER_HOME_MENU_8_DESC = "Dawanie swoim pracownikom możliwość konfiguracji tego serwera, jeszcze nigdy nie było to tak proste!";
 
 
 
     /*-- SERVER SETTINGS PAGE --*/
 
-    $SERVER_SETTINGS_TITLE = "STATUT DU SERVEUR";
+    $SERVER_SETTINGS_TITLE = "STATUS SERWERA";
 
-    $SERVER_SETTINGS_CARD_1_TITLE = "Nouveau nom/logo? Il n'a pas changer ?";
-    $SERVER_SETTINGS_CARD_1_DESC = "Essayer de vous déconnectez/reconnectez, ça permet de mettre à jour les informations tranquillement !";
+    $SERVER_SETTINGS_CARD_1_TITLE = "Nowa nazwa/logo? Nie zmieniło się ?";
+    $SERVER_SETTINGS_CARD_1_DESC = "Spróbuj się wylogować/zalogować, pozwoli ci to spokojnie zaaktualizować informacje !";
 
-    $SERVER_SETTINGS_CARD_2_TITLE = "Nous avons remarquer que vous n'utilisiez pas notre bot ..";
-    $SERVER_SETTINGS_CARD_2_DESC = "Saviez-vous que notre bot vous permet de mettre en avant votre serveur toutes les heures gratuitement ?";
-    $SERVER_SETTINGS_CARD_2_BUTTON = "AJOUTER LE BOT";
+    $SERVER_SETTINGS_CARD_2_TITLE = "Zauważyliśmy że jeszcze nie masz bota ..";
+    $SERVER_SETTINGS_CARD_2_DESC = "Czy wiedziałeś że nasz bot ci pozwala wysunąć swojój serwer za darmo co godzine ?";
+    $SERVER_SETTINGS_CARD_2_BUTTON = "DODAJ BOTA";
 
-    $SERVER_SETTINGS_CARD_3_COG = "Configuration";
+    $SERVER_SETTINGS_CARD_3_COG = "Konfiguracja";
 
-    $SERVER_SETTINGS_CARD_3_TITLE = "Type";
-    $SERVER_SETTINGS_CARD_3_DESC = "Veuillez noter que les sociétés/associations sont considérés comme une communauté. Cependant, des prochaines mises à jours permettront d'avoir des avantages propres à chaque type de serveur.";
-    $SERVER_SETTINGS_3_1 = "Communautaire";
-    $SERVER_SETTINGS_3_2 = "Jeux";
-    $SERVER_SETTINGS_3_3 = "Publicitaire";
+    $SERVER_SETTINGS_CARD_3_TITLE = "Typ";
+    $SERVER_SETTINGS_CARD_3_DESC = "Proszę zanotować że firmy/stowarzyszenia są uważane za społeczności. Jednakże, w następne aktualizacje będą pozwalać na własne zalety dla każdego typu serwera.";
+    $SERVER_SETTINGS_3_1 = "Społeczność";
+    $SERVER_SETTINGS_3_2 = "Gry";
+    $SERVER_SETTINGS_3_3 = "Reklamy";
     $SERVER_SETTINGS_3_4 = "Bot";
     $SERVER_SETTINGS_3_5 = "RolePlay";
-    $SERVER_SETTINGS_3_6 = "WebSite";
-    $SERVER_SETTINGS_3_7 = "Autre";
+    $SERVER_SETTINGS_3_6 = "Strony";
+    $SERVER_SETTINGS_3_7 = "Inne";
 
-    $SERVER_SETTINGS_CARD_4_TITLE = "Tags";
+    $SERVER_SETTINGS_CARD_4_TITLE = "Tagi";
     $SERVER_SETTINGS_CARD_4_DESC = "Ajouter quelques étiquettes de serveur vous permettra d'être plus facilement trouvable sur notre moteur de recherche, mais seulement le notre, ils seront utilisés pour votre référencement Google !";
 
     $SERVER_SETTINGS_CARD_5_TITLE = "Invitation";
