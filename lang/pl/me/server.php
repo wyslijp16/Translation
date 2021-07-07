@@ -94,13 +94,13 @@
     $SERVER_SETTINGS_3_7 = "Inne";
 
     $SERVER_SETTINGS_CARD_4_TITLE = "Tagi";
-    $SERVER_SETTINGS_CARD_4_DESC = "Ajouter quelques étiquettes de serveur vous permettra d'être plus facilement trouvable sur notre moteur de recherche, mais seulement le notre, ils seront utilisés pour votre référencement Google !";
+    $SERVER_SETTINGS_CARD_4_DESC = "Dodanie kilku tagów serwera pozwoli ci być łatwiejszym do znalezienia w naszej wyszukiwarce, ale nie tylko w naszej, zostaną one także użyte do referencjii Google !";
 
-    $SERVER_SETTINGS_CARD_5_TITLE = "Invitation";
-    $SERVER_SETTINGS_CARD_5_DESC = "Si vous avez ajouter le bot, il est normal que vous ne puissiez pas modifier l'invitation !";
+    $SERVER_SETTINGS_CARD_5_TITLE = "Zaproszenie";
+    $SERVER_SETTINGS_CARD_5_DESC = "Jeżeli masz bota, normalne jest że nie możesz zmienić zaproszenia !";
 
-    $SERVER_SETTINGS_CARD_6_TITLE = "Langue";
-    $SERVER_SETTINGS_CARD_6_DESC = "Par défaut, le serveur a la même langue que votre compte. Vous pouvez le modifier ici mais également depuis le bot !";
+    $SERVER_SETTINGS_CARD_6_TITLE = "Język";
+    $SERVER_SETTINGS_CARD_6_DESC = "Domyślnie, serwer ma ten sam język jak twoje konto. Możesz go tutaj zmienić ale także botem !";
 
     $SERVER_SETTINGS_CARD_7_TITLE = "Méthode de Vote";
     $SERVER_SETTINGS_CARD_7_DESC = "Si vous préférez qu'il ne soit pas nécessaire d'être inscrit pour voter, à vous de voir ! Cependant, vous ne pourrez plus voter via le bot !<br><i style=\"font-size: 10px;\">(Oui : Connexion nécessaire)</i>";
