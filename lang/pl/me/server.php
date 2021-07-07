@@ -102,7 +102,7 @@
     $SERVER_SETTINGS_CARD_6_TITLE = "Język";
     $SERVER_SETTINGS_CARD_6_DESC = "Domyślnie, serwer ma ten sam język jak twoje konto. Możesz go tutaj zmienić ale także botem !";
 
-    $SERVER_SETTINGS_CARD_7_TITLE = "Méthode de Vote";
+    $SERVER_SETTINGS_CARD_7_TITLE = "Tryb Głosowania";
     $SERVER_SETTINGS_CARD_7_DESC = "Si vous préférez qu'il ne soit pas nécessaire d'être inscrit pour voter, à vous de voir ! Cependant, vous ne pourrez plus voter via le bot !<br><i style=\"font-size: 10px;\">(Oui : Connexion nécessaire)</i>";
 
     $SERVER_SETTINGS_CARD_8_TITLE = "Recevoir des avis";
