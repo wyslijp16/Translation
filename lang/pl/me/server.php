@@ -103,10 +103,10 @@
     $SERVER_SETTINGS_CARD_6_DESC = "Domyślnie, serwer ma ten sam język jak twoje konto. Możesz go tutaj zmienić ale także botem !";
 
     $SERVER_SETTINGS_CARD_7_TITLE = "Tryb Głosowania";
-    $SERVER_SETTINGS_CARD_7_DESC = "Si vous préférez qu'il ne soit pas nécessaire d'être inscrit pour voter, à vous de voir ! Cependant, vous ne pourrez plus voter via le bot !<br><i style=\"font-size: 10px;\">(Oui : Connexion nécessaire)</i>";
+    $SERVER_SETTINGS_CARD_7_DESC = "Jeśli wolisz aby nie trzeba było być zarejestrowany, aby głosować, to twój wybór ! Jednak nie będziesz już mógł głosować przez bota ! <br><i style=\"font-size: 10px;\">(Tak : Wymagane logowanie)</i>.";
 
-    $SERVER_SETTINGS_CARD_8_TITLE = "Recevoir des avis";
-    $SERVER_SETTINGS_CARD_8_DESC = "Vous souhaitez donner la parole à vos membres, quel bonne idée ! Sachez que notre équipe vérifie tous les commentaires avant de les publiés !";
+    $SERVER_SETTINGS_CARD_8_TITLE = "Otrzymywanie ocen";
+    $SERVER_SETTINGS_CARD_8_DESC = "Chiałbyś dać swoim członkom głos, ale dobry pomysł ! Sachez que notre équipe vérifie tous les commentaires avant de les publiés !";
 
     $SERVER_SETTINGS_CARD_9_TITLE = "Webhook";
     $SERVER_SETTINGS_CARD_9_LOCKED = "Unlock to Level 20 !";
@@ -116,13 +116,13 @@
     $SERVER_SETTINGS_CARD_10_LOCKED = "Unlock this for 24 990 <sup>CASH</sup> and have access to this for lifetime !";
     $SERVER_SETTINGS_CARD_10_DESC = "Marre de devoir retenir votre lien de vote ? Utilisez donc nos liens personnalisés ! <i>Example : https://dtop.fr/dt</i> !<br>Votre lien actuel :";
 
-    $SERVER_SETTINGS_CARD_11_TITLE = "Description courte";
+    $SERVER_SETTINGS_CARD_11_TITLE = "Krótki opis";
     $SERVER_SETTINGS_CARD_11_DESC = "Vous avez 255 caractères pour décrire votre serveur, cette description sera utilisé pour votre référencement sur DiscordTop mais également sur Google !";
 
-    $SERVER_SETTINGS_CARD_12_TITLE = "Description";
+    $SERVER_SETTINGS_CARD_12_TITLE = "Opis";
     $SERVER_SETTINGS_CARD_12_DESC = "Profitez un peu pour vous amusez, et décrivez votre serveur dans ces moindres détails ! Tous ce que l'on vous demandez, c'est de respecter notre charte !";
 
-    $SERVER_SETTINGS_DELETE_BUTTON = "Supprimer ce serveur !";
+    $SERVER_SETTINGS_DELETE_BUTTON = "Usuń ten serwer !";
 
 
 
